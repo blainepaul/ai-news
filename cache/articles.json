@@ -1,5 +1,165 @@
 [
   {
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24T15:51:49+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+    "summary": "Learn the architecture and design decisions behind an explainable next-best-product recommendation system for banking, built with Amazon SageMaker AI and PyTorch. A multi-tower neural network with learned attention delivers accurate, per-customer recommendations while providing the explainability that banking regulators require.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-24T15:42:11+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+    "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching, connect the OpenAI Codex coding agent, and plan for quotas and scaling.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-24T15:40:08+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24T15:13:57+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Midjourney acquired the astrology app Co-Star",
+    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+    "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24T15:09:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi",
+    "summary": "A coalition of technology companies led by Nvidia Corp. and Microsoft Corp. called on policymakers to promote the development of open-weight artificial intelligence models, positioning it as key to ensuring the US maintains technological leadership.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-24T14:59:51+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "The tech-broification of American science has officially begun",
+    "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+    "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
+    "source": "The Verge AI",
+    "date": "2026-07-24T10:43:55-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "La Cina costruisce la sua rete globale per l’AI: ecco il Waico",
+    "url": "https://www.agendadigitale.eu/infrastrutture/la-cina-costruisce-la-sua-rete-globale-per-lai-ecco-il-waico/",
+    "summary": "La Cina usa la conferenza di Shanghai per estendere la competizione sull’intelligenza artificiale. Non solo più sulle prestazioni dei modelli ma anche capacità di distribuirli, puntando su infrastrutture, formazione e cooperazione con i Paesi emergenti L'articolo La Cina costruisce la sua rete globale per l’AI: ecco il Waico proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-24T14:40:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "AI Startup Midjourney Buys Astrology App Co-Star and is Building Its Own Apps",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps",
+    "summary": "Artificial intelligence lab Midjourney Inc. has bought the popular astrology app Co-Star and is building its first standalone image-generation app, the startup’s latest moves to push into new business areas after promising an ambitious expansion last month.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-24T14:30:20+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+    "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+    "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24T14:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24T13:36:42+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "AI agentica, la nuova frattura del lavoro che sfugge alle previsioni",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-agentica-la-nuova-frattura-del-lavoro-che-sfugge-alle-previsioni/",
+    "summary": "L’AI agentica apre una fase nuova per lavoro, produttività e modelli previsionali. Dalle infrastrutture di calcolo alla filiera dei chip, fino agli agenti di IA in fabbrica, cambia il modo di misurare occupazione, competenze e politiche di intervento L'articolo AI agentica, la nuova frattura del lavoro che sfugge alle previsioni proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-24T12:13:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "L’AI non vale nulla senza i dati giusti: la sfida che molte aziende stanno ignorando",
+    "url": "https://www.agendadigitale.eu/industry-4-0/lai-non-vale-nulla-senza-i-dati-giusti-la-sfida-che-molte-aziende-stanno-ignorando/",
+    "summary": "La competizione sull’intelligenza artificiale non si decide solo sui modelli, sempre più accessibili e simili tra loro. Il vero vantaggio riguarda la capacità di attivare i dati: renderli affidabili, sicuri, governati e utilizzabili su scala industriale da imprese e sistemi pubblici L'articolo L’AI non vale nulla senza i dati giusti: la sfida che molte aziende stanno ignorando proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-24T11:55:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Verizon Beats on Wireless, Internet Revenue Amid Turnaround",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/verizon-beats-on-wireless-internet-revenue-amid-turnaround",
+    "summary": "Verizon Communications Inc. reported second-quarter earnings that beat analysts’ estimates and raised its forecast for the year as Chief Executive Officer Dan Schulman is beginning to see results from his aggressive turnaround plan and laid out a strategy to tap into the artificial intelligence infrastructure boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-24T11:00:27+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
+    "url": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
+    "summary": "If you’re tired of sponsored and AI-summarized search results, Kagi gives you a curated—and human-centric—way to find what you’re looking for.",
+    "source": "Wired",
+    "date": "2026-07-24T09:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "SoftBank Weighs Deal for Robotics Startup Gravis",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis",
+    "summary": "SoftBank Group Corp. is considering an acquisition of Gravis Robotics AG, people familiar with the matter said, as the Japanese investor targets the artificial intelligence technologies underpinning robotics.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-24T08:45:39+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-24"
+  },
+  {
     "title": "Parlare con un chatbot non è terapia: il nodo etico dell’IA nella salute mentale",
     "url": "https://www.agendadigitale.eu/cultura-digitale/parlare-con-un-chatbot-non-e-terapia-il-nodo-etico-dellia-nella-salute-mentale/",
     "summary": "I chatbot basati su IA sono sempre più usati per confidarsi e cercare aiuto psicologico. Ma la loro tendenza ad assecondare l’utente può rafforzare fragilità, bias e idee pericolose, aprendo interrogativi clinici, etici e normativi L'articolo Parlare con un chatbot non è terapia: il nodo etico dell’IA nella salute mentale proviene da Agenda Digitale .",
@@ -2378,175 +2538,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "Meta in Talks to Sell Computing Power to Anthropic",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
-    "summary": "Meta Platforms Inc. is in early discussions to lease computing power from its data centers to Anthropic PBC, according to people familiar with the matter, an opportunity for the social media giant to build a new business around its heavy investment in AI infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T16:40:15+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "How Smartsheet built a remote MCP server on AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
-    "summary": "In this post, we cover a high-level view of the Smartsheet remote MCP architecture, with a focus on the AWS infrastructure behind it. This includes security, governance, scaling and deployment, and the AI-specific optimizations Smartsheet built on AWS.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-17T16:32:06+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-    "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-    "summary": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total doesn’t answer the key question any hospital executive wants to know about healthcare AI: does […] The post Bunkerhill raises $55M to scale agentic AI across health systems appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-17T16:00:30+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-07-17T15:57:54+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17T15:21:17+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads – a Key Metric for Agentic AI",
-    "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-    "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-17T15:00:14+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Spie russe e talpe, ecco perché proteggere infrastrutture e sistemi è la priorità",
-    "url": "https://www.agendadigitale.eu/sicurezza/spie-russe-e-talpe-ecco-perche-proteggere-infrastrutture-e-sistemi-e-la-priorita/",
-    "summary": "Lo spionaggio russo in Italia torna al centro dell’attenzione dopo l’arresto di due ex membri del comparto intelligence nazionale e la conseguente indagine su una rete accusata di aver raccolto e venduto informazioni riservate su Difesa, infrastrutture critiche e tecnologie militari L'articolo Spie russe e talpe, ecco perché proteggere infrastrutture e sistemi è la priorità proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T14:20:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
-    "summary": "ASML Holding NV will give employees globally a one-time €20,000 ($22,862) bonus, joining other firms in the chip industry to offer payouts as artificial intelligence demand fuels record sales.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T14:16:59+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Un registro europeo delle opere per proteggerle dall’intelligenza artificiale",
-    "url": "https://www.agendadigitale.eu/documenti/copyright-e-ai-perche-la-commissione-ue-studia-un-registro-delle-opere/",
-    "summary": "Il registro opt-out TDM AI è al centro del confronto europeo sul rapporto tra copyright, opere protette e addestramento dei modelli di intelligenza artificiale. La proposta della Commissione UE punta a rendere più chiara e verificabile la riserva dei diritti L'articolo Un registro europeo delle opere per proteggerle dall’intelligenza artificiale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-    "url": "https://www.wired.com/story/best-smart-speakers/",
-    "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
-    "source": "Wired",
-    "date": "2026-07-17T12:01:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "AI-Based Businesses Are Diversifying and Rejecting AI Model Monogamy",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-17/ai-based-businesses-are-diversifying-and-rejecting-ai-model-monogamy",
-    "summary": "Businesses that depend on any one AI model are vulnerable, so they’re adapting",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T11:02:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Digital Markets Act, si fa sul serio: cosa insegnano le decisioni UE su Google",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/digital-markets-act-si-fa-sul-serio-cosa-insegnano-le-decisioni-ue-su-google/",
-    "summary": "La Commissione europea impone a Google nuovi obblighi su Android e Search nell’ambito del Digital Markets Act, mentre la Corte di Giustizia restringe lo scudo di responsabilità di YouTube. Sullo sfondo resta lo scontro con Apple e il nodo dell’intelligenza artificiale nei sistemi operativi L'articolo Digital Markets Act, si fa sul serio: cosa insegnano le decisioni UE su Google proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Piano d’azione cyber e AI, cosa c’è nell’agenda europea per ridurre le dipendenze",
-    "url": "https://www.agendadigitale.eu/sicurezza/piano-dazione-cyber-e-ai-cosa-ce-nellagenda-europea-per-ridurre-le-dipendenze/",
-    "summary": "Il piano d’azione europeo su cybersicurezza e intelligenza artificiale arriva in una fase cruciale per la sovranità tecnologica dell’UE. Tra AI Act, modelli di frontiera, dipendenze strategiche e investimenti, Bruxelles prova a rafforzare resilienza, accesso sicuro e capacità industriale L'articolo Piano d’azione cyber e AI, cosa c’è nell’agenda europea per ridurre le dipendenze proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T10:30:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Il lato fragile dell’AI nel marketing: reputazione, dati e responsabilità",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/il-lato-fragile-dellai-nel-marketing-reputazione-dati-e-responsabilita/",
-    "summary": "L’adozione dell’intelligenza artificiale nel marketing accelera più della governance, aumentando esposizione a bias, contenuti inesatti, dipendenza dalle piattaforme, vulnerabilità dei dati e responsabilità sugli output automatizzati. Per aziende e brand il rischio diventa strutturale, distribuito e legato all’intera filiera digitale L'articolo Il lato fragile dell’AI nel marketing: reputazione, dati e responsabilità proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T10:09:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "A scorecard for the AI age",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-    "source": "OpenAI Blog",
-    "date": "2026-07-17T10:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "L’AI non basta: le banche devono cambiare modello operativo",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/lai-non-basta-le-banche-devono-cambiare-modello-operativo/",
-    "summary": "Nel banking l’intelligenza artificiale generativa non trova il suo limite principale nella tecnologia, ma nei modelli organizzativi. Processi frammentati, sistemi non coordinati e decisioni distribuite impediscono ai progetti AI di scalare, mentre emerge l’esigenza di un modello operativo bancario più integrato L'articolo L’AI non basta: le banche devono cambiare modello operativo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T09:56:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
   }
 ]
