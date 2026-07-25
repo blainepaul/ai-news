@@ -1,5 +1,45 @@
 [
   {
+    "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+    "summary": "DeepSeek has told prospective investors in its second fundraising round that it’s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-25T14:49:55+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-25"
+  },
+  {
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-25T13:05:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-25"
+  },
+  {
+    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+    "source": "Wired",
+    "date": "2026-07-25T10:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-25"
+  },
+  {
+    "title": "Contagious Cancer Found in North American Catfish",
+    "url": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+    "summary": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
+    "source": "Wired",
+    "date": "2026-07-25T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-25"
+  },
+  {
     "title": "Samsung Inks $200 Billion Chip Supply with Broadcom",
     "url": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
     "summary": "Samsung Electronics Co. won a contract worth more than $200 billion to make chips for Broadcom Inc., as the companies race to win a larger share of the AI infrastructure market.",
@@ -2528,55 +2568,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-19"
-  },
-  {
-    "title": "Endogenous Alignment",
-    "url": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
-    "summary": "Starting when children are fairly young, usually around 1 year of age, we adults begin the work of aligning them to our values. We teach them to say “please”, not to hit, to ask for what they want instead of screaming, and much else. We do this primarily via exogenous methods, using a combination of punishments and rewards, that molds their behavior by encouraging good behaviors and discouraging bad ones. Such operant conditioning works because children have many instinctive behaviors that make ",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-18T14:10:37+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "The apps, gadgets, and tools every reader needs",
-    "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-    "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History […]",
-    "source": "The Verge AI",
-    "date": "2026-07-18T08:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
-    "summary": "At an event in Beijing earlier this year, some of China’s top artificial intelligence leaders warned that the country remained meaningfully behind the US in developing cutting-edge AI models, with one executive arguing that “the gap may actually be widening.”",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-18T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-    "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-    "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-    "source": "Wired",
-    "date": "2026-07-18T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-18"
-  },
-  {
-    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-    "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-    "source": "Wired",
-    "date": "2026-07-18T09:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-18"
   }
 ]
