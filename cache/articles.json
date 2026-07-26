@@ -1,5 +1,25 @@
 [
   {
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-26T01:30:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-26"
+  },
+  {
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-25T16:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-26"
+  },
+  {
     "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts",
     "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
     "summary": "DeepSeek has told prospective investors in its second fundraising round that it’s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
@@ -2527,46 +2547,6 @@
     "date": "2026-07-19T11:02:09+00:00",
     "category": "models_research",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-19"
-  },
-  {
-    "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
-    "url": "https://aethereos.net/static/token-atlas.html",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-07-18T22:42:20+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-19"
-  },
-  {
-    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer […]",
-    "source": "The Verge AI",
-    "date": "2026-07-18T16:54:42-04:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-19"
-  },
-  {
-    "title": "A Red Line and Oversight Framework for Government AI Contracts",
-    "url": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai",
-    "summary": "My post on leaving Google DeepMind tells a story. In contrast, this Framework is a question of mechanism design and negotiation posture. I quite enjoyed optimizing this Framework against its organizational and practical constraints. The original considerations were : Good red lines: Rule out the questionable use cases (autonomous targeting without human control, untargeted profiling) while allowing trustworthy ones like missile defense. Avoid the weaknesses flagged in legal analysis of Anthropic",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-18T18:58:31+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-19"
-  },
-  {
-    "title": "Kimi: Threat or menace?",
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-07-18T18:51:07+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-07-19"
   }
 ]
