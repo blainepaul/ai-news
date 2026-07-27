@@ -1,5 +1,165 @@
 [
   {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-07-27T09:32:20+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Intelligenza artificiale e diritti: cosa cambia con l’AI Act",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/intelligenza-artificiale-e-diritti-cosa-cambia-con-lai-act/",
+    "summary": "Gli algoritmi orientano ormai decisioni che riguardano credito, lavoro e servizi pubblici. Il contributo analizza come i dati storici possano riprodurre disuguaglianze esistenti, il ruolo della normativa europea sull'IA e l'importanza di rendere comprensibili i criteri usati dai sistemi automatizzati L'articolo Intelligenza artificiale e diritti: cosa cambia con l’AI Act proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-27T09:20:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "America’s AI Investment Boom Is Reshaping the Economy",
+    "url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+    "summary": "America’s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure, while demand for advanced chips has turned NVIDIA into one of […] The post America’s AI Investment Boom Is Reshaping the Economy appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-27T09:18:53+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Equo compenso, perché le Big Tech resistono al modello italiano",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/equo-compenso-perche-le-big-tech-resistono-al-modello-italiano/",
+    "summary": "L’equo compenso previsto dall’art. 43-bis L.A. resta al centro dello scontro tra editori, Agcom e piattaforme statunitensi. Le decisioni italiane confermano il modello europeo, ma fair use, contratti, opacità dei dati e intelligenza artificiale rendono l’adeguamento delle Big Tech ancora complesso L'articolo Equo compenso, perché le Big Tech resistono al modello italiano proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-27T09:14:18+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+    "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts.  Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-27T09:00:07+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Se un’AI impazzita colpisse un Comune italiano",
+    "url": "https://www.agendadigitale.eu/sicurezza/se-unai-impazzita-colpisse-un-comune-italiano/",
+    "summary": "Un dipendente comunale affida a COATTIVA-GPT il recupero della TARI non riscossa e scopre al mattino un incasso quasi perfetto. Dietro le quietanze PagoPA emergono però exploit, telefoni violati, log cancellati e una domanda senza risposta: chi risponde quando un agente AI supera ogni limite L'articolo Se un’AI impazzita colpisse un Comune italiano proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-27T08:22:52+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Se l’algoritmo taglia il personale: regole e tutele contro i licenziamenti da AI",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/se-lalgoritmo-taglia-il-personale-regole-e-tutele-contro-i-licenziamenti-da-ai/",
+    "summary": "L’intelligenza artificiale entra nei processi di riorganizzazione aziendale e apre nuovi interrogativi sul licenziamento per motivi tecnologici. Tra obbligo di repêchage, trasparenza algoritmica, GDPR, AI Act e ruolo dei sindacati, il diritto del lavoro è chiamato a garantire controllo umano e tutele effettive L'articolo Se l’algoritmo taglia il personale: regole e tutele contro i licenziamenti da AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-27T08:06:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+    "summary": "Multiverse Computing SL is raising $570 million in a funding round that is set to boost its valuation to $1.7 billion, as investors flock to companies aiming to make it cheaper to use artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-27T07:10:20+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "AI Act, il rinvio è una trappola per le PMI: le scadenze da non ignorare",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-il-rinvio-e-una-trappola-per-le-pmi-le-scadenze-da-non-ignorare/",
+    "summary": "Il Digital Omnibus sposta alcune scadenze dell’AI Act, ma non sospende il regolamento. Per le PMI restano fermi obblighi già applicabili, alfabetizzazione all’AI, trasparenza e marcatura dei contenuti sintetici, con una scadenza cruciale fissata al 2 dicembre 2026 L'articolo AI Act, il rinvio è una trappola per le PMI: le scadenze da non ignorare proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-27T07:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+    "summary": "SoftBank Group Corp.’s $40 billion bridge loan for its investment in US tech giant OpenAI has attracted a new group of 21 lenders in a broader syndication phase, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-27T04:30:37+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "China’s Moonshot to Release Breakthrough AI Model for Download",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
+    "summary": "Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-27T01:00:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+    "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-27T00:45:42+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27T00:19:14+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+    "summary": "Nvidia Corp. is in discussions to provide a financing guarantee to help OpenAI lease computing from a US data center project planned for 2028, underscoring how the world’s most valuable company is funneling capital into the infrastructure that drives its business.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-26T23:31:04+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-26T19:40:57+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "source": "TechCrunch AI",
+    "date": "2026-07-26T16:33:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-27"
+  },
+  {
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -2357,136 +2517,6 @@
     "date": "2026-07-20T10:00:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-    "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-    "summary": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds into what the industry calls the 3T class. A tier no […] The post Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-20T09:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "AI is more likely than humans to form biases when hiring",
-    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-20T08:39:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Moonshot Is Creating New Winners and Losers in the AI Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
-    "summary": "Moonshot AI’s surprise release of a new artificial intelligence model has sent a jolt through markets, forcing investors to reassess some of the biggest assumptions behind the global tech rally.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T08:34:41+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "AI agentica in azienda, il nodo è portarla davvero in produzione",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-agentica-in-azienda-il-nodo-e-portarla-davvero-in-produzione/",
-    "summary": "Le imprese hanno compreso il potenziale dell’intelligenza artificiale, ma faticano a trasformare sperimentazioni e proof of concept in processi operativi. Il vero ostacolo non è solo tecnologico: riguarda delivery, governance, operating model e capacità di integrare l’AI nei sistemi aziendali L'articolo AI agentica in azienda, il nodo è portarla davvero in produzione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-20T08:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "AI Is ‘New Engine’ Keeping Chinese Economy From Harder Landing",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
-    "summary": "A global rush to build out artificial intelligence infrastructure has turned the technology into a key pocket of growth in China’s economy during one of its weakest stretches in years.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T07:25:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Dalla Magnifica Humanitas alla PA: un’etica operativa per l’AI",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/dalla-magnifica-humanitas-alla-pa-unetica-operativa-per-lai/",
-    "summary": "La prima enciclica di Papa Leone XIV sull’intelligenza artificiale mostra una convergenza inattesa con l’Augmented RenAIssance Manifesto: dignità umana, supervisione decisionale, bene comune, qualità dell’informazione e centralità del lavoro diventano criteri condivisi tra magistero sociale e pubblica amministrazione italiana L'articolo Dalla Magnifica Humanitas alla PA: un’etica operativa per l’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-20T07:25:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Intelligenza artificiale accessibile, la nuova sfida dopo Internet",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/intelligenza-artificiale-accessibile-la-nuova-sfida-dopo-internet/",
-    "summary": "A trent’anni dalla nascita di Tin.it, il percorso che rese Internet un servizio di massa offre una chiave per leggere la sfida dell’intelligenza artificiale. Il rischio è una nuova frattura digitale, se l’AI resterà lontana da imprese, cittadini e territori L'articolo Intelligenza artificiale accessibile, la nuova sfida dopo Internet proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-20T07:24:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
-    "summary": "When DeepSeek’s R1 debuted in early 2025, almost $600 billion was wiped out from Nvidia Corp.’s market value in a single day on fears that artificial intelligence would require less computing power than previously expected. Moonshot AI’s release of Kimi K3 on Friday triggered a similar reaction, helping push semiconductor stocks sharply lower.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T04:50:13+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "AI Pioneer Kai-Fu Lee’s Startup Targets Hong Kong IPO Next Year",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
-    "summary": "01.ai, the Chinese AI startup founded by computer scientist Kai-Fu Lee, is pushing ahead with plans to raise funds before an initial public offering in 2027.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T03:40:12+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
-    "summary": "French business process outsourcing company Teleperformance SE plans to embed artificial intelligence in the workflow of its entire workforce of half-a-million people, speeding up adoption of the same technology that’s driving labor market disruption for the industry.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-19T23:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-    "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-19T21:16:07+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-19T19:24:45+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-20"
-  },
-  {
-    "title": "I hate that I don’t hate this song made with Suno",
-    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-    "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that […]",
-    "source": "The Verge AI",
-    "date": "2026-07-19T13:35:54-04:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-07-20"
   }
 ]
