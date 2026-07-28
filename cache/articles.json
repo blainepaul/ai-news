@@ -1,5 +1,175 @@
 [
   {
+    "title": "Anonimizzazione dati AI: tecniche, strumenti e rischi da valutare",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/anonimizzazione-dati-ai-tecniche-strumenti-e-rischi-da-valutare/",
+    "summary": "L’uso dell’intelligenza artificiale impone misure tecniche e organizzative per ridurre rischi di re-identificazione, leakage e riuso improprio dei dataset. Anonimizzazione, pseudonimizzazione, mascheramento, dati sintetici e controlli interni richiedono scelte calibrate su finalità, contesto normativo e rischio residuo L'articolo Anonimizzazione dati AI: tecniche, strumenti e rischi da valutare proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-28T07:46:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Se la Gen AI modella la democrazia una parola alla volta",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/se-la-gen-ai-modella-la-democrazia-una-parola-alla-volta/",
+    "summary": "Uno studio dell’Università di Amsterdam per il Consiglio d’Europa analizza l’impatto dell’IA generativa su giornalismo, comunicazione politica, infrastrutture digitali e diritti fondamentali. Opportunità di accessibilità e partecipazione convivono con rischi per trasparenza, pluralismo, fiducia pubblica e integrità democratica L'articolo Se la Gen AI modella la democrazia una parola alla volta proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-28T07:30:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Hugging Face Has a Deepfake Nudes Problem",
+    "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+    "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+    "source": "Wired",
+    "date": "2026-07-28T05:30:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
+    "summary": "Taiwanese prosecutors detained an Nvidia Corp. employee as part of a probe into the alleged smuggling of AI chips into China, thrusting the US company into a high-profile case concerning the black market for its products.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-28T04:48:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28T04:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+    "summary": "Silicon Valley leaders from Anthropic PBC’s Dario Amodei to Nvidia Corp.’s Jensen Huang warned against a US crackdown on open-weight artificial intelligence systems, deepening a debate about how Washington should respond to a surprise breakthrough from Chinese startup Moonshot.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-28T01:51:32+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28T00:13:33+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27T21:17:11+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27T20:19:42+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+    "source": "Wired",
+    "date": "2026-07-27T20:08:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27T18:32:11+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
+    "summary": "The number of software security flaws discovered in popular technology products in 2026 is on pace to roughly double the tally of vulnerabilities that surfaced in 2025, an explosion driven by increasingly capable artificial intelligence systems.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-27T18:01:20+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-27T18:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+    "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+    "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agile emitters deploy unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against traditional threat databases, leaving legacy electronic protect, attack, and supp",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-27T17:54:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27T17:28:42+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Why China is giving away its best AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between […]",
+    "source": "The Verge AI",
+    "date": "2026-07-27T12:51:50-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27T16:45:24+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-28"
+  },
+  {
     "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
     "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
     "summary": "Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC) on AWS to pre-compress entire knowledge bases into task-specific representations, cache them at multiple fidelity tiers, and route each query to the right tier, with an open-source implementation you can deploy.",
@@ -2357,206 +2527,6 @@
     "date": "2026-07-21T09:00:00+00:00",
     "category": "business_investment",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
-    "url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-    "summary": "Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year. Moonshot AI’s Kimi K3 arrived on July 16 as the largest open-weight model yet released, and within days it had reopened a policy argument in Washington that had […] The post Chinese open-weight models are cheap. Washington is deciding what that costs. appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-21T08:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "AI in sanità, la stagione dell’hype lascia spazio alla prova dei fatti",
-    "url": "https://www.agendadigitale.eu/sanita/ai-in-sanita-la-stagione-dellhype-lascia-spazio-alla-prova-dei-fatti/",
-    "summary": "Dopo l’hype del 2023, l’intelligenza artificiale in sanità entra nella fase della prova concreta. Tra dati, processi, governance e responsabilità, il valore dell’AI dipende sempre meno dalla tecnologia in sé e sempre più dalla maturità digitale delle organizzazioni L'articolo AI in sanità, la stagione dell’hype lascia spazio alla prova dei fatti proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-21T07:11:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Professioni giuridiche e IA: non sostituzione, ma nuovo dialogo",
-    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/professioni-giuridiche-e-ia-non-sostituzione-ma-nuovo-dialogo/",
-    "summary": "L’intelligenza artificiale entra nel ragionamento giuridico non come sostituto del professionista, ma come nuovo interlocutore. Dal De Oratore di Cicerone alle teorie della mente estesa, il confronto resta il cuore del metodo giuridico e della responsabilità professionale L'articolo Professioni giuridiche e IA: non sostituzione, ma nuovo dialogo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-21T07:10:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21T00:12:24+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
-    "summary": "South Korea’s exports extended robust growth in early July as artificial intelligence-driven demand for semiconductors continued to fuel the economy.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-21T00:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Burnham Picks Narayan as First UK AI Minister to Attend Cabinet",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
-    "summary": "New British premier Andy Burnham has named Kanishka Narayan as minister for artificial intelligence, promoting the role to attend the prime minister’s cabinet for the first time.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T22:55:39+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Trump’s latest AI czar has already resigned",
-    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20T22:21:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-    "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this […]",
-    "source": "The Verge AI",
-    "date": "2026-07-20T18:19:12-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
-    "summary": "The cost of protecting Oracle Corp.’s debt against default reached a fresh multi-year high on Monday while its existing bonds sold off, as doubts grew over whether the company’s massive investments in artificial intelligence will pay off.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T21:58:54+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20T21:21:15+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "UBS Trading Desk Says Buy Momentum Stocks as Selloff Nears End",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/ubs-trading-desk-says-buy-momentum-stocks-as-selloff-nears-end",
-    "summary": "The sharp selloff in momentum stocks may be nearing its end, creating an opportunity for investors to start rebuilding positions in artificial intelligence and semiconductor shares, according to UBS’ trading desk.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-20T21:10:43+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "SpaceX in your index fund, explained",
-    "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-    "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does […]",
-    "source": "The Verge AI",
-    "date": "2026-07-20T17:00:00-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "AI’s most important protocol is getting a little bit easier to use",
-    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20T20:50:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "X relaunches a rebuilt Android app after year-long effort",
-    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-    "summary": "X says the rebuilt version of its Android app is now available globally.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20T19:37:39+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20T19:33:25+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-20T18:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Custom OS installation now available on AWS DeepRacer devices",
-    "url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
-    "summary": "With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can upgrade or install a custom operating system (OS) by using a newly released bootloader, which extends the life of these hardware devices. In this post, we introduce the bootloader, discuss how to use it, and share links to a community distribution that uses it.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-20T17:25:24+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
-    "summary": "In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit to build a supply-chain risk example that helps a planner move from an Amazon Quick dashboard and knowledge context to a guided mitigation recommendation.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-20T17:01:32+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
-    "summary": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-20T16:58:52+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-21"
-  },
-  {
-    "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
-    "summary": "In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response times up to 30 times faster, a 40 percent reduction in total cost of ownership, and turned embedded analytics into a product that generates revenue.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-20T16:56:48+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-07-21"
   }
 ]
