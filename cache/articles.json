@@ -1,5 +1,265 @@
 [
   {
+    "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+    "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-30T16:02:32+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+    "summary": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality, latency, and cost. Migrate to a new model or improve your current one in minutes instead of weeks.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-30T15:58:32+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Microsoft's Goldilocks AI Quarter",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-30/microsoft-s-goldilocks-ai-quarter-video",
+    "summary": "Microsoft's blockbuster earnings sparked a major rally as TD Cowen's Derrick Wood joins Bloomberg TV to explain why this was the perfect \"Goldilocks\" quarter. From accelerating Azure growth and improving AI economics to surging Copilot adoption, here's why Wall Street believes Microsoft's AI story is getting even stronger. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T15:45:45+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30T15:41:16+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "ChatGPT Go gratis fino a 12 mesi nei piani Revolut Premium, Metal e Ultra anche per chi è già cliente: come si riscatta",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/revolut-aggiunge-gratis-chatgpt-go-nei-piani-a-pagamento-come-funziona/",
+    "summary": "La neobank espande la propria piattaforma di servizi digitali includendo l'assistente IA di OpenAI nei profili a pagamento: fino a 12 mesi di accesso gratuito e Guest pass per i clienti Ultra L'articolo ChatGPT Go gratis fino a 12 mesi nei piani Revolut Premium, Metal e Ultra anche per chi è già cliente: come si riscatta proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-30T15:41:10+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Meta's AI Spending Faces Wall Street Test",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-30/meta-s-ai-spending-faces-wall-street-test-video",
+    "summary": "Meta's AI spending is under intense scrutiny after a softer outlook. MoffettNathanson analyst Michael Nathanson explains why investors no longer want promises—they want proof. Michael Nathanson joins Bloomberg Open Interest to break down Meta's unclear AI infrastructure strategy, the risk of massive capex, and why the company's metaverse history is making Wall Street far less patient this time.\n\nCorrection: This video has been edited to update a graphic with correct analyst disclosures. (Source:",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T15:24:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30T15:19:15+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-07-30T15:09:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+    "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+    "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+    "source": "Wired",
+    "date": "2026-07-30T15:04:22+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Google Unveils Gemini AI for Robots Struggling With Dexterity",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
+    "summary": "Alphabet Inc.’s Google DeepMind unveiled a new artificial intelligence model for robots that allows humanoid machines to coordinate movements across their entire bodies, marking its latest effort to extend its Gemini AI technology to allow robots to reason, plan multi-step tasks and adapt to human environments.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T15:00:21+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30T14:48:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Oracle (ORCL) Stock Jumps as Google Gemini AI Partnership Expands",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/oracle-gains-after-expanding-google-gemini-ai-partnership",
+    "summary": "Oracle Corp. gained more than 8% after saying it would expand a partnership with Google Cloud to bring Gemini artificial intelligence tools to its business customers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T14:16:57+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Thousand-dimensional structure",
+    "url": "https://www.alignmentforum.org/posts/sFhW3ZnPMJdnB4Dd6/thousand-dimensional-structure-1",
+    "summary": "Summary: One area we plan to explore at Resolution is personas and character training, operationalized as finding and controlling low-dimensional structure in models that emerges in pretraining and flows through post-training to superintelligence. The hope is to expand and systematize phenomena such as emergent misalignment, subliminal learning, and other empirical persona research, then intervene on this structure without accidentally hiding undesirable behavior elsewhere. If this approach reso",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-30T14:04:05+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+    "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30T13:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-30T12:10:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
+    "summary": "Meta Platforms Inc. said it has $279 billion in future lease agreements mostly related to artificial intelligence data centers that are not yet reflected on its balance sheet.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T12:05:57+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "AI Act, cosa entra in vigore dal 2 agosto 2026 e cosa slitta",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-cosa-entra-in-vigore-dal-2-agosto-2026-e-cosa-slitta/",
+    "summary": "Dal 2 agosto 2026 diventano efficaci gli obblighi di trasparenza dell’AI Act, mentre slittano molte regole sui sistemi ad alto rischio. Per le imprese italiane cambiano chatbot, contenuti sintetici, contratti, governance e controlli interni, con sanzioni già operative L'articolo AI Act, cosa entra in vigore dal 2 agosto 2026 e cosa slitta proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-30T11:56:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "US Stocks Rally With Boost From Microsoft’s Surge; Chips Jump",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/futures-climb-with-boost-from-microsoft-s-surging-cloud-growth",
+    "summary": "US stocks rose at the open on Thursday as Microsoft Corp. soared 16% after reporting the fastest cloud unit growth in four years. Top semiconductor companies, like Micron Technology Inc. and Nvidia Corp., gained as well.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T11:32:29+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Bias di genere: i pregiudizi dell’AI nelle risposte quotidiane",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/bias-di-genere-i-pregiudizi-dellai-nelle-risposte-quotidiane/",
+    "summary": "Il bias di genere nell’AI emerge nei sistemi generativi attraverso immagini, testi, consigli di carriera, rappresentazioni della leadership e scelte linguistiche. I modelli non sono neutrali: assorbono dati, gerarchie e stereotipi umani, trasformandoli in output che influenzano immaginari e decisioni reali L'articolo Bias di genere: i pregiudizi dell’AI nelle risposte quotidiane proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-30T10:40:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
+    "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+    "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+    "source": "Wired",
+    "date": "2026-07-30T10:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Weather 4 Energy, previsioni meteo e AI per gestire l’energia rinnovabile",
+    "url": "https://www.agendadigitale.eu/smart-city/weather-4-energy-previsioni-meteo-e-ai-per-gestire-lenergia-rinnovabile/",
+    "summary": "Weather 4 Energy integra meteorologia avanzata e intelligenza artificiale per prevedere la produzione da fonti rinnovabili. Grazie al supercalcolo e al contributo di Fondazione IFAB, il progetto punta a ridurre inefficienze e costi rendendo le reti elettriche più resilienti L'articolo Weather 4 Energy, previsioni meteo e AI per gestire l’energia rinnovabile proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-30T10:22:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-30T10:15:19+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "AI Scammers Are Better at Building Trust Than Humans",
+    "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+    "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
+    "source": "Wired",
+    "date": "2026-07-30T09:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
+    "title": "Apple’s Earnings Will Test Stock’s Status as the AI Safety Play",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-earnings-will-test-stock-s-status-as-the-ai-safety-play",
+    "summary": "Wall Street’s sudden aversion to AI spending has made Apple Inc. this year’s Big Tech stock market star. But the iPhone maker’s earnings after the close Thursday could remind investors of the hurdles it still faces.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-30T08:50:57+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-30"
+  },
+  {
     "title": "Digital Omnibus, perché la semplificazione europea interessa le Regioni",
     "url": "https://www.agendadigitale.eu/cittadinanza-digitale/digital-omnibus-perche-la-semplificazione-europea-interessa-le-regioni/",
     "summary": "Il Digital Omnibus punta a semplificare e armonizzare la normativa digitale europea. Per le Regioni italiane può diventare una leva per ridurre duplicazioni, rafforzare la governance, accompagnare l’adozione dell’Intelligenza Artificiale e accelerare l’innovazione dei servizi pubblici digitali L'articolo Digital Omnibus, perché la semplificazione europea interessa le Regioni proviene da Agenda Digitale .",
@@ -2318,95 +2578,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-24"
-  },
-  {
-    "title": "Nvidia is sending GPUs to the moon",
-    "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23T15:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23T15:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "Google’s Gemini nears billion-user milestone",
-    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "summary": "Gemini had over 750 million monthly users in February.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23T14:52:44+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-    "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of […]",
-    "source": "The Verge AI",
-    "date": "2026-07-23T10:13:35-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-    "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a number of ex-Apple employees at […]",
-    "source": "The Verge AI",
-    "date": "2026-07-23T10:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "Perché Mythos di Anthropic interessa ai servizi di intelligence",
-    "url": "https://www.agendadigitale.eu/sicurezza/perche-mythos-di-anthropic-interessa-ai-servizi-di-intelligence/",
-    "summary": "Mythos di Anthropic apre una nuova fase nell’uso dell’intelligenza artificiale per cybersecurity, intelligence e sicurezza nazionale. L'obiettivo è accelerare l’individuazione di vulnerabilità, anticipare attacchi e ridefinire il rapporto tra analisti, infrastrutture digitali e competizione geopolitica L'articolo Perché Mythos di Anthropic interessa ai servizi di intelligence proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-23T13:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "NASA Puts Google’s Gemma Large Language Model in Orbit",
-    "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
-    "summary": "The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma 3 to space, achieving the first in-orbit demonstration of a vision-language model analyzing imagery from a satellite’s own sensor. The system, known as NAVI-Orbital, used Gemma 3 to analyze images ca",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-23T13:00:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-    "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-    "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June […]",
-    "source": "The Verge AI",
-    "date": "2026-07-23T08:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
-  },
-  {
-    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-    "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-23"
   }
 ]
