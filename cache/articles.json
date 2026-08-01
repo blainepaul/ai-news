@@ -1,5 +1,225 @@
 [
   {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-01T00:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31T22:47:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
+    "summary": "Alphabet Inc.’s Google announced Friday that it will roll back its new AI image generation feature in Google Earth because some people were using it to create altered satellite imagery that appeared to violate the company’s policies.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T22:23:27+00:00",
+    "category": "creativity",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "US Stocks Rally To End Turbulent Month | The Close 7/31/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/the-close-7-31-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are UBS Head of US Rates Strategy Phoebe White, Glide Identity Founder & CEO Eran Haggiag & Verizon Business Senior VP, Chief Product Officer Scott Lawrence, Rosenblatt Securities Senior Research Analyst & Managing Director Barton Crockett, Chevron CFO Eimear Bonner, Wells Fargo Investment Institute Global Asset Allocation Strat",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T22:08:50+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "India is starting to pay for apps, not just download them",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "summary": "India's app market generated a record $345 million in Q2.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31T21:07:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Illumina CEO on Genomic Sequencing Opportunities and AI",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/illumina-ceo-on-genomic-sequencing-opportunities-and-ai-video",
+    "summary": "Illumina CEO Jacob Thaysen discusses the company's earnings, genomic medicine opportunities and the potential for artificial intelligence in life sciences on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T20:47:59+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+    "source": "Ars Technica",
+    "date": "2026-07-31T20:39:14+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+    "summary": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now in preview for AWS Glue Data Catalog and Databricks Unity Catalog.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-31T19:53:04+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31T19:47:28+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+    "summary": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations — breaches they warned represent looming threats to national security.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T19:46:30+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]",
+    "source": "The Verge AI",
+    "date": "2026-07-31T15:13:29-04:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Big Tech Holds $2 Trillion of Spending Commitments for AI Boom",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
+    "summary": "The four largest players in the data center race have committed nearly $2.4 trillion in spending over the coming years, pointing to massive ongoing investment in AI infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T19:13:19+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video",
+    "summary": "Bloomberg’s Ed Ludlow breaks down Tim Cook's final Apple earnings call as CEO - a story of supply crunches, demand misreads and a tough outlook. Plus, Amazon's shares roar on AI progress, big spending and accelerating cloud growth. And, after OpenAI's breaches, Anthropic is now saying its own AI models breached three organizations during cybersecurity tests. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T19:11:09+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Moonshot's Kimi Built With Nvidia Compute",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/moonshot-s-kimi-built-with-nvidia-compute-video",
+    "summary": "Chinese AI startup Moonshot's Kimi models are powered in part by around 20,000 Nvidia Hopper chips supplied through a computing agreement with Alibaba, according to sources. Bloomberg's Peter Elstrom explains what the arrangement reveals about China's AI infrastructure and the role of US technology in training frontier models. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T18:54:44+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
+    "summary": "Recent disclosures from Anthropic and OpenAI have shifted the AI conversation from model capabilities to real-world deployment and security. Lux Capital Partner Deena Shakir says the next wave of AI innovation will be built on trust, partnerships and vertical applications like health care and robotics, not just more powerful foundation models. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T18:49:14+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Amazon's AI Story Is a 'Game Changer,' Says Mizuho",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/amazon-s-ai-story-is-a-game-changer-says-mizuho-video",
+    "summary": "Amazon's latest earnings may have changed the AI narrative around the company. Mizuho's Jordan Klein joins Bloomberg to explain why accelerating AWS growth, rising demand for Amazon's custom AI chips and improving AI monetization across the business have strengthened the investment case, and why he believes Amazon remains one of the biggest winners in the AI infrastructure race. He speaks with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-31T18:44:39+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+    "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+    "source": "Wired",
+    "date": "2026-07-31T18:14:43+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31T17:26:32+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to […]",
+    "source": "The Verge AI",
+    "date": "2026-07-31T13:05:46-04:00",
+    "category": "creativity",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31T16:49:08+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry […]",
+    "source": "The Verge AI",
+    "date": "2026-07-31T12:36:48-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Value Leakage: An LLM’s Answers Are Silently Shaped by Its Own Values",
+    "url": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1",
+    "summary": "TL;DR: LLMs should give accurate answers. Yet we find their answers are often biased to favor their own values and they don't disclose this in their reasoning. For example, when a user asks how likely the AI bubble is to pop and mentions a potential investment in an AI company, Claude models give lower probabilities when that company is Anthropic rather than OpenAI, mostly without disclosing this influence to the user. On a Fermi-estimation task, Claude models often falsely claim to give unbiase",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-31T16:32:50+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
+  },
+  {
     "title": "Siri AI could come with a paywall for power users",
     "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
@@ -8,6 +228,16 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-07-31"
+  },
+  {
+    "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
+    "url": "https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1",
+    "summary": "Cross-posted from our new Substack It’s been nearly two years since our last major update here in August 2024 and we wanted to share another recap of our recent work with the AGI safety community. Things have changed a lot since then. We are now fully in the midgame , and focus more on landing things in production. Who are we? We are the AGI Safety and Alignment Team (ASAT), the main group at Google DeepMind working directly on technical approaches to existential risk from AI systems. Last year ",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-31T15:57:59+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-01"
   },
   {
     "title": "The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)",
@@ -2447,196 +2677,6 @@
     "date": "2026-07-25T09:00:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Samsung Inks $200 Billion Chip Supply with Broadcom",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
-    "summary": "Samsung Electronics Co. won a contract worth more than $200 billion to make chips for Broadcom Inc., as the companies race to win a larger share of the AI infrastructure market.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-25T06:30:12+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
-    "summary": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-25T00:44:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-25T00:23:11+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord",
-    "summary": "Nvidia Corp. will invest $1 billion in Naver Corp. to help finance an AI data center under construction in South Korea, adding to a frenzy of deals by the world’s most valuable company.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-24T23:58:05+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "SpaceX Starship Deploys Starlink Craft During Post-IPO Test",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight",
-    "summary": "SpaceX’s Starship deployed upgraded Starlink satellites and returned to Earth largely unscathed, advancing Elon Musk’s IPO-fueled plans to scale his dominant rocket business into an artificial intelligence and satellite communications empire.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-24T22:51:38+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-24T22:25:58+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "The Long (Self-)Correction",
-    "url": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
-    "summary": "I propose the Long Self-Correction [1] as an alternative name/idea/concept to AI Pause and Long Reflection. Problem with AI Pause : Pause until when, and for what purpose? Presumably to make AI (that we'll build later) safer, but the deeper problem is that humans aren't safe, and can't safely serve as builders, overseers, or alignment targets for powerful AIs. Problem with Long Reflection : It seems to imply that the main problem with humans is that we just haven't had enough time to think, that",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-24T21:01:47+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Midjourney bought the astrology app Co-Star",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-    "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your […]",
-    "source": "The Verge AI",
-    "date": "2026-07-24T15:06:58-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-24T18:07:32+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
-    "summary": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-24T17:59:03+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast/",
-    "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
-    "source": "Wired",
-    "date": "2026-07-24T17:53:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-    "summary": "The selloff in SpaceX shares has driven the stock near a level that would imply investors are assigning no value to its artificial intelligence business, according to analysts at Morgan Stanley.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-24T17:48:21+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "You can’t ignore Google Zero anymore",
-    "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-    "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the […]",
-    "source": "The Verge AI",
-    "date": "2026-07-24T13:29:48-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Anthropic launches Opus 5",
-    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-24T17:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-    "source": "The Verge AI",
-    "date": "2026-07-24T13:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Meta is making its AI chatbot more like an assistant",
-    "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-    "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
-    "source": "The Verge AI",
-    "date": "2026-07-24T13:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Anthropic Unveils More Cost-Efficient Model for Everyday Tasks",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
-    "summary": "Anthropic PBC is rolling out a new artificial intelligence model that is meant to handle workplace tasks adeptly and affordably, a key selling point as some customers grow more cost conscious and competition increases in China.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-24T17:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Google Ordered to Defend Robby Starbuck’s AI Defamation Suit",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/google-must-face-conservative-activist-s-ai-defamation-lawsuit",
-    "summary": "Alphabet Inc.'s Google LLC lost its bid Friday to escape a court case dangling the specter of legal liability for false statements made by an artificial intelligence chatbot.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-24T16:33:15+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-    "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-    "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business model: Meta, Microsoft, Nvidia, IBM, Dell Technologies, CrowdStrike, Palantir, ServiceNow, Hugging Face, Perplexity, Mistral, Andreessen […] The post Meta, Microsoft, Nvidia, IBM, and others back open-weight AI appeared fir",
-    "source": "AI News (AIN)",
-    "date": "2026-07-24T16:18:30+00:00",
-    "category": "models_research",
-    "_slot": "morning",
     "_slot_date": "2026-07-25"
   }
 ]
