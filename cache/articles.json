@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-01/ai-isn-t-a-catch-all-trade-for-stocks-in-this-earnings-season",
+    "summary": "Equity investors are learning a harsh lesson this corporate earnings season: Not all artificial intelligence trades are created equal.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-01T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+    "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+    "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+    "source": "Wired",
+    "date": "2026-08-01T10:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-01"
+  },
+  {
+    "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+    "source": "Wired",
+    "date": "2026-08-01T09:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-01"
+  },
+  {
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
@@ -2638,45 +2668,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-26"
-  },
-  {
-    "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
-    "summary": "DeepSeek has told prospective investors in its second fundraising round that it’s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-25T14:49:55+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-25T13:05:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-    "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-    "source": "Wired",
-    "date": "2026-07-25T10:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-25"
-  },
-  {
-    "title": "Contagious Cancer Found in North American Catfish",
-    "url": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
-    "summary": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
-    "source": "Wired",
-    "date": "2026-07-25T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-25"
   }
 ]
