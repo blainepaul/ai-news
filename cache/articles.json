@@ -1,5 +1,35 @@
 [
   {
+    "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+    "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "summary": "Capacity to train strong models is proliferating.",
+    "source": "Interconnects",
+    "date": "2026-08-02T13:01:40+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-02"
+  },
+  {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's […]",
+    "source": "The Verge AI",
+    "date": "2026-08-02T09:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-02"
+  },
+  {
+    "title": "[R] CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
+    "url": "https://arxiv.org/html/2506.11034v2",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-02T09:07:49+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-02"
+  },
+  {
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
