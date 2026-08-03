@@ -1,5 +1,125 @@
 [
   {
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T16:40:55+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+    "summary": "Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for rule issues and language issues, and you approve every change before it takes effect. This post walks through both refinement modes with complete API and console workflows.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-03T16:30:58+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Amazon Cloud Chief Says Potential AI Business is ‘Just Massive’",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-cloud-chief-says-potential-ai-business-is-just-massive",
+    "summary": "Amazon.com Inc.’s cloud chief said customers are starting to shift from using the company’s services to train AI models to integrating them into their businesses — fueling demand for a process known as inference.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T16:24:57+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "AWS CEO Says AI Business Is 'Just Massive'",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-03/aws-ceo-says-ai-business-is-just-massive-video",
+    "summary": "Amazon Web Services CEO Matt Garman says the potential artificial intelligence business is \"just massive.\" He says the company will keep investing in capital expenditures as it tries to keep up with demand. He speaks to Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T16:24:04+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Mark Penn: AI Won’t Replace Agencies",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-03/mark-penn-ai-won-t-replace-agencies-video",
+    "summary": "Stagwell CEO Mark Penn joined Bloomberg Open Interest to explain how AI is helping the marketing challenger win major global clients and deliver everything from smarter targeting to faster production. He argues that AI won’t replace agencies because managing thousands of enterprise campaigns still demands technology, creativity and human expertise. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T16:02:44+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Introducing our Artifacts Hub and Adoption Dashboard",
+    "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "summary": "Scaling our curation and measurement of the open ecosystem.",
+    "source": "Interconnects",
+    "date": "2026-08-03T14:03:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Frequenze 5G, perché il rinnovo Agcom non basta senza garanzie",
+    "url": "https://www.agendadigitale.eu/infrastrutture/frequenze-5g-perche-il-rinnovo-agcom-non-basta-senza-garanzie/",
+    "summary": "Agcom apre la consultazione sul rinnovo dei diritti d’uso delle frequenze radiomobili fino al 2037. La scelta eviterebbe una nuova asta, ma il meccanismo resta fragile senza una garanzia finanziaria capace di rendere effettivi obblighi, milestone e investimenti nelle reti L'articolo Frequenze 5G, perché il rinnovo Agcom non basta senza garanzie proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-03T12:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-03T12:08:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a […]",
+    "source": "The Verge AI",
+    "date": "2026-08-03T07:01:11-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Piccolo è bello nell’era dell’AI: la rivincita delle startup snelle",
+    "url": "https://www.agendadigitale.eu/startup/piccolo-e-bello-nellera-dellai-la-rivincita-delle-startup-snelle/",
+    "summary": "L’intelligenza artificiale generativa sta abbassando le barriere all’avvio e alla crescita delle imprese. Dalle startup senza dipendenti ai modelli AI-native, i dati americani suggeriscono un possibile ritorno della piccola organizzazione come forma efficiente, scalabile e competitiva L'articolo Piccolo è bello nell’era dell’AI: la rivincita delle startup snelle proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-03T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+    "summary": "South Korean AI chip designer DeepX Co. has secured fresh funding at roughly four times its previous valuation, in a sign of sustained enthusiasm for companies involved in the artificial intelligence boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T09:45:07+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-03"
+  },
+  {
     "title": "How Siri AI Stacks Up Against the New ChatGPT",
     "url": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
     "summary": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity.\n (Source: Bloomberg)",
@@ -2438,265 +2558,5 @@
     "category": "ethics_safety",
     "_slot": "morning",
     "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Why China is giving away its best AI models",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-    "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between […]",
-    "source": "The Verge AI",
-    "date": "2026-07-27T12:51:50-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T16:45:24+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
-    "summary": "Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC) on AWS to pre-compress entire knowledge bases into task-specific representations, cache them at multiple fidelity tiers, and route each query to the right tier, with an open-source implementation you can deploy.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-27T16:11:32+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
-    "summary": "In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration, Deepgram has reduced the time for initial investigation on a SageMaker AI support ticket from days to minutes.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-27T16:07:44+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "How Guardoc transforms medical document processing with Amazon Nova models",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
-    "summary": "In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentation in long-term care.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-27T16:05:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Google’s AI search is rapidly becoming the default, new data shows",
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T15:57:12+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T15:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "This $9 key physically locks your most addictive apps",
-    "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T15:25:37+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T15:01:50+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "RL & search is a terrifying way to build AGI (an FAQ)",
-    "url": "https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq",
-    "summary": "Q1: What are you saying? A: My claim here is that if you build artificial general intelligence (AGI) via any algorithm that’s choosing actions via reinforcement learning (RL) and/or model-based search and planning—a giant chunk of your AI textbook—then that’s just an utterly terrifying thing that you’re doing. You’re playing around with algorithms that, if they work at all, would tend to create ruthless, callous AGIs, AGIs which would happily exterminate humanity and run the world by themselves,",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-27T14:50:30+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Decreto AG 421 sull’AI in Italia: governance, controlli e rischi aperti",
-    "url": "https://www.agendadigitale.eu/documenti/decreto-ag-421-sullai-in-italia-governance-controlli-e-rischi-aperti/",
-    "summary": "Lo schema AG 421 adegua l’ordinamento italiano all’AI Act e definisce poteri, autorità e vigilanza sull’intelligenza artificiale, ma lascia aperti nodi decisivi su controllo umano, competenze professionali, sistemi di IA orientativa e aggiornamento continuo della disciplina. In corso le audizioni L'articolo Decreto AG 421 sull’AI in Italia: governance, controlli e rischi aperti proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T14:19:48+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Modelli AI aperti, frattura tra le big tech Usa: che c’è in ballo",
-    "url": "https://www.agendadigitale.eu/industry-4-0/modelli-ai-aperti-frattura-tra-le-big-tech-usa-che-ce-in-ballo/",
-    "summary": "La spinta cinese sui modelli AI con pesi aperti divide i big. OpenAI e Anthropic fanno lobby su Trump per limitare uso dei modelli aperti. Di contro altri soggetti, come Nvidia, Microsoft e Musk sostengono la necessità che ci siano modelli di frontiera aperti. L'esito dello scontro rileva per procurement, cybersecurity e governance dell’AI L'articolo Modelli AI aperti, frattura tra le big tech Usa: che c’è in ballo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T13:45:57+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup",
-    "summary": "Nvidia Corp. has committed to invest $5 billion in Ilya Sutskever’s artificial intelligence startup Safe Superintelligence Inc., according to people familiar with the matter, marking one of the chipmaker’s largest funding deals of the AI boom.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T13:14:45+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Il clickbaiting come rischio sistemico per l’informazione digitale",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/il-clickbaiting-come-rischio-sistemico-per-linformazione-digitale/",
-    "summary": "La sanzione dell’AGCM sul clickbaiting apre una riflessione sui nuovi confini della correttezza nell’informazione digitale. Titoli sensazionalistici, architettura delle pagine, dati personali e monetizzazione pubblicitaria diventano elementi centrali per valutare le responsabilità degli editori online L'articolo Il clickbaiting come rischio sistemico per l’informazione digitale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T13:09:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Bolla AI, debiti e miracoli finanziari raccontati come progresso",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/bolla-ai-debiti-e-miracoli-finanziari-raccontati-come-progresso/",
-    "summary": "La bolla AI viene tenuta in piedi da propaganda, debiti nascosti e manovre finanziarie presentate come inevitabili tappe del progresso, mentre datacenter, SPV e capitali bruciati spostano il rischio su mercati, fornitori e risparmiatori senza intaccare lo spettacolo degli LLM L'articolo Bolla AI, debiti e miracoli finanziari raccontati come progresso proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T12:39:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "AI, oltre l’hype: quanto conta il valore sociale e come misurarlo",
-    "url": "https://www.agendadigitale.eu/smart-city/ai-oltre-lhype-quanto-conta-il-valore-sociale-e-come-misurarlo/",
-    "summary": "L’intelligenza artificiale entra in una fase più matura: non basta adottarla, bisogna misurarne benefici, costi, rischi e responsabilità. Per PA e imprese il vero passaggio è dal tech hype al tech value, con attenzione a diritti, sostenibilità, governance e valore pubblico L'articolo AI, oltre l’hype: quanto conta il valore sociale e come misurarlo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T12:15:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety […]",
-    "source": "The Verge AI",
-    "date": "2026-07-27T08:06:22-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "The path to artificial superintelligence",
-    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-27T12:00:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Building the enterprise environment for agentic AI",
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-27T11:32:58+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "China Vows Response to US Sanctions Threat Against AI Firms",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
-    "summary": "China warned it would take “all necessary measures” if the US moves to sanction Chinese artificial intelligence companies over allegations they improperly used American models to train their own systems.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T11:02:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "OpenAI Announces Irish Expansion to Meet Growing AI Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/openai-announces-european-expansion-to-meet-growing-ai-demand",
-    "summary": "OpenAI is expanding its European headquarters in Dublin, creating 250 new jobs.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T10:54:02+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Medicina personalizzata, il ruolo dei Digital Twin nella cura del paziente",
-    "url": "https://www.agendadigitale.eu/sanita/medicina-personalizzata-il-ruolo-dei-digital-twin-nella-cura-del-paziente/",
-    "summary": "I Digital Twin stanno aprendo nuove prospettive nella medicina personalizzata, dalla simulazione dei trial clinici alla scelta delle terapie. L’integrazione di dati clinici, intelligenza artificiale e modelli computazionali consente di costruire repliche virtuali del paziente utili al supporto decisionale L'articolo Medicina personalizzata, il ruolo dei Digital Twin nella cura del paziente proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T10:44:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Nvidia’s $750 Billion in Deals Reignite Circular AI Fears",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-    "summary": "Nvidia Corp. is working on a fresh round of AI deals worth more than $750 billion, accelerating investments that skeptics have warned are artificially inflating demand and valuations across the industry.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T10:20:03+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
-    "summary": "HSBC Holdings Plc is set to hire more than 100 artificial intelligence specialists in Singapore with plans to launch a global AI center in the city-state later this year as the British lender steps up investments in the technology that’s reshaping Wall Street workforces.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T10:04:12+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "How AI is shortening drug discovery timelines in China",
-    "url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-    "summary": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov. The Hong Kong-listed company’s fastest programme reached candidate nomination in nine months, while its typical timeline is about 13 months, Zhavoronkov said. He said […] The post How AI is shortening drug discovery timelines in China appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-27T10:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
   }
 ]
