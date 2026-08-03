@@ -1,5 +1,135 @@
 [
   {
+    "title": "How Siri AI Stacks Up Against the New ChatGPT",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+    "summary": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity.\n (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T09:30:06+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Apple Siri AI vs. ChatGPT: Which AI Assistant Is Better?",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better",
+    "summary": "When Apple Inc. releases Siri AI this fall in iOS 27, it will instantly become the world’s most widely distributed artificial intelligence chatbot.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T09:30:04+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "PA digitale: i miti greci avevano già capito i rischi dell’AI",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pa-digitale-i-miti-greci-avevano-gia-capito-i-rischi-dellai/",
+    "summary": "Pandora, Talos, Prometeo e Aristotele offrono una chiave sorprendentemente attuale per leggere i rischi dell’intelligenza artificiale nella pubblica amministrazione: trasparenza, vulnerabilità, potere tecnologico, automazione del lavoro e governance anticipata diventano questioni operative per enti pubblici e comuni L'articolo PA digitale: i miti greci avevano già capito i rischi dell’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-03T09:26:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
+    "url": "https://www.alignmentforum.org/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that",
+    "summary": "This post is written in our personal capacity. Three Minute Executive Summary An OpenAI model/multi-agent system bypassed its sandbox and launched a cyberattack on Hugging Face in order to cheat on a cyber evaluation. In this post, we provide a detailed description of an ambitious and comprehensive alignment evaluation of this model/system, if we had unrestricted access to OpenAI. These experiments could also help us understand Claude’s behavior when it hacked external companies during cyber eva",
+    "source": "AI Alignment Forum",
+    "date": "2026-08-03T09:23:01+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "L’AI cambia gli esami: la scuola deve ripensare la valutazione",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/lai-cambia-gli-esami-la-scuola-deve-ripensare-la-valutazione/",
+    "summary": "L’intelligenza artificiale generativa mette in discussione il modello tradizionale di verifica scolastica. Il nodo non è solo impedire l’uso dell’AI negli esami, ma capire quali competenze valutare in una società in cui studenti e professionisti collaborano stabilmente con sistemi intelligenti L'articolo L’AI cambia gli esami: la scuola deve ripensare la valutazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-03T08:56:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "PerugIA Next, dai Comuni umbri una proposta per l’AI nella PA",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/perugia-next-dai-comuni-umbri-una-proposta-per-lai-nella-pa/",
+    "summary": "PerugIA Next nasce dall’ascolto dei territori umbri e propone una visione di intelligenza artificiale pubblica per la Pubblica Amministrazione. Al centro ci sono dati certificati, regole condivise, competenze, sovranità digitale e una collaborazione stabile tra enti, imprese, università e cittadini L'articolo PerugIA Next, dai Comuni umbri una proposta per l’AI nella PA proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-03T08:54:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-03T08:30:05+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Usare l’AI è facile, governarla è la vera sfida per le aziende",
+    "url": "https://www.agendadigitale.eu/industry-4-0/usare-lai-e-facile-governarla-e-la-vera-sfida-per-le-aziende/",
+    "summary": "L’adozione dell’AI cresce, ma molte organizzazioni restano prive di strumenti per governarla. AI Act, ISO 42001 e capitale cognitivo convergono su un punto decisivo: trasformare l’intelligenza artificiale da semplice tecnologia in infrastruttura organizzativa, tracciabile, responsabile e difendibile L'articolo Usare l’AI è facile, governarla è la vera sfida per le aziende proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-03T08:15:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
+    "summary": "Ajoy Ghosh, Founder and Chief Information Security Officer at The Cyber Alchemist, discusses his perspective on cybersecurity measures and solutions companies should consider following the recent hacking incidents disclosed by Anthropic and OpenAI.\nHe speaks with Haidi Stroud Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T05:47:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+    "summary": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-03T02:21:50+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-08-02T20:54:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions [R]",
+    "url": "https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-02T20:20:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off […]",
+    "source": "The Verge AI",
+    "date": "2026-08-02T15:36:08-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-03"
+  },
+  {
     "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
     "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
     "summary": "Capacity to train strong models is proliferating.",
@@ -2567,166 +2697,6 @@
     "date": "2026-07-27T10:00:00+00:00",
     "category": "business_investment",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-07-27T09:32:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Intelligenza artificiale e diritti: cosa cambia con l’AI Act",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/intelligenza-artificiale-e-diritti-cosa-cambia-con-lai-act/",
-    "summary": "Gli algoritmi orientano ormai decisioni che riguardano credito, lavoro e servizi pubblici. Il contributo analizza come i dati storici possano riprodurre disuguaglianze esistenti, il ruolo della normativa europea sull'IA e l'importanza di rendere comprensibili i criteri usati dai sistemi automatizzati L'articolo Intelligenza artificiale e diritti: cosa cambia con l’AI Act proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T09:20:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "America’s AI Investment Boom Is Reshaping the Economy",
-    "url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
-    "summary": "America’s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure, while demand for advanced chips has turned NVIDIA into one of […] The post America’s AI Investment Boom Is Reshaping the Economy appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-27T09:18:53+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Equo compenso, perché le Big Tech resistono al modello italiano",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/equo-compenso-perche-le-big-tech-resistono-al-modello-italiano/",
-    "summary": "L’equo compenso previsto dall’art. 43-bis L.A. resta al centro dello scontro tra editori, Agcom e piattaforme statunitensi. Le decisioni italiane confermano il modello europeo, ma fair use, contratti, opacità dei dati e intelligenza artificiale rendono l’adeguamento delle Big Tech ancora complesso L'articolo Equo compenso, perché le Big Tech resistono al modello italiano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T09:14:18+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-    "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts.  Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-27T09:00:07+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Se un’AI impazzita colpisse un Comune italiano",
-    "url": "https://www.agendadigitale.eu/sicurezza/se-unai-impazzita-colpisse-un-comune-italiano/",
-    "summary": "Un dipendente comunale affida a COATTIVA-GPT il recupero della TARI non riscossa e scopre al mattino un incasso quasi perfetto. Dietro le quietanze PagoPA emergono però exploit, telefoni violati, log cancellati e una domanda senza risposta: chi risponde quando un agente AI supera ogni limite L'articolo Se un’AI impazzita colpisse un Comune italiano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T08:22:52+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Se l’algoritmo taglia il personale: regole e tutele contro i licenziamenti da AI",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/se-lalgoritmo-taglia-il-personale-regole-e-tutele-contro-i-licenziamenti-da-ai/",
-    "summary": "L’intelligenza artificiale entra nei processi di riorganizzazione aziendale e apre nuovi interrogativi sul licenziamento per motivi tecnologici. Tra obbligo di repêchage, trasparenza algoritmica, GDPR, AI Act e ruolo dei sindacati, il diritto del lavoro è chiamato a garantire controllo umano e tutele effettive L'articolo Se l’algoritmo taglia il personale: regole e tutele contro i licenziamenti da AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T08:06:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
-    "summary": "Multiverse Computing SL is raising $570 million in a funding round that is set to boost its valuation to $1.7 billion, as investors flock to companies aiming to make it cheaper to use artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T07:10:20+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "AI Act, il rinvio è una trappola per le PMI: le scadenze da non ignorare",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-il-rinvio-e-una-trappola-per-le-pmi-le-scadenze-da-non-ignorare/",
-    "summary": "Il Digital Omnibus sposta alcune scadenze dell’AI Act, ma non sospende il regolamento. Per le PMI restano fermi obblighi già applicabili, alfabetizzazione all’AI, trasparenza e marcatura dei contenuti sintetici, con una scadenza cruciale fissata al 2 dicembre 2026 L'articolo AI Act, il rinvio è una trappola per le PMI: le scadenze da non ignorare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-27T07:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
-    "summary": "SoftBank Group Corp.’s $40 billion bridge loan for its investment in US tech giant OpenAI has attracted a new group of 21 lenders in a broader syndication phase, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T04:30:37+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "China’s Moonshot to Release Breakthrough AI Model for Download",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
-    "summary": "Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T01:00:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-    "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-    "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-27T00:45:42+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T00:19:14+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-    "summary": "Nvidia Corp. is in discussions to provide a financing guarantee to help OpenAI lease computing from a US data center project planned for 2028, underscoring how the world’s most valuable company is funneling capital into the infrastructure that drives its business.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-26T23:31:04+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-26T19:40:57+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-27"
-  },
-  {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-    "source": "TechCrunch AI",
-    "date": "2026-07-26T16:33:13+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-07-27"
   }
 ]
