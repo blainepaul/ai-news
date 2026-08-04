@@ -1,5 +1,155 @@
 [
   {
+    "title": "UK mulls making employers ask before installing bossware",
+    "url": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+    "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
+    "source": "The Register AI",
+    "date": "2026-08-04T09:30:00+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Business Wallet, Data Spaces e AI: il disegno industriale dell’UE digitale",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/business-wallet-data-spaces-e-ai-il-disegno-industriale-dellue-digitale/",
+    "summary": "L’Unione Europea sta costruendo un’infrastruttura digitale fondata su identità verificabili, dati affidabili, interoperabilità e fiducia. Business Wallet, Digital Product Passport, Data Spaces e AI Act compongono una strategia industriale che può cambiare il modo in cui imprese e servizi digitali creano valore L'articolo Business Wallet, Data Spaces e AI: il disegno industriale dell’UE digitale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-04T07:26:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/huawei-s-top-scientist-warns-of-chip-limit-nvidia-will-soon-face",
+    "summary": "Huawei Technologies Co.’s top semiconductor scientist warned of the looming physical limits Western chipmaking giants including Nvidia Corp. face in their pursuit of more powerful processors, in a rare public appearance streamed in China.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-04T06:52:30+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "AI nella cybersecurity, la sfida è sapere quando fidarsi",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-nella-cybersecurity-la-sfida-e-sapere-quando-fidarsi/",
+    "summary": "Il Piano europeo sull’AI nella cybersecurity rafforza test, valutazione dei modelli e ambienti sicuri. La questione decisiva riguarda però fiducia, governance e responsabilità: dall’AI Act a NIS2, DORA e CRA, la compliance passa sempre più dalla prova operativa L'articolo AI nella cybersecurity, la sfida è sapere quando fidarsi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-04T06:44:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Perché non abbiamo difese contro i deepfake satellitari",
+    "url": "https://www.agendadigitale.eu/sicurezza/perche-non-abbiamo-difese-contro-i-deepfake-satellitari/",
+    "summary": "Google ha sospeso in meno di un giorno la generazione di scene satellitari artificiali dentro Earth. Il caso mostra perché watermark e detector non bastano e come deve cambiare la verifica di immagini usate per documentare guerre, disastri e infrastrutture L'articolo Perché non abbiamo difese contro i deepfake satellitari proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-04T06:04:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Apple Briefly Removes Telegram App For Child Abuse Content",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/apple-briefly-takes-telegram-off-app-store-over-abusive-content",
+    "summary": "Apple Inc. briefly removed the Telegram messaging app from its App Store after finding content on the platform that violated a ban on child sexual abuse material.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-04T03:27:03+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "NAB Sticks to Safer US AI Models as Chinese Rivals Kept At Bay",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/nab-tests-ai-agents-in-plan-to-deploy-tech-to-banking-customers",
+    "summary": "National Australia Bank Ltd. is staying with US-built AI models for now, as its technology chief says Chinese systems may lack the ethical restrictions that are placed on the largest US developers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-04T01:15:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T23:19:50+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-03T22:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T20:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T19:28:57+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T19:09:56+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03T18:43:43+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has […]",
+    "source": "The Verge AI",
+    "date": "2026-08-03T13:38:45-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+    "summary": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-03T17:24:15+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
+  },
+  {
     "title": "Congress’s favorite AI tool? ChatGPT",
     "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
@@ -38,6 +188,16 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-08-03"
+  },
+  {
+    "title": "EU AI Act Article 50 transparency rules enter force",
+    "url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+    "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people when they’re interacting with a machine, and to […] The post EU AI Act Article 50 transparency rules enter force appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-03T16:09:25+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-04"
   },
   {
     "title": "Mark Penn: AI Won’t Replace Agencies",
@@ -2407,156 +2567,6 @@
     "date": "2026-07-28T08:52:46+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Anonimizzazione dati AI: tecniche, strumenti e rischi da valutare",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/anonimizzazione-dati-ai-tecniche-strumenti-e-rischi-da-valutare/",
-    "summary": "L’uso dell’intelligenza artificiale impone misure tecniche e organizzative per ridurre rischi di re-identificazione, leakage e riuso improprio dei dataset. Anonimizzazione, pseudonimizzazione, mascheramento, dati sintetici e controlli interni richiedono scelte calibrate su finalità, contesto normativo e rischio residuo L'articolo Anonimizzazione dati AI: tecniche, strumenti e rischi da valutare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-28T07:46:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Se la Gen AI modella la democrazia una parola alla volta",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/se-la-gen-ai-modella-la-democrazia-una-parola-alla-volta/",
-    "summary": "Uno studio dell’Università di Amsterdam per il Consiglio d’Europa analizza l’impatto dell’IA generativa su giornalismo, comunicazione politica, infrastrutture digitali e diritti fondamentali. Opportunità di accessibilità e partecipazione convivono con rischi per trasparenza, pluralismo, fiducia pubblica e integrità democratica L'articolo Se la Gen AI modella la democrazia una parola alla volta proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-28T07:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Hugging Face Has a Deepfake Nudes Problem",
-    "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-    "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-    "source": "Wired",
-    "date": "2026-07-28T05:30:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
-    "summary": "Taiwanese prosecutors detained an Nvidia Corp. employee as part of a probe into the alleged smuggling of AI chips into China, thrusting the US company into a high-profile case concerning the black market for its products.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-28T04:48:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28T04:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
-    "summary": "Silicon Valley leaders from Anthropic PBC’s Dario Amodei to Nvidia Corp.’s Jensen Huang warned against a US crackdown on open-weight artificial intelligence systems, deepening a debate about how Washington should respond to a surprise breakthrough from Chinese startup Moonshot.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-28T01:51:32+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28T00:13:33+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T21:17:11+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T20:19:42+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-    "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-    "source": "Wired",
-    "date": "2026-07-27T20:08:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T18:32:11+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
-    "summary": "The number of software security flaws discovered in popular technology products in 2026 is on pace to roughly double the tally of vulnerabilities that surfaced in 2025, an explosion driven by increasingly capable artificial intelligence systems.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-27T18:01:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-27T18:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
-    "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
-    "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agile emitters deploy unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against traditional threat databases, leaving legacy electronic protect, attack, and supp",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-27T17:54:07+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-28"
-  },
-  {
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27T17:28:42+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
     "_slot_date": "2026-07-28"
   }
 ]
