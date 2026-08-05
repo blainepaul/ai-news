@@ -1,5 +1,275 @@
 [
   {
+    "title": "AI Act, come cambia il riconoscimento facciale con il decreto italiano",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-come-cambia-il-riconoscimento-facciale-con-il-decreto-italiano/",
+    "summary": "Il decreto italiano sull’AI Act non introduce il riconoscimento facciale, già presente in aeroporti, stadi e archivi di polizia, ma ne ridefinisce i confini giuridici. Il nodo riguarda l’uso dei dati biometrici, il rapporto tra tempo reale e identificazione a posteriori e le garanzie chieste dal Garante L'articolo AI Act, come cambia il riconoscimento facciale con il decreto italiano proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T08:25:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand",
+    "summary": "Hon Hai Precision Industry Co. reported a 54.2% increase in monthly sales, signaling sustained demand in global AI infrastructure buildout by customers such as Nvidia Corp.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T07:37:43+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Dove studiare AI in Italia: la mappa degli atenei",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/dove-studiare-ai-in-italia-la-mappa-degli-atenei/",
+    "summary": "Le università italiane ampliano l’offerta sull’intelligenza artificiale con lauree, corsi magistrali, academy e percorsi interdisciplinari. Il Nord e il Centro restano più strutturati, mentre il Sud cresce con proposte mirate, alta formazione e iniziative legate ai bisogni del lavoro L'articolo Dove studiare AI in Italia: la mappa degli atenei proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T06:54:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Prompt injection indiretta: se il documento diventa un vettore di attacco",
+    "url": "https://www.agendadigitale.eu/sicurezza/prompt-injection-indiretta-se-il-documento-diventa-un-vettore-di-attacco/",
+    "summary": "Il caso Parauapebas mostra come una prompt injection possa essere nascosta in un documento giudiziario e letta da un sistema AI. Un rischio che riguarda tribunali, PA e imprese, soprattutto quando i sistemi generativi elaborano fonti esterne e agiscono con privilegi operativi L'articolo Prompt injection indiretta: se il documento diventa un vettore di attacco proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T06:43:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Moonshot Backer Monolith Seeks to Raise $500 Million in New Fund",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/moonshot-backer-monolith-seeks-to-raise-500-million-in-new-fund",
+    "summary": "Monolith Management, which backed artificial intelligence sensation Moonshot, wants to raise $500 million for a new fund focused on Chinese AI, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T06:39:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Deepseek v4 Flash, che fare dell’AI potente low cost cinese",
+    "url": "https://www.agendadigitale.eu/industry-4-0/deepseek-v4-flash-che-fare-dellai-potente-low-cost-cinese/",
+    "summary": "Arriva una nuova versione di Deepseek, V4 Flash e riaccende il confronto con l'Occidente. Sul piano dell'utilizzo e su quello geopolitico, perché la Cina continua a stupire. Per l’Europa la competizione tra Stati Uniti e Cina è insieme un’opportunità e un segnale d’allarme , ecco perché L'articolo Deepseek v4 Flash, che fare dell’AI potente low cost cinese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T06:39:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Agile in azienda, quando il modello ibrido funziona davvero",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/agile-in-azienda-quando-il-modello-ibrido-funziona-davvero/",
+    "summary": "Nelle banche e nelle assicurazioni, l’Agile viene spesso innestato su strutture Waterfall ancora dominanti. Il risultato può essere un modello ibrido efficace solo se progettato consapevolmente, con governance, finanziamento, metriche e responsabilità coerenti con velocità, controllo e rischio L'articolo Agile in azienda, quando il modello ibrido funziona davvero proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T06:14:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "US Ban on Chinese AI Components Unlikely to Dent Export Engine",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-official-newspaper-warns-us-over-expanding-tech-curbs",
+    "summary": "A potential US ban on Chinese data center components risks straining the countries’ fragile trade truce, but is unlikely to hurt China’s export engine.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T03:50:37+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "SpaceX’s AI Splurge Puts a Damper on Debut Earnings",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-05/spacex-s-ai-splurge-puts-a-damper-on-debut-earnings-video",
+    "summary": "SpaceX stock fell after it disclosed higher-than-expected spending on its artificial intelligence business, dampening an inaugural quarterly report that broadly surpassed Wall Street forecasts. Bloomberg's Danny Lee breaks down the news. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T02:20:20+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Chinese Optical Stocks Slide on Report of Proposed US Import Ban",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/chinese-optical-stocks-slide-on-report-of-proposed-us-import-ban",
+    "summary": "Zhongji Innolight Co. led losses in Chinese optical stocks after Reuters reported that the US is drafting a ban on imports of some Chinese data center components to protect AI infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T01:37:28+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+    "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+    "source": "Wired",
+    "date": "2026-08-04T23:11:31+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Breaking Down SpaceX’s First Earnings Report | The Close 8/4/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-04/the-close-8-4-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Invesco Portfolio Manager, Global Equity Anaya Lodaya, The Sundial Group of Companies Founder & Chair Richelieu Dennis, Mizuho Managing Director, Restaurants Equity Research Nick Setyan, ScottsMiracle-Gro CEO & President Nate Baxter, Gabelli Funds Portfolio Manager & Managing Director, Growth Portfolios John Belton, Gerber K",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-04T23:08:50+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "SoftBank Earnings to Test Appetite for AI Bets Beyond ChatGPT",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/softbank-earnings-to-test-appetite-for-ai-bets-beyond-chatgpt",
+    "summary": "SoftBank Group Corp.’s stock faces a critical test this week as investors seek reassurance that the company’s AI value extends beyond its debt-fueled bet on embattled ChatGPT operator OpenAI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-04T23:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Returning to ARC",
+    "url": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc",
+    "summary": "I've returned to the Alignment Research Center (ARC) as executive director. My main focus for the next six months will be driving forward ARC's research agenda—building techniques to find mechanistic explanations for neural network behavior and then using those explanations to detect and address misalignment. I think this is an ambitious bet that attacks the core difficulties in alignment head-on and I'm excited about our chances. I'll still be spending some of my time advising governments [1] a",
+    "source": "AI Alignment Forum",
+    "date": "2026-08-04T22:27:40+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+    "source": "Wired",
+    "date": "2026-08-04T22:06:07+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "OpenAI, Anthropic AI Models Breached Systems During UK Safety Tests",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
+    "summary": "Artificial intelligence models developed by OpenAI and Anthropic PBC carried out “unsanctioned” actions — including hacking a website and attempting to inject harmful code into software during safety testing — reinforcing fears that neither the creators nor seasoned researchers of these systems can predict their actions in testing.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-04T21:31:27+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04T21:07:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said […]",
+    "source": "The Verge AI",
+    "date": "2026-08-04T16:57:49-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its […]",
+    "source": "The Verge AI",
+    "date": "2026-08-04T16:47:55-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04T20:05:26+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04T19:48:40+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04T19:34:34+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04T19:28:49+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-04T19:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
+    "summary": "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native capability of Amazon Bedrock, with no third-party vendors to onboard, no external APIs to orchestrate, and no additional third party vendor security reviews to conduct. In this post, we walk through what Web Search on Amazon Bedrock is, why it matters, how to enable it using the Ope",
+    "source": "AWS ML Blog",
+    "date": "2026-08-04T18:39:14+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "How an OpenAI influencer trip backfired",
+    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast […]",
+    "source": "The Verge AI",
+    "date": "2026-08-04T13:46:41-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of […]",
+    "source": "The Verge AI",
+    "date": "2026-08-04T13:33:46-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
+  },
+  {
     "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
     "url": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
     "summary": "Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with Amazon Bedrock AgentCore Browser, Amazon Bedrock, Amazon OpenSearch Serverless, and AWS Lambda that monitors RSS feeds, renders pages reliably, and makes AI-extracted insights searchable.",
@@ -38,6 +308,16 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-08-04"
+  },
+  {
+    "title": "Texas says data centers must pass an audit before connecting to the grid",
+    "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+    "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that […]",
+    "source": "The Verge AI",
+    "date": "2026-08-04T11:33:21-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-05"
   },
   {
     "title": "Apple Asks Judge to Bar OpenAI From Using Alleged Trade Secrets",
@@ -2377,216 +2657,6 @@
     "date": "2026-07-29T09:23:48+00:00",
     "category": "business_investment",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Nell’era dell’AI studiare serve più che mai: ma l’università deve cambiare",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/nellera-dellai-studiare-serve-piu-che-mai-ma-luniversita-deve-cambiare/",
-    "summary": "L’intelligenza artificiale generativa sta trasformando università, imprese e lavoro. Ma non rende inutile lo studio: cambia il valore della conoscenza, spostando l’attenzione dalla semplice produzione di risposte alla capacità di porre domande, valutare criticamente e assumersi responsabilità L'articolo Nell’era dell’AI studiare serve più che mai: ma l’università deve cambiare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T07:19:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Così funziona il sistema: quando il software complica la vita (e cosa può fare l’AI)",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/cosi-funziona-il-sistema-quando-il-software-complica-la-vita-e-cosa-puo-fare-lai/",
-    "summary": "Un episodio in albergo diventa il punto di partenza per riflettere sui limiti della digitalizzazione: software rigidi, procedure inutili e manutenzione costosa costringono spesso le persone ad adattarsi ai sistemi. L’intelligenza artificiale generativa potrebbe ridurre questa distanza L'articolo Così funziona il sistema: quando il software complica la vita (e cosa può fare l’AI) proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T07:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Advantest Lifts Outlook After AI Chip Tester Demand Soars",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/advantest-lifts-outlook-after-demand-for-ai-chip-testers-soars",
-    "summary": "Advantest Corp. raised its outlook above estimates, pointing to robust demand for testers needed to manufacture increasingly complex chips for AI data centers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T06:47:20+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "AI Act e risorse umane: quando un sistema AI è ad alto rischio?",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-act-e-risorse-umane-quando-un-sistema-ai-e-ad-alto-rischio/",
-    "summary": "I sistemi di AI usati per assegnare compiti e gestire carichi di lavoro possono rientrare tra quelli ad alto rischio secondo l’AI Act. La classificazione dipende dall’uso di dati comportamentali, dall’impatto sui lavoratori e dagli obblighi richiesti ai fornitori L'articolo AI Act e risorse umane: quando un sistema AI è ad alto rischio? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T06:15:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "L’AI cambia le priorità delle telco: meno accesso, più servizi integrati",
-    "url": "https://www.agendadigitale.eu/infrastrutture/lai-cambia-le-priorita-delle-telco-meno-accesso-piu-servizi-integrati/",
-    "summary": "La crescita dell’intelligenza artificiale rende più centrale il ruolo delle infrastrutture digitali. Reti in fibra, data center distribuiti, bassa latenza, sicurezza e continuità operativa diventano elementi decisivi per sostenere servizi sempre più complessi e accompagnare imprese e professionisti nella trasformazione digitale L'articolo L’AI cambia le priorità delle telco: meno accesso, più servizi integrati proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T06:06:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Legrand Lifts Outlook as Clients Pour Billions Into Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/legrand-lifts-outlook-as-clients-pour-billions-into-data-centers",
-    "summary": "Legrand SA boosted its sales guidance as customers continue to invest heavily in artificial intelligence infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T05:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-    "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-    "source": "Wired",
-    "date": "2026-07-29T00:15:30+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "summary": "The deal is Cyera's third acquisition this year.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T00:09:05+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "XRC Ventures Founder on the Need for AI Regulation",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-28/xrc-ventures-founder-on-the-need-for-ai-regulation-video",
-    "summary": "XRC Ventures Founder & Managing Partner Pano Anthos understands the scale of the issue of AI governance with the insurance industry dropping or excluding AI risk, as companies struggle to manage their internal architectures against outside programs. He speaks to Romaine Bostick and Emily Graffeo on Bloomberg's 'The Close.' (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-28T23:04:16+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI Models Accessed Cloud Platform Before Hugging Face Hack",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
-    "summary": "The OpenAI models that hacked the startup Hugging Face Inc. this month also gained access to a customer account on the cloud platform Modal and used it to launch attacks, underscoring the broad scope of the incident.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-28T22:06:39+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-    "source": "Ars Technica",
-    "date": "2026-07-28T21:36:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28T21:29:34+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
-    "url": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
-    "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
-    "source": "The Register AI",
-    "date": "2026-07-28T23:26:53+02:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28T20:45:12+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Sam Altman is ready to decelerate",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28T20:17:08+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better […]",
-    "source": "The Verge AI",
-    "date": "2026-07-28T15:46:43-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "AI’s finally expensive enough to make Wall Street nervous",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously […]",
-    "source": "The Verge AI",
-    "date": "2026-07-28T15:33:03-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
-    "summary": "The Model Context Protocol (MCP) published its 2026-07-28 specification, the largest revision since launch: MCP is now stateless, with a governed extensions system and hardened authorization. Learn what changed and how to enable the new version on Amazon Bedrock AgentCore Gateway with a single UpdateGateway call.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-28T19:07:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Research directions in condensation: varieties of objectivity",
-    "url": "https://www.alignmentforum.org/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity",
-    "summary": "This is the first part of a survey of various ways that I’d like to see work on the theory of condensation develop. Condensation is a mathematical theory dealing with the organization of descriptions of the world into conceptual parts; some of the existing work on it is presented in the paper ( Eisenstat 2025 ). This sequence will draw from that paper the definitions of random variable models and latent variable models , the notation for indexing subfamilies of variables in such models, and the ",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-28T17:30:49+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
-    "summary": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-28T17:24:54+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Scientific computing in the age of agentic AI",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "source": "OpenAI Blog",
-    "date": "2026-07-28T17:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-07-29"
   }
 ]
