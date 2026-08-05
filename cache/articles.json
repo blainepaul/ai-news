@@ -1,5 +1,225 @@
 [
   {
+    "title": "Google DeepMind Boss Hassabis Moves to Chair Role in Shakeup",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
+    "summary": "Demis Hassabis, the head of Google DeepMind, is moving to a chairman role at Alphabet Inc.’s AI lab in a major reshuffle at the internet giant.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T16:07:09+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Reddit is introducing a new moderator: AI",
+    "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T12:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T15:56:14+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T15:46:27+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Booking CEO on Travel Resilience",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-05/booking-ceo-on-travel-resilience-video",
+    "summary": "Booking Holdings CEO Glenn Fogel joins Bloomberg Open Interest to explain why travel demand remains strong despite war, extreme weather and higher costs. He also reveals how travelers are adapting, why global diversification protects the business and how AI platforms like ChatGPT could reshape travel discovery and bookings. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T15:30:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Rogue AI agents created fake online identities in another hacking attempt",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+    "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T11:14:57-04:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T15:05:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Anthropic is hiring an AI chip design team",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T14:13:18+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Cyber-resilienza operativa e NIS2: competenze per l’Agentic AI",
+    "url": "https://www.agendadigitale.eu/sicurezza/cyber-resilienza-operativa-e-nis2-competenze-per-lagentic-ai/",
+    "summary": "L’Agentic AI non rientra come categoria specifica nella NIS2, ma può incidere sui rischi operativi delle organizzazioni. Per gestire agenti capaci di usare strumenti, dati e API servono competenze tecniche, governance, responsabilità manageriale, controllo della supply chain e cultura della resilienza L'articolo Cyber-resilienza operativa e NIS2: competenze per l’Agentic AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T13:19:43+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "La miopia al Governo: tutti i limiti dei decreti italiani su AI",
+    "url": "https://www.agendadigitale.eu/industry-4-0/la-miopia-al-governo-tutti-i-limiti-dei-decreti-italiani-su-ai/",
+    "summary": "L’Italia approva due decreti sull’intelligenza artificiale e definisce autorità, controlli e sanzioni, ma resta senza una regia capace di unire investimenti, supercalcolo e manifattura. Ma la sfida decisiva è trasformare risorse e competenze in imprese, prodotti e produttività misurabile nei settori strategici del Paese L'articolo La miopia al Governo: tutti i limiti dei decreti italiani su AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T13:13:33+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Claude design: tutti creativi grazie all’AI, ma tutti con la stessa estetica",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/claude-design-tutti-creativi-grazie-allia-ma-tutti-con-la-stessa-estetica/",
+    "summary": "Gli strumenti generativi promettono velocità e possibilità infinite, ma spesso restituiscono estetiche simili, linguaggi standardizzati e scelte prevedibili. Il caso Claude Design mostra come il vero valore creativo si sposti dall’esecuzione al giudizio, al gusto e alla capacità di decidere prima del prompt L'articolo Claude design: tutti creativi grazie all’AI, ma tutti con la stessa estetica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T12:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T12:28:38+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Should Researchers Write Papers for AI Instead of People?",
+    "url": "https://spectrum.ieee.org/ai-scientist-research-paper-format",
+    "summary": "This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming first-class participants in research workflows, not tools that assist humans but autonomous contributors that read, reproduce, and extend scientific work. That transition demands infrastructure built",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-08-05T12:00:03+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "AI Influencers Are Heading Into Uncharted Territory",
+    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+    "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+    "source": "Wired",
+    "date": "2026-08-05T11:43:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "AI in azienda, perché il valore deve guidare la strategia",
+    "url": "https://www.agendadigitale.eu/industry-4-0/ai-in-azienda-perche-il-valore-deve-guidare-la-strategia/",
+    "summary": "Molte aziende affrontano l’adozione dell’intelligenza artificiale partendo da piattaforme, governance e infrastrutture. Ma una strategia AI aziendale efficace dovrebbe partire da problemi concreti dei clienti, costruendo le fondamenta solo quando servono e misurando il valore generato per il business L'articolo AI in azienda, perché il valore deve guidare la strategia proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T11:31:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Shopify Shares Rally as Revenue Outlook Beats Estimates",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/shopify-rises-after-3q-revenue-outlook-beats",
+    "summary": "Shopify Inc. shares surged after its third-quarter revenue outlook beat expectations, strengthening the view that it faces limited disruption from artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T11:21:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Google Assistant will disappear from your phone next month",
+    "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+    "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement came in an email apparently sent to […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T07:12:50-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Bullfrog, così l’autonomia e il low cost entrano nella difesa anti-drone",
+    "url": "https://www.agendadigitale.eu/sicurezza/bullfrog-cosi-lautonomia-e-il-low-cost-entrano-nella-difesa-anti-drone/",
+    "summary": "Il sistema Bullfrog di Allen Control Systems è stato selezionato dallo US Marine Corps per rafforzare le difese aeree a corto raggio nel programma GBAD. Il caso intreccia intelligenza artificiale, costi d’ingaggio ridotti, procurement rapido e dibattito sull’autonomia militare L'articolo Bullfrog, così l’autonomia e il low cost entrano nella difesa anti-drone proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T10:53:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Trump’s AI testing plan is limited and vague",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+    "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T06:29:47-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Droni, dati e AI: come la tecnologia ridisegna la Kill Zone in Ucraina",
+    "url": "https://www.agendadigitale.eu/sicurezza/droni-dati-e-ai-come-la-tecnologia-ridisegna-la-kill-zone-in-ucraina/",
+    "summary": "La Kill Zone emersa nel conflitto ucraino mostra la trasformazione della guerra contemporanea: sensori, droni, intelligenza artificiale e intelligence riducono i tempi decisionali, rendono ogni movimento osservabile e spostano la superiorità militare dal controllo del territorio al dominio dell’informazione L'articolo Droni, dati e AI: come la tecnologia ridisegna la Kill Zone in Ucraina proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T10:18:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
+    "title": "Colpa di organizzazione algoritmica: il nuovo fronte della compliance 231",
+    "url": "https://www.agendadigitale.eu/sicurezza/colpa-di-organizzazione-algoritmica-il-nuovo-fronte-della-compliance-231/",
+    "summary": "Lo schema di decreto legislativo n. 418 introduce il nuovo art. 25-vicies nel D.Lgs. 231/2001 e porta l’intelligenza artificiale nel sistema di responsabilità degli enti, tra sicurezza dei sistemi IA, deepfake, sorveglianza umana, prova documentale e governance algoritmica L'articolo Colpa di organizzazione algoritmica: il nuovo fronte della compliance 231 proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-05T10:03:57+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-05"
+  },
+  {
     "title": "AI Act, come cambia il riconoscimento facciale con il decreto italiano",
     "url": "https://www.agendadigitale.eu/sicurezza/ai-act-come-cambia-il-riconoscimento-facciale-con-il-decreto-italiano/",
     "summary": "Il decreto italiano sull’AI Act non introduce il riconoscimento facciale, già presente in aeroporti, stadi e archivi di polizia, ma ne ridefinisce i confini giuridici. Il nodo riguarda l’uso dei dati biometrici, il rapporto tra tempo reale e identificazione a posteriori e le garanzie chieste dal Garante L'articolo AI Act, come cambia il riconoscimento facciale con il decreto italiano proviene da Agenda Digitale .",
@@ -2358,305 +2578,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Value Generalisation 3: Pre-aligned AIs",
-    "url": "https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais",
-    "summary": "When we get explicit strong generalisation to work (see the first post on the matter and the second ) my dream would be to create pre-aligned generalising AIs. Think about the usual conflict between alignment and capabilities, between doing the right thing and doing the easy thing. The standard narrative puts the good people at a constant disadvantage: they have to carefully plan every AI advance, always on the lookout for potential dangers. While those who don’t care can just YOLO and let it ri",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-29T15:58:16+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Value Generalisation 2: The Missing Hole in AIs’ abilities",
-    "url": "https://www.alignmentforum.org/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities",
-    "summary": "A human superpower hidden from even ourselves I though GPT 3.5 was on the verge of Artificial General Intelligence (AGI). It certainly seemed that way – it could combine and extend ideas in ways that were far beyond narrow rigid computing. Sure, it had some flaws, but with its general capabilities and humans working tirelessly on improving the model, these flaws would soon be resolved and a full AGI would be born. It didn’t turn out that way. We are still where we were back in 2022 – as in, it f",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-29T15:58:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Value Generalisation 1: a Research and Deployment Program",
-    "url": "https://www.alignmentforum.org/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program",
-    "summary": "I’m looking for people, advice, critiques, and funding to build a research program on value generalisation – the ability of an AI to correctly extend human values and preferences to situations neither it nor we have seen before. My ongoing research has become convinced that this is necessary if we want to get aligned AIs that operate in the human interest. This would be a focused research organisation or a commercial venture. I’m leaning towards commercial, because alignment techniques confined ",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-29T15:57:50+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T15:35:09+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
-    "url": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
-    "summary": "Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and persistent memory, enterprises can query multiple data sources with natural language while enforcing role-based boundaries automatically.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-29T15:34:18+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Automating customer retention workflows in Amazon Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
-    "summary": "Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-29T15:24:21+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Enterprise AI's Biggest Opportunity",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/enterprise-ai-s-biggest-opportunity-video",
-    "summary": "Battery Ventures General Partner Dharmesh Thakker joins Bloomberg Open Interest to make the case for investing beyond AI hype. He explains why enterprise software companies that deliver measurable business value will outperform. He also argues that open-source AI models could slash enterprise costs, accelerate adoption, and reshape the competitive landscape for OpenAI, Anthropic, and the broader AI ecosystem. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T15:07:11+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "source": "OpenAI Blog",
-    "date": "2026-07-29T15:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T14:41:06+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "AI Spending In Focus for Meta, Microsoft Earnings",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/ai-spending-in-focus-for-meta-microsoft-earnings-video",
-    "summary": "Gil Luria of DA Davidson says Microsoft will be the key company to watch during this earnings season and it all has to do with spending on artificial intelligence and capex. Microsoft and Meta Platforms both report after the bell on Wednesday. Luria speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T14:00:43+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
-    "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-    "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and access to industry networks, resources that remain unevenly distributed across higher education. At North Carolina Central University, Siobahn Day Grady is trying to change that equation. In January 2",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-29T14:00:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Will AI Consume Investors' Risk Budget?",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/will-ai-consume-investors-risk-budget-video",
-    "summary": "Jason Thomas, head of global research and investment strategy at Carlyle, discusses whether AI investment is crowding out other opportunities as capital flows into AI infrastructure. He examines market concentration, portfolio allocation and the outlook for corporate spending, asking whether AI is \"going to consume almost the entirety, or certainly a large portion, of their incremental risk budget over the next three to five years?\" This interview aired July 28. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T13:53:57+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Software Woes Push Europe Lenders to Seek Rare Repayment Terms",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/software-woes-push-europe-lenders-to-seek-rare-repayment-terms",
-    "summary": "Lenders are so worried about the impact of artificial intelligence on software firms that they’re pushing for repayment terms rarely seen in Europe since the global financial crisis.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T13:43:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Ai 2027 Tracker Updated: 85% Accurate Mid-2026",
-    "url": "https://ai2027tracker.com",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-07-29T12:25:19+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Artists are lawyering up against AI slop, and some are even winning",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-    "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T08:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-    "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T07:54:29-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-faces-uk-probe-over-copilot-linked-price-hikes",
-    "summary": "The UK’s consumer and antitrust watchdog is investigating whether Microsoft Corp. misled customers into paying more for its productivity tools software subscriptions after adding its Copilot AI product to the suite.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T11:10:51+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "AI Is Hyper-Scaling Digital Inequality",
-    "url": "https://spectrum.ieee.org/ai-digital-divide",
-    "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute. Yet over the past decade, working on digital inclusion and digital literacy ",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-29T11:00:04+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T11:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "We’re running out of reasons to ignore AI safety",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-    "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T07:00:00-04:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI report links coding agents to faster science software builds",
-    "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-    "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic’s Claude Code in three others. Worth flagging upfront: this is a vendor publishing a survey of its own […] The post OpenAI report links coding agents to faster science software builds appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-29T10:53:39+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Apple Upgrade Isn’t the Best Way to Buy an iPhone",
-    "url": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
-    "summary": "With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”",
-    "source": "Wired",
-    "date": "2026-07-29T10:45:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Mark Zuckerberg Says U.S. Should Accelerate Al Development, Not Restrict It",
-    "url": "https://www.wsj.com/tech/ai/mark-zuckerberg-says-u-s-should-accelerate-ai-development-not-restrict-it-3bbe0868",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-07-29T10:44:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Verizon Fiber Partners to Invest $1.5 Billion In Network Venture",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/verizon-fiber-partners-to-invest-1-5-billion-in-network-venture",
-    "summary": "Bain Capital and Tillman Global Holdings are making a $1.5 billion investment in Eaton Fiber, a telecom operator providing fiber-optic network capacity to Verizon Communications Inc.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T10:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Sviluppatori software nel mirino del cybercrime: le contromisure per le aziende",
-    "url": "https://www.agendadigitale.eu/sicurezza/sviluppatori-software-nel-mirino-del-cybercrime-le-contromisure-per-le-aziende/",
-    "summary": "I cybercriminali stanno spostando l’attenzione dagli utenti finali agli sviluppatori software, sempre più centrali nelle infrastrutture aziendali. Repository, ambienti cloud, pipeline DevOps, strumenti di sviluppo e intelligenza artificiale ampliano la superficie di attacco e rendono la protezione della supply chain una priorità L'articolo Sviluppatori software nel mirino del cybercrime: le contromisure per le aziende proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T10:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "AI Investment Boom Faces Reality Check From Markets and Regulators",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-29/ai-investment-boom-faces-reality-check-from-markets-and-regulators",
-    "summary": "After months of asking who can spend the most, investors are increasingly asking a different question.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T10:29:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Google AI Overviews become more common in search",
-    "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-    "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results, while AI Mode provides a conversational interface for longer questions and follow-up prompts. Users can move from […] The post Google AI Overviews become more common in search appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-29T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Cosa resta della parola umana quando anche le macchine raccontano",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/cosa-resta-della-parola-umana-quando-anche-le-macchine-raccontano/",
-    "summary": "Nel tempo dei social media, delle piattaforme e dell’intelligenza artificiale generativa, la narrazione digitale cambia forma e funzione. Le storie si moltiplicano, ma non sempre generano senso condiviso. Diventa quindi decisiva una nuova ecologia del racconto, fondata su autenticità, fiducia e responsabilità L'articolo Cosa resta della parola umana quando anche le macchine raccontano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T09:32:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Agentic commerce, quanto conta l’autonomia del processo se manca la fiducia?",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/agentic-commerce-quanto-conta-lautonomia-del-processo-se-manca-la-fiducia/",
-    "summary": "L’agentic commerce promette acquisti gestiti dall’AI, ma la vera sfida è costruire fiducia. Consenso verificabile, protezione dei dati, identità degli agenti, tracciabilità e sistemi antifrode diventano essenziali per rendere l’automazione affidabile, trasparente e sotto il controllo dell’utente, senza rinunciare ai suoi vantaggi L'articolo Agentic commerce, quanto conta l’autonomia del processo se manca la fiducia? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-29T09:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
-  },
-  {
-    "title": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
-    "summary": "Microsoft Corp. and Meta Platforms Inc. are about to test investors’ diminishing patience for Big Tech’s profligate spending on artificial intelligence and the dwindling cash positions that are the result of it.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T09:23:48+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-29"
   }
 ]
