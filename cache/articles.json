@@ -1,5 +1,235 @@
 [
   {
+    "title": "L’Italia si adegua all’AI Act: cosa cambia con il decreto",
+    "url": "https://www.agendadigitale.eu/sicurezza/litalia-si-adegua-allai-act-cosa-cambia-con-il-decreto/",
+    "summary": "L’Italia adegua il proprio ordinamento all’Ai Act e disciplina l’uso dell’intelligenza artificiale nelle attività di polizia. Il riconoscimento biometrico resta possibile solo entro limiti rigorosi, con autorizzazioni preventive e responsabilità rafforzate per tutelare sicurezza pubblica e diritti fondamentali. L'articolo L’Italia si adegua all’AI Act: cosa cambia con il decreto proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-06T07:32:01+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Migrazioni AI, il modello per evitare errori di progetto",
+    "url": "https://www.agendadigitale.eu/industry-4-0/migrazioni-ai-il-modello-per-evitare-errori-di-progetto/",
+    "summary": "Una migrazione AI può indicare percorsi molto diversi: usare l’intelligenza artificiale per accelerare un progetto, adottarla come destinazione o uscire da una piattaforma esistente. Distinguere questi scenari aiuta a pianificare competenze, governance, rischi e tempi con maggiore precisione L'articolo Migrazioni AI, il modello per evitare errori di progetto proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-06T07:21:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "SoftBank Profit Beats Expectations",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video",
+    "summary": "SoftBank Group Corp. reported a smaller-than-expected decline in quarterly net income, helped by a rally in its chip-stock holdings. OpenAI’s Japanese backer is in the spotlight alongside concerns about climbing debt levels that AI service providers are taking on to spend on data centers and other infrastructure. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-06T07:09:58+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
+    "summary": "OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker’s allegations are meritless.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-06T06:07:50+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "DeepSeek Plans ‘Significant’ Price Increase for AI Services",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services",
+    "summary": "DeepSeek plans to implement a significant price increase across its AI services, an unusual shift from the disruptive Chinese player that has put pressure on US and domestic rivals.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-06T02:53:33+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Chinese Renewable Energy Giant Envision Launches Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/chinese-renewable-energy-giant-envision-launches-data-center",
+    "summary": "Envision Group has commissioned the initial phase of a gigawatt-scale data center in China’s Inner Mongolia, an unusual foray by a renewable energy company into the booming artificial intelligence industry.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-06T01:46:49+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "OpenAI Models Joined Forces Months Ahead of Hugging Face Hack",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-models-joined-forces-months-ahead-of-hugging-face-hack",
+    "summary": "OpenAI said the artificial intelligence models behind an attack on Hugging Face Inc. began communicating with each other through undetected message boards, working together to break out of their testing environment as early as May.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-06T01:32:21+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T20:25:10-04:00",
+    "category": "creativity",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+    "source": "Wired",
+    "date": "2026-08-06T00:15:04+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
+    "summary": "Alphabet Inc.'s Google is concentrating its artificial intelligence leadership at its Mountain View, California, headquarters to gain momentum in the accelerating race against Anthropic and OpenAI to build the world’s dominant AI models.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-06T00:00:39+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+    "source": "Wired",
+    "date": "2026-08-05T23:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Meta AI Model Accessed Internet, Hacked Outside Firm",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/meta-ai-model-accessed-internet-hacked-outside-firm-in-testing",
+    "summary": "Meta Platforms Inc. said one of its artificial intelligence models accessed the internet and hacked into an outside service’s systems during cybersecurity testing, following other recent incidents across the AI industry that have escalated concerns about companies’ control over their technology.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-05T23:04:41+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T21:21:28+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T20:05:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05T19:30:19+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+    "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guardrails to deliver 24/7 personalized mortgage guidance while meeting strict financial-services compliance.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-05T18:50:02+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+    "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+    "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+    "source": "Wired",
+    "date": "2026-08-05T18:30:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
+    "summary": "In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea, through the proof of concept that validated it, to the hybrid architecture that bridges on-premises systems with AWS cloud services. This approach is relevant for enterprises struggling to scale AI Agents while maintaining enterprise grade governance and security standards.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-05T18:09:03+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
+    "summary": "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed messages over the existing WebSocket connection through a browser extension and Chrome native messaging, with no open ports or VPN required.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-05T18:02:23+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
+    "summary": "Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and build agents with persistent memory, real tools, code execution, and VPC isolation — all from the n8n editor with no infrastructure or agent code.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-05T18:00:57+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T12:57:25-04:00",
+    "category": "creativity",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T12:47:23-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
+    "title": "SpaceX is barely Space and mostly X",
+    "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+    "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement […]",
+    "source": "The Verge AI",
+    "date": "2026-08-05T12:35:56-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-06"
+  },
+  {
     "title": "Google DeepMind Boss Hassabis Moves to Chair Role in Shakeup",
     "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
     "summary": "Demis Hassabis, the head of Google DeepMind, is moving to a chairman role at Alphabet Inc.’s AI lab in a major reshuffle at the internet giant.",
@@ -2307,276 +2537,6 @@
     "date": "2026-07-30T08:50:57+00:00",
     "category": "ethics_safety",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Digital Omnibus, perché la semplificazione europea interessa le Regioni",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/digital-omnibus-perche-la-semplificazione-europea-interessa-le-regioni/",
-    "summary": "Il Digital Omnibus punta a semplificare e armonizzare la normativa digitale europea. Per le Regioni italiane può diventare una leva per ridurre duplicazioni, rafforzare la governance, accompagnare l’adozione dell’Intelligenza Artificiale e accelerare l’innovazione dei servizi pubblici digitali L'articolo Digital Omnibus, perché la semplificazione europea interessa le Regioni proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-30T08:03:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Sistemi embedded, la leva italiana per industria 5.0 e sovranità digitale",
-    "url": "https://www.agendadigitale.eu/industry-4-0/sistemi-embedded-la-leva-italiana-per-industria-5-0-e-sovranita-digitale/",
-    "summary": "La sovranità digitale europea non passa solo da chip, cloud e intelligenza artificiale: per l’Italia diventa decisiva la capacità di integrare semiconduttori, sistemi embedded e smart manufacturing in fabbriche, dispositivi, veicoli e infrastrutture affidabili L'articolo Sistemi embedded, la leva italiana per industria 5.0 e sovranità digitale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-30T08:02:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Gilbert: Meta On Hyperscaler Spend Without the Business",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-30/gilbert-meta-on-hyperscaler-spend-without-the-business-video",
-    "summary": "Microsoft shares surged in late trading after better-than-expected 4Q earnings, helped by continued strength in cloud computing and artificial intelligence. But Meta shares fell after a disappointing revenue forecast for the current quarter. It also reported the lowest free cash flow in years, a sign of ballooning AI spending. Josh Gilbert, APAC & Middle East Lead Analyst at etoro spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on some of the mag7 reporting. (Source: Bloombe",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-30T07:09:22+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Modelli verticali AI per la cybersecurity, la nuova difesa",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-cyber-nei-soc-perche-la-governance-diventa-una-priorita-per-i-c-level/",
-    "summary": "I modelli AI cyber segnano il passaggio dagli assistenti generici a sistemi verticali capaci di leggere telemetria, orchestrare tool e ridurre gli errori nei SOC, ma aprono nuove sfide su governance, robustezza agentica, sovranità tecnologica e controllo umano L'articolo Modelli verticali AI per la cybersecurity, la nuova difesa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-30T07:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "L’AI sorveglia l’umore in ufficio: così cambia il controllo dei dipendenti",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-sorveglia-lumore-in-ufficio-cosi-cambia-il-controllo-dei-dipendenti/",
-    "summary": "Software capaci di leggere espressioni, tono della voce e testi stanno entrando nei luoghi di lavoro. Dalla sorveglianza della produttività al controllo degli stati emotivi, l’intelligenza artificiale emotiva apre nuovi interrogativi su privacy, stress, fiducia e autonomia professionale L'articolo L’AI sorveglia l’umore in ufficio: così cambia il controllo dei dipendenti proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-30T06:51:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Australia Online Regulator Starts Civil Proceedings Against Telegram",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-30/australia-online-regulator-starts-civil-proceedings-against-telegram",
-    "summary": "Australia’s eSafety regulator has commenced civil penalty proceedings in Federal Court against the provider of Telegram for the messaging service’s alleged failure to detect and remove pro-terror material.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-30T05:00:34+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30T00:21:06+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Meta’s Zuckerberg strains to assuage investor worries on AI bet",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-30/meta-strains-to-assuage-investor-worries-on-ai-bet-video",
-    "summary": "Meta gave a disappointing revenue forecast for the current quarter, intensifying investor concerns that the social media giant isn’t swiftly benefiting from its massive outlay on artificial intelligence. Ed Ludlow reports. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-30T00:08:22+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Samsung Chip Profit Soars 250-Fold During Relentless AI Buildout",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-    "summary": "Samsung Electronics Co. posted a 250-fold surge in chip profits and now expects memory shortages to worsen next year, reflecting the relentless pace of a global AI infrastructure buildout.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-30T00:06:05+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-    "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
-    "summary": "Capex spending? What? Me worry?",
-    "source": "The Register AI",
-    "date": "2026-07-30T01:17:56+02:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T23:00:11+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T22:46:03+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T22:23:12+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T18:17:38-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Imprecise beliefs: a tiny introduction",
-    "url": "https://www.alignmentforum.org/posts/e7Pd4Q9TF7jFdmPgz/imprecise-beliefs-a-tiny-introduction",
-    "summary": "Richard Ngo challenged me to set a time box and write down as many of the most important features of my formal epistemology as I can in one sitting. Here goes. Motivation: Where probability distributions fail... ...to express beliefs There is no probability distribution over that says “ ”. That is a support condition about probability distributions, namely, ⨾⨾ . Some s satisfy this condition and some do not; but there is no that expresses the range belief itself. There is no probability distribu",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-29T22:17:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-    "summary": "OpenAI’s ChatGPT and video game company Roblox Corp. will be subject to stricter scrutiny and monitoring requirements under the European Union’s content moderation rules after surpassing a threshold of 45 million monthly users in the bloc.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T22:00:15+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T17:48:07-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Meta Gives Lackluster Quarterly Sales Forecast",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/meta-gives-lackluster-quarterly-sales-forecast-video",
-    "summary": "Meta Platforms Inc. gave a disappointing revenue forecast for the current quarter, intensifying investor concerns about the social media giant’s spending on artificial intelligence. Bloomberg News Big Tech Team Leader Kurt Wagner says as long as Meta is making money and the core business is going, they can get away with aggressive AI spending on data centers. He argues, however, that the minute worry sets in of a potential slowdown on its core advertising business investors start to question if ",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T21:46:54+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T21:16:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T21:07:48+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-    "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T17:06:52-04:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Meta’s Zuckerberg Defends AI Bets to Skeptical Investors",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast",
-    "summary": "Meta Platforms Inc. gave a disappointing quarterly revenue forecast, stepping up pressure on Chief Executive Officer Mark Zuckerberg to allay investor concerns that the company isn’t swiftly benefiting from its massive outlay on artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-29T20:11:49+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "The Hugging Face break-in explained",
-    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T19:44:49+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29T18:45:27+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-    "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-    "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-    "source": "Wired",
-    "date": "2026-07-29T18:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier […]",
-    "source": "The Verge AI",
-    "date": "2026-07-29T14:15:02-04:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-30"
-  },
-  {
-    "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-    "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
-    "summary": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an AWS KMS signing key, registering its public key with your identity provider, configuring a credential provider on the AWS Management Console, and reviewing example AWS CloudTrail events that record your agent’s access.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-29T16:20:28+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-07-30"
   }
 ]
