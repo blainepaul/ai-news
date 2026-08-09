@@ -1,5 +1,75 @@
 [
   {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-09T15:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
+    "title": "Lessons from the hacks",
+    "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "summary": "Musings on model alignment, what determines safety, and where we go from here.",
+    "source": "Interconnects",
+    "date": "2026-08-09T14:57:11+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-09T14:30:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-09T08:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
+    "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+    "summary": "Artificial intelligence chipmaker Moore Threads Technology Co. said it plans to list in Hong Kong at an “appropriate time” after its shares have surged more than 420% since their Shanghai debut last year.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-09T09:39:56+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+    "source": "Wired",
+    "date": "2026-08-09T09:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
+    "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
+    "url": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1.abstract",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-09T07:11:17+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-09"
+  },
+  {
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
@@ -2318,35 +2388,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-08-03"
-  },
-  {
-    "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
-    "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
-    "summary": "Capacity to train strong models is proliferating.",
-    "source": "Interconnects",
-    "date": "2026-08-02T13:01:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-02"
-  },
-  {
-    "title": "Is paying artists enough to convince them to embrace AI?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's […]",
-    "source": "The Verge AI",
-    "date": "2026-08-02T09:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-02"
-  },
-  {
-    "title": "[R] CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
-    "url": "https://arxiv.org/html/2506.11034v2",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-02T09:07:49+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-02"
   }
 ]
