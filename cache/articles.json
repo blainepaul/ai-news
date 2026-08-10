@@ -1,5 +1,95 @@
 [
   {
+    "title": "Siti web creati con gli agenti AI: la svolta dell’intelligenza artificiale per l’online",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/creare-sito-web-agenti-ai-aruba-supersite-54-euro-anno/",
+    "summary": "La nuova generazione di sitebuilder integra l’intelligenza artificiale nella progettazione dei siti. SuperSite di Aruba consente di partire da una descrizione e arrivare a un progetto modificabile. La promo estiva prevede il 60% di sconto con il codice ESTATE26 L'articolo Siti web creati con gli agenti AI: la svolta dell’intelligenza artificiale per l’online proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-10T07:34:28+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "AI Safety Fears Grow After Multiple Breaches",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
+    "summary": "The infiltration of Hugging Face by OpenAI's agents has put AI-enabled cyber attacks into the spotlight. The incident and similar breaches reported by Anthropic PBC and Meta Platforms Inc. have fueled calls in Washington and Silicon Valley for more thorough safety reviews of artificial intelligence models. Bloomberg's Jordan Robertson reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-10T06:17:28+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters",
+    "summary": "Taiwan Semiconductor Manufacturing Co. reported a 45% rise in its monthly sales, a sign of sustained demand for AI hardware in the face of market volatility.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-10T05:34:21+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "NEC tests parking tech that only starts charging once you exit your car",
+    "url": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
+    "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
+    "source": "The Register AI",
+    "date": "2026-08-10T03:32:04+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "summary": "The AI-focused hedge fund is still making some big bets.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-09T20:35:17+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-09T19:20:32+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
+    "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-09T17:36:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "I never understood positional encoding until I read this article. [D]",
+    "url": "https://defenceagainstdarkai.substack.com/p/who-bit-whom",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-09T16:22:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
+    "title": "Non-Physical Intelligence Has A Ceiling [D]",
+    "url": "https://chaotropy.substack.com/p/non-physical-intelligence-has-a-ceiling",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-09T15:50:04+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-10"
+  },
+  {
     "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
     "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
     "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
@@ -2336,56 +2426,6 @@
     "source": "Agenda Digitale",
     "date": "2026-08-03T08:15:00+00:00",
     "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-03"
-  },
-  {
-    "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
-    "summary": "Ajoy Ghosh, Founder and Chief Information Security Officer at The Cyber Alchemist, discusses his perspective on cybersecurity measures and solutions companies should consider following the recent hacking incidents disclosed by Anthropic and OpenAI.\nHe speaks with Haidi Stroud Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-03T05:47:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-03"
-  },
-  {
-    "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
-    "summary": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-03T02:21:50+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-03"
-  },
-  {
-    "title": "Sam Altman and AI’s decel debate",
-    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-08-02T20:54:22+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-03"
-  },
-  {
-    "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions [R]",
-    "url": "https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-02T20:20:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-03"
-  },
-  {
-    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off […]",
-    "source": "The Verge AI",
-    "date": "2026-08-02T15:36:08-04:00",
-    "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-08-03"
   }
