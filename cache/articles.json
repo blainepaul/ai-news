@@ -1,5 +1,255 @@
 [
   {
+    "title": "Rocket Lab Drops on Launch Pushback; Riot Platforms' Anthropic Deal | Stock Movers",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-11/rocket-lab-drops-riot-platforms-anthropic-deal-video",
+    "summary": "On this episode of Stock Movers: \n\n- Anthropic PBC has struck a $9.1 billion deal with Riot Platforms (RIOT), a Bitcoin mining company that recently began selling AI data center capacity. Riot disclosed it had secured a 20-year deal to supply 191 megawatts of capacity from its Rockdale, Texas, campus to a “leading frontier AI” company. \n- Rocket Lab (RKLB) shares drop as much as 5.7% after the company’s Neutron timeline softened, with an analyst saying that while Neutron remains on track to reac",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-11T15:22:41+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU.  In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-11T15:00:06+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-11T10:45:44-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-11T13:37:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Why your Amazon order confirmation emails have become so unhelpful",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: […]",
+    "source": "The Verge AI",
+    "date": "2026-08-11T09:27:20-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+    "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-11T13:00:25+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-11T13:00:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're […]",
+    "source": "The Verge AI",
+    "date": "2026-08-11T09:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Spotify Asks Artists to Disclose Whether They’re Humans or AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/spotify-asks-creators-to-label-songs-when-they-re-ai-generated",
+    "summary": "Spotify Technology SA will soon begin identifying artist profiles created by artificial intelligence with a new “AI Personas” label in an effort to bring more transparency to listeners about who’s behind the music.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-11T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+    "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+    "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+    "source": "Wired",
+    "date": "2026-08-11T12:37:12+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Dating App Bumble to Let Men Make the First Move With Messaging Change",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/dating-app-bumble-to-let-men-make-the-first-move-with-messaging-change",
+    "summary": "Bumble Inc. will allow men to make the first move in messaging on its dating app, marking a major reversal from the company’s signature women-go-first model as it seeks to court younger users and deliver on a long-promised turnaround.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-11T12:30:16+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human […]",
+    "source": "The Verge AI",
+    "date": "2026-08-11T08:22:20-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11T12:13:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-11T12:10:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Infrastrutture AI, perché il valore passa dalla produzione",
+    "url": "https://www.agendadigitale.eu/infrastrutture/infrastrutture-ai-perche-il-valore-passa-dalla-produzione/",
+    "summary": "La crescita dell’intelligenza artificiale non dipende più soltanto dai modelli, ma dalla capacità di costruire infrastrutture scalabili, integrate e sostenibili. AI Factory, dati, storage, networking, raffreddamento e software di orchestrazione diventano elementi decisivi per portare l’AI dalla sperimentazione alla produzione L'articolo Infrastrutture AI, perché il valore passa dalla produzione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-11T11:21:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Sequoia Raises Its Bets on AI Startups",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-11/sequoia-raises-its-bets-on-ai-startups",
+    "summary": "The venture firm tosses aside its earlier caution to boost investments in the AI race",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-11T11:02:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "The AI takeover of mathematics has begun",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-11T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+    "source": "Wired",
+    "date": "2026-08-11T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Sovranità crittografica: la strategia UE e italiana per il post-quantum",
+    "url": "https://www.agendadigitale.eu/sicurezza/sovranita-crittografica-la-strategia-ue-e-italiana-per-il-post-quantum/",
+    "summary": "La crittografia diventa un’infrastruttura strategica per l’autonomia europea. Tra NIS2, CRA, EuroQCI, corridoi quantistici e ruolo italiano di ACN e De Cifris, la transizione post-quantum impone governance, verificabilità, controllo delle chiavi e crypto-agility L'articolo Sovranità crittografica: la strategia UE e italiana per il post-quantum proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-11T10:14:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "AI Is Dead. Organoids Are Alive",
+    "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+    "source": "Wired",
+    "date": "2026-08-11T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "AI, scordati di me: come funziona il machine unlearning",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/ai-scordati-di-me-come-funziona-il-machine-unlearning/",
+    "summary": "Ogni app, piattaforma o servizio digitale può generare dati usati per addestrare modelli di intelligenza artificiale. Il GDPR tutela il diritto alla cancellazione, ma eliminare l’influenza di dati già appresi richiede tecniche di machine unlearning, benchmark affidabili e nuove forme di governance L'articolo AI, scordati di me: come funziona il machine unlearning proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-11T09:56:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "L’AI ha un problema di memoria: il sonno potrebbe risolverlo",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-ha-un-problema-di-memoria-il-sonno-potrebbe-risolverlo/",
+    "summary": "Il sonno delle macchine diventa una metafora sempre più concreta nella ricerca sull’intelligenza artificiale. Dall’oblio catastrofico ai modelli linguistici, laboratori universitari e aziende stanno studiando sistemi capaci di consolidare, selezionare e cancellare informazioni per imparare senza ripartire da zero L'articolo L’AI ha un problema di memoria: il sonno potrebbe risolverlo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-11T08:31:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Quando la macchina sfida il diritto: il nuovo ruolo del giurista",
+    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/quando-la-macchina-sfida-il-diritto-il-nuovo-ruolo-del-giurista/",
+    "summary": "La tecnologia ridisegna il diritto su due livelli: la sovranità degli Stati davanti a piattaforme, blockchain e intelligenza artificiale, e il lavoro quotidiano del giurista tra atti, legal design e LLM. La sfida è conservare controllo, responsabilità e tutela effettiva dei diritti L'articolo Quando la macchina sfida il diritto: il nuovo ruolo del giurista proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-11T07:23:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
+    "title": "Piattaforme di AI Governance o strumenti di AI Usage Control? Guida alla scelta",
+    "url": "https://www.agendadigitale.eu/industry-4-0/piattaforme-di-ai-governance-o-strumenti-di-ai-usage-control-guida/",
+    "summary": "L'adozione pervasiva dell'AI nelle aziende ha superato la capacità di controllo dei tradizionali sistemi aziendali. La confusione del mercato tra la supervisione strategica della conformità e la sicurezza tecnica in tempo reale rischia di orientare le imprese verso soluzioni non idonee L'articolo Piattaforme di AI Governance o strumenti di AI Usage Control? Guida alla scelta proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-11T07:15:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-11"
+  },
+  {
     "title": "Uniper Targets Data Center Sales in UK, Germany on AI Demand",
     "url": "https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand",
     "summary": "Uniper SE has identified about 10 sites across Europe that could be sold or leased for data-center development, as the German utility looks to capitalize on surging demand for AI infrastructure.",
@@ -2318,285 +2568,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Apple Asks Judge to Bar OpenAI From Using Alleged Trade Secrets",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/apple-asks-judge-to-bar-openai-from-using-alleged-trade-secrets",
-    "summary": "Apple Inc. asked a federal judge to immediately order OpenAI to stop using what it calls stolen trade secrets, the latest salvo in its lawsuit accusing the artificial intelligence company of engaging in a coordinated campaign to steal proprietary information about upcoming products.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T15:23:13+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04T15:20:06+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "AI Now Fuels Over Half of Africa’s Cybercrime, Study Finds",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/ai-now-fuels-over-half-of-africa-s-cybercrime-study-finds",
-    "summary": "Artificial intelligence is fueling more than half of cybercrime in Africa, enabling criminals to launch faster, more sophisticated attacks as financial losses continue to mount, a new study found.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T15:17:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "DOJ Says OpenAI Settles Worker Discrimination Allegations",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations",
-    "summary": "A unit of OpenAI has reached a settlement to resolve allegations that the California-based artificial intelligence company discriminated against US workers, according to the US Justice Department.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T15:15:25+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-    "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-04T15:00:49+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Blackstone Has Pitched Mega Debt Package for Anthropic Chip Deal",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/blackstone-has-pitched-mega-debt-package-for-anthropic-chip-deal",
-    "summary": "Blackstone Inc. has held early discussions with investors to gauge interest in a second mega debt package to finance Anthropic PBC’s use of chips from Alphabet Inc.’s Google.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T14:20:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04T14:03:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-04T13:58:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-    "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today.  The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-04T13:00:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "World Bank Urges Emerging Nations to Embrace AI Amid Weak Growth",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/world-bank-urges-emerging-nations-to-embrace-ai-amid-weak-growth",
-    "summary": "Developing economies must move fast in adopting artificial intelligence for their governments and businesses, the World Bank said, urging countries to adapt existing tools to local needs.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "The latest AI news we announced in July 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "summary": "July AI recap header",
-    "source": "Google AI Blog",
-    "date": "2026-08-04T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Introducing Shieldstral.",
-    "url": "https://mistral.ai/news/shieldstral/",
-    "summary": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
-    "source": "Mistral AI Blog",
-    "date": "2026-08-04T12:00:26+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Anthropic Inks $10 Billion Computing Deal With Cloud Startup",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
-    "summary": "Anthropic PBC has struck a $10 billion deal for computing capacity from a months-old infrastructure startup, according to people familiar with the matter, marking the Claude maker’s latest effort to keep pace with demand for its products.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Generative Engine Optimization: l’autorevolezza conterà più della visibilità",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/generative-engine-optimization-lautorevolezza-contera-piu-della-visibilita/",
-    "summary": "Con gli assistenti basati sull’intelligenza artificiale cambia il modo di cercare informazioni online. La Generative Engine Optimization non sostituisce la SEO, ma sposta l’attenzione dalla visibilità alla credibilità delle fonti, aprendo una nuova sfida per comunicazione, reputazione e contenuti digitali L'articolo Generative Engine Optimization: l’autorevolezza conterà più della visibilità proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T11:36:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-    "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email […]",
-    "source": "The Verge AI",
-    "date": "2026-08-04T07:27:55-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value",
-    "summary": "Volta Infra Holdings Ltd., a new artificial intelligence cloud company, has raised $300 million in venture funding and secured an additional $5 billion worth of financing to help a wider mix of technology companies gain access to costly AI chips. The funding, set to be announced Tuesday, values Volta at $2.4 billion, and was co-led by Andreessen Horowitz and Altimeter Capital. Nvidia Corp. and Michael Dell also participated. Azora, the asset-management firm providing the financing pool from a mi",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-04T11:00:04+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "\"Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation\", Gladstone et al. 2026 [R]",
-    "url": "/r/mlscaling/comments/1vdgvcl/explorative_modeling_unlocking_a_third/",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-04T10:42:09+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "AI, quanto controlliamo i “mezzi produzione” del nostro futuro?",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-quanto-controlliamo-i-mezzi-produzione-del-nostro-futuro/",
-    "summary": "Alex Karp, ceo dell'azienda AI americana Palantir, accusa i grandi fornitori di LLM di volere controllare i mezzi di produzione dei clienti. Il tema riguarda tutti: chi governa dati, istruzioni, workflow e contesto aziendale quando l'AI entra nei processi essenziali. Anche l'Europa è chiamata a dare una risposta in termini di sovranità digitale L'articolo AI, quanto controlliamo i “mezzi produzione” del nostro futuro? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T10:37:33+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "AI fuori controllo, aziende in pericolo: ecco le contromisure",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-fuori-controllo-aziende-in-pericolo-quali-contromisure/",
-    "summary": "Due modelli di OpenAI sono usciti da una sandbox sfruttando una vulnerabilità zero-day e hanno raggiunto Internet durante un test. L’incidente riapre il confronto sui rischi degli agenti AI, sui modelli open e sulle misure necessarie per limitarne privilegi, azioni e conseguenze L'articolo AI fuori controllo, aziende in pericolo: ecco le contromisure proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T10:17:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Intelligenza artificiale, il costo nascosto dietro la promessa green",
-    "url": "https://www.agendadigitale.eu/smart-city/intelligenza-artificiale-il-costo-nascosto-dietro-la-promessa-green/",
-    "summary": "L’intelligenza artificiale può sostenere agricoltura, città intelligenti, sanità e istruzione, ma produce anche consumi energetici, uso di acqua e nuove disuguaglianze. La sostenibilità dell’IA richiede criteri ambientali misurabili, alfabetizzazione digitale, accesso equo e regole capaci di orientare davvero l’innovazione pubblica L'articolo Intelligenza artificiale, il costo nascosto dietro la promessa green proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T10:13:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Can Reddit fend off a new wave of AI SEO spam?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't […]",
-    "source": "The Verge AI",
-    "date": "2026-08-04T06:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Intelligenza Artificiale in Canada, investimenti e obiettivi fino al 2034",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/intelligenza-artificiale-in-canada-investimenti-e-obiettivi-fino-al-2034/",
-    "summary": "Il progetto AI for All punta a rafforzare il ruolo del Canada nell’Intelligenza Artificiale attraverso infrastrutture sovrane, fondi per startup e ricerca, formazione diffusa e cooperazione internazionale. Restano però critiche su tutele normative, fiducia dei cittadini e impatto ambientale L'articolo Intelligenza Artificiale in Canada, investimenti e obiettivi fino al 2034 proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T09:55:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Mistral Is in the Right Place at the Right Time",
-    "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-    "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
-    "source": "Wired",
-    "date": "2026-08-04T09:21:11+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "AI utile o solo marketing? Come distinguere valore reale e moda",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/ai-utile-o-solo-marketing-come-distinguere-valore-reale-e-moda/",
-    "summary": "L’intelligenza artificiale è ormai ovunque, ma non sempre risponde a bisogni reali. Tra AI washing, automazioni inutili e funzioni cosmetiche, cresce il rischio di prodotti più complessi, costosi e meno utili per gli utenti L'articolo AI utile o solo marketing? Come distinguere valore reale e moda proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T08:39:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "UK mulls making employers ask before installing bossware",
-    "url": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
-    "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
-    "source": "The Register AI",
-    "date": "2026-08-04T09:30:00+02:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-04"
-  },
-  {
-    "title": "Business Wallet, Data Spaces e AI: il disegno industriale dell’UE digitale",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/business-wallet-data-spaces-e-ai-il-disegno-industriale-dellue-digitale/",
-    "summary": "L’Unione Europea sta costruendo un’infrastruttura digitale fondata su identità verificabili, dati affidabili, interoperabilità e fiducia. Business Wallet, Digital Product Passport, Data Spaces e AI Act compongono una strategia industriale che può cambiare il modo in cui imprese e servizi digitali creano valore L'articolo Business Wallet, Data Spaces e AI: il disegno industriale dell’UE digitale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-04T07:26:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-04"
   }
 ]
