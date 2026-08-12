@@ -1,5 +1,275 @@
 [
   {
+    "title": "Google tests AMIE for clinical video consultations",
+    "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+    "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health […] The post Google tests AMIE for clinical video con",
+    "source": "AI News (AIN)",
+    "date": "2026-08-12T14:56:18+00:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T14:20:33+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "US Launches Effort to Speed Trade in AI Goods Between Allies",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-launches-effort-to-speed-trade-in-ai-goods-between-allies",
+    "summary": "The Trump administration announced a new program aimed at accelerating shipments between the US and its closest trading partners of goods considered critical to developing artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T14:17:37+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "German Firms See Expanding AI Use Crimping Wages, Survey Shows",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/german-firms-see-expanding-ai-use-crimping-wages-survey-shows",
+    "summary": "German companies deploying artificial intelligence are expecting its growing use to depress wages over the next five years, especially for junior workers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T14:10:13+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-12T14:00:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel […]",
+    "source": "The Verge AI",
+    "date": "2026-08-12T10:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+    "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+    "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+    "source": "Wired",
+    "date": "2026-08-12T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+    "summary": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-12T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+    "summary": "Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMaker AI, with a RAG pipeline on pgvector and over 50 agents built with Strands Agents SDK on Amazon ECS.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-12T13:46:28+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+    "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+    "summary": "Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave, priced for risk, and anchored to a public blockchain before settlement. See how the pattern gives enterprises a verifiable, auditable trail for autonomous agent payments in regulated environments.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-12T13:44:58+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+    "url": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+    "summary": "Running large language model inference at scale forces a KV cache trade-off: oversized GPU instances or slow time-to-first-token. This post builds a tiered KV cache on Amazon SageMaker HyperPod that extends the cache into a shared, distributed NVMe pool with Curvine, so replicas reuse cache at near-local-disk speeds on cost-efficient instances.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-12T13:42:48+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/lightspeed-seeks-600-million-for-anthropic-openai-wagers",
+    "summary": "Lightspeed Venture Partners is seeking about $600 million in a secondary process to extend its ownership of OpenAI and four other assets, as well as a new commitment to Anthropic PBC, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T13:25:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "I wrote an AI textbook — how long until AI can do it better?",
+    "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "summary": "Reflections on AI's writing ability and how AI models get more capable.",
+    "source": "Interconnects",
+    "date": "2026-08-12T13:01:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Nvidia-Backed Startup CodeRabbit Valued at $1.5 Billion in Round",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/nvidia-backed-startup-coderabbit-valued-at-1-5-billion-in-round",
+    "summary": "CodeRabbit Inc., an artificial intelligence-powered code review service, has raised $143 million in a new funding round, tapping into demand for tools to spot flaws in AI-generated software programming.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Whoop Plans to Double Size of Boston Headquarters Ahead of IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/whoop-plans-to-double-size-of-boston-headquarters-ahead-of-ipo",
+    "summary": "Whoop Inc., the maker of popular screenless fitness trackers, plans to roughly double the size of its Boston headquarters, boosting a city struggling to grab a bigger piece of the artificial intelligence boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T12:45:07+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well […]",
+    "source": "The Verge AI",
+    "date": "2026-08-12T08:09:34-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "US Stock Futures Today: Borr, Cava, CoreWeave, ERock, Super Micro",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-today-borr-cava-coreweave-erock-super-micro",
+    "summary": "S&P 500 Index futures are up 0.3% as of 7:59 a.m. in New York. Upbeat results from AI infrastructure firms revived appetite for tech stocks with traders awaiting a key US inflation reading later Wednesday.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T12:06:19+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Grok is now an AI ‘teammate’ you can assign work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work […]",
+    "source": "The Verge AI",
+    "date": "2026-08-12T07:58:54-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "AI su WhatsApp Business: come cambiano vendite e customer care",
+    "url": "https://www.agendadigitale.eu/documenti/ai-su-whatsapp-business-come-cambiano-vendite-e-customer-care/",
+    "summary": "Meta punta sui Business Agent basati sull’Intelligenza Artificiale per trasformare WhatsApp in un canale centrale della relazione tra aziende e clienti. Conversazioni, dati, CRM, marketing, vendite e customer care convergono in un nuovo modello di business messaging intelligente L'articolo AI su WhatsApp Business: come cambiano vendite e customer care proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-12T11:55:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Digitale, la pagella del Governo: tanti progetti, pochi risultati",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/digitale-la-pagella-del-governo-tanti-progetti-pochi-risultati/",
+    "summary": "Nei primi otto mesi del 2026 il Governo ha moltiplicato strategie e investimenti sul digitale, ma i risultati industriali restano insufficienti. La pagella premia supercalcolo e pubblica amministrazione, mentre boccia robotica, telecomunicazioni, Open Fiber, competenze e sovranità tecnologica ancora fragile L'articolo Digitale, la pagella del Governo: tanti progetti, pochi risultati proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-12T11:21:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
+    "url": "https://spectrum.ieee.org/judgegpt-experiment",
+    "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology–together with appropriate training–boosted the number of cases resolved by 6.3% with no obvious drop in the quality of judgements. With a backlog of 2.26 million cases and fewer than two judges per 100,000 people – compared to 22 in the EU and 8 in Brazil – Pakistan’s judiciary was in sore need of help. S",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-08-12T11:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+    "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+    "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+    "source": "Wired",
+    "date": "2026-08-12T10:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "summary": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers.",
+    "source": "Wired",
+    "date": "2026-08-12T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "AI Act, il rinvio inganna le imprese: l’obbligo di formazione resta",
+    "url": "https://www.agendadigitale.eu/industry-4-0/ai-act-il-rinvio-inganna-le-imprese-lobbligo-di-formazione-resta/",
+    "summary": "Il rinvio previsto dal Digital Omnibus riguarda soltanto i sistemi ad alto rischio. Dal 2 agosto restano i controlli sugli altri obblighi dell’AI Act: formare i dipendenti diventa essenziale per limitare Shadow AI, fughe di dati e sanzioni nelle imprese L'articolo AI Act, il rinvio inganna le imprese: l’obbligo di formazione resta proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-12T09:19:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Tracciabilità digitale dei farmaci, il banco di prova della sanità italiana",
+    "url": "https://www.agendadigitale.eu/sanita/tracciabilita-digitale-dei-farmaci-il-banco-di-prova-della-sanita-italiana/",
+    "summary": "La digitalizzazione della supply chain sanitaria mostra ritardi e forti differenze tra strutture. La tracciabilità digitale dei farmaci può però diventare una leva per sicurezza, ricerca clinica, intelligenza artificiale e decisioni basate sui dati, anche attraverso l’uso dei dati sintetici L'articolo Tracciabilità digitale dei farmaci, il banco di prova della sanità italiana proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-12T08:39:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Intelligenza artificiale in medicina: quando il paziente deve essere informato",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/intelligenza-artificiale-in-medicina-quando-il-paziente-deve-essere-informato/",
+    "summary": "L’uso dell’intelligenza artificiale in ambito sanitario solleva interrogativi sul consenso informato, sul diritto del paziente a conoscere l’impiego della tecnologia e sui limiti dell’obbligo informativo del medico, tra legge 219/2017, AI Act e legge italiana 132/2025 L'articolo Intelligenza artificiale in medicina: quando il paziente deve essere informato proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-12T08:04:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-12"
+  },
+  {
     "title": "AI nella Pubblica Amministrazione: come usarla senza discriminare",
     "url": "https://www.agendadigitale.eu/cittadinanza-digitale/ai-nella-pubblica-amministrazione-come-usarla-senza-discriminare/",
     "summary": "L’intelligenza artificiale può rendere la Pubblica Amministrazione più efficiente, ma apre questioni decisive su bias, trasparenza, supervisione umana e responsabilità. Tra AI Act, governance e tutela dei cittadini, l’algoritmo etico diventa uno strumento di buona amministrazione solo se resta controllabile L'articolo AI nella Pubblica Amministrazione: come usarla senza discriminare proviene da Agenda Digitale .",
@@ -17,6 +287,16 @@
     "date": "2026-08-12T06:24:36+00:00",
     "category": "business_investment",
     "_slot": "morning",
+    "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-12T06:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
     "_slot_date": "2026-08-12"
   },
   {
@@ -2377,186 +2657,6 @@
     "date": "2026-08-05T15:30:55+00:00",
     "category": "business_investment",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Rogue AI agents created fake online identities in another hacking attempt",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-    "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T11:14:57-04:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T15:05:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Anthropic is hiring an AI chip design team",
-    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T14:13:18+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Cyber-resilienza operativa e NIS2: competenze per l’Agentic AI",
-    "url": "https://www.agendadigitale.eu/sicurezza/cyber-resilienza-operativa-e-nis2-competenze-per-lagentic-ai/",
-    "summary": "L’Agentic AI non rientra come categoria specifica nella NIS2, ma può incidere sui rischi operativi delle organizzazioni. Per gestire agenti capaci di usare strumenti, dati e API servono competenze tecniche, governance, responsabilità manageriale, controllo della supply chain e cultura della resilienza L'articolo Cyber-resilienza operativa e NIS2: competenze per l’Agentic AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T13:19:43+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "La miopia al Governo: tutti i limiti dei decreti italiani su AI",
-    "url": "https://www.agendadigitale.eu/industry-4-0/la-miopia-al-governo-tutti-i-limiti-dei-decreti-italiani-su-ai/",
-    "summary": "L’Italia approva due decreti sull’intelligenza artificiale e definisce autorità, controlli e sanzioni, ma resta senza una regia capace di unire investimenti, supercalcolo e manifattura. Ma la sfida decisiva è trasformare risorse e competenze in imprese, prodotti e produttività misurabile nei settori strategici del Paese L'articolo La miopia al Governo: tutti i limiti dei decreti italiani su AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T13:13:33+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Claude design: tutti creativi grazie all’AI, ma tutti con la stessa estetica",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/claude-design-tutti-creativi-grazie-allia-ma-tutti-con-la-stessa-estetica/",
-    "summary": "Gli strumenti generativi promettono velocità e possibilità infinite, ma spesso restituiscono estetiche simili, linguaggi standardizzati e scelte prevedibili. Il caso Claude Design mostra come il vero valore creativo si sposti dall’esecuzione al giudizio, al gusto e alla capacità di decidere prima del prompt L'articolo Claude design: tutti creativi grazie all’AI, ma tutti con la stessa estetica proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T12:30:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T12:28:38+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Should Researchers Write Papers for AI Instead of People?",
-    "url": "https://spectrum.ieee.org/ai-scientist-research-paper-format",
-    "summary": "This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming first-class participants in research workflows, not tools that assist humans but autonomous contributors that read, reproduce, and extend scientific work. That transition demands infrastructure built",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-08-05T12:00:03+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "AI Influencers Are Heading Into Uncharted Territory",
-    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
-    "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
-    "source": "Wired",
-    "date": "2026-08-05T11:43:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "AI in azienda, perché il valore deve guidare la strategia",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-in-azienda-perche-il-valore-deve-guidare-la-strategia/",
-    "summary": "Molte aziende affrontano l’adozione dell’intelligenza artificiale partendo da piattaforme, governance e infrastrutture. Ma una strategia AI aziendale efficace dovrebbe partire da problemi concreti dei clienti, costruendo le fondamenta solo quando servono e misurando il valore generato per il business L'articolo AI in azienda, perché il valore deve guidare la strategia proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T11:31:10+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Shopify Shares Rally as Revenue Outlook Beats Estimates",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/shopify-rises-after-3q-revenue-outlook-beats",
-    "summary": "Shopify Inc. shares surged after its third-quarter revenue outlook beat expectations, strengthening the view that it faces limited disruption from artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-05T11:21:55+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Google Assistant will disappear from your phone next month",
-    "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-    "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement came in an email apparently sent to […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T07:12:50-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T11:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Bullfrog, così l’autonomia e il low cost entrano nella difesa anti-drone",
-    "url": "https://www.agendadigitale.eu/sicurezza/bullfrog-cosi-lautonomia-e-il-low-cost-entrano-nella-difesa-anti-drone/",
-    "summary": "Il sistema Bullfrog di Allen Control Systems è stato selezionato dallo US Marine Corps per rafforzare le difese aeree a corto raggio nel programma GBAD. Il caso intreccia intelligenza artificiale, costi d’ingaggio ridotti, procurement rapido e dibattito sull’autonomia militare L'articolo Bullfrog, così l’autonomia e il low cost entrano nella difesa anti-drone proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T10:53:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Trump’s AI testing plan is limited and vague",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-    "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T06:29:47-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Droni, dati e AI: come la tecnologia ridisegna la Kill Zone in Ucraina",
-    "url": "https://www.agendadigitale.eu/sicurezza/droni-dati-e-ai-come-la-tecnologia-ridisegna-la-kill-zone-in-ucraina/",
-    "summary": "La Kill Zone emersa nel conflitto ucraino mostra la trasformazione della guerra contemporanea: sensori, droni, intelligenza artificiale e intelligence riducono i tempi decisionali, rendono ogni movimento osservabile e spostano la superiorità militare dal controllo del territorio al dominio dell’informazione L'articolo Droni, dati e AI: come la tecnologia ridisegna la Kill Zone in Ucraina proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T10:18:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Colpa di organizzazione algoritmica: il nuovo fronte della compliance 231",
-    "url": "https://www.agendadigitale.eu/sicurezza/colpa-di-organizzazione-algoritmica-il-nuovo-fronte-della-compliance-231/",
-    "summary": "Lo schema di decreto legislativo n. 418 introduce il nuovo art. 25-vicies nel D.Lgs. 231/2001 e porta l’intelligenza artificiale nel sistema di responsabilità degli enti, tra sicurezza dei sistemi IA, deepfake, sorveglianza umana, prova documentale e governance algoritmica L'articolo Colpa di organizzazione algoritmica: il nuovo fronte della compliance 231 proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T10:03:57+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "AI Act, come cambia il riconoscimento facciale con il decreto italiano",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-come-cambia-il-riconoscimento-facciale-con-il-decreto-italiano/",
-    "summary": "Il decreto italiano sull’AI Act non introduce il riconoscimento facciale, già presente in aeroporti, stadi e archivi di polizia, ma ne ridefinisce i confini giuridici. Il nodo riguarda l’uso dei dati biometrici, il rapporto tra tempo reale e identificazione a posteriori e le garanzie chieste dal Garante L'articolo AI Act, come cambia il riconoscimento facciale con il decreto italiano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-05T08:25:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
     "_slot_date": "2026-08-05"
   }
 ]
