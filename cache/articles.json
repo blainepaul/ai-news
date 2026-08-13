@@ -1,5 +1,225 @@
 [
   {
+    "title": "ASUS Lifts AI Server Growth Target",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y",
+    "summary": "ASUS Co-CEO, S.Y. Hsu, says AI server demand remains strong, prompting the company to raise its 2026 growth outlook. He discusses AI infrastructure spending, memory shortages, supply chain challenges, and the outlook for AI servers and PCs. He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-13T05:20:04+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+    "summary": "Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-13T01:25:06+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T22:26:37+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "CPI Relief & AI Earnings Push Stocks Toward Records | The Close 8/12/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-12/the-close-8-12-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are DoubleLine Portfolio Manager Bill Campbell, CME Group Managing Director & Global Head of Metals Jin Hennig, Cava Co-Founder CEO Brett Schulman, Sweetgreen Co-Founder & CEO Jonathan Neman, Bank of America Global Head of Infrastructure & Sustainable Finance Karen Fang, Pivotal Advisors CEO & CIO Tiffany McGhee, The Bahnsen Gro",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T22:05:09+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips",
+    "summary": "CoreWeave Inc. is warning investors of the time and money it may take to shift from its exclusive use of Nvidia Corp. artificial intelligence chips.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T20:35:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Cisco’s AI Outlook Disappoints Investors Seeking Bigger Payoff",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/cisco-beats-on-sales-outlook-citing-broad-based-record-demand",
+    "summary": "Cisco Systems Inc. projected $7.5 billion in sales tied to the AI data center boom this fiscal year, disappointing investors who’ve seen the world’s largest networking gear supplier amass $9.3 billion in artificial intelligence-related orders over the past year.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-12T20:14:52+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T20:10:40+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
+    "url": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
+    "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
+    "source": "Wired",
+    "date": "2026-08-12T19:05:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+    "source": "Wired",
+    "date": "2026-08-12T18:45:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T18:19:12+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T17:51:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+    "summary": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM principal data, query Bedrock spend by principal, project, and team, and build dashboards to track AI costs across your organization.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-12T17:45:20+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T17:41:29+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-12T13:29:10-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T16:57:58+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
+    "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
+    "source": "The Register AI",
+    "date": "2026-08-12T18:57:33+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Scaling AI agents with trustworthy data",
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-12T16:51:57+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T16:46:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-12T16:14:36+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T16:04:27+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing […]",
+    "source": "The Verge AI",
+    "date": "2026-08-12T11:52:07-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T15:44:56+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
+  },
+  {
     "title": "Google tests AMIE for clinical video consultations",
     "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
     "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health […] The post Google tests AMIE for clinical video con",
@@ -8,6 +228,16 @@
     "category": "healthcare",
     "_slot": "afternoon",
     "_slot_date": "2026-08-12"
+  },
+  {
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12T14:22:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-13"
   },
   {
     "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
@@ -2378,285 +2608,5 @@
     "category": "policy_regulation",
     "_slot": "morning",
     "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "L’Italia si adegua all’AI Act: cosa cambia con il decreto",
-    "url": "https://www.agendadigitale.eu/sicurezza/litalia-si-adegua-allai-act-cosa-cambia-con-il-decreto/",
-    "summary": "L’Italia adegua il proprio ordinamento all’Ai Act e disciplina l’uso dell’intelligenza artificiale nelle attività di polizia. Il riconoscimento biometrico resta possibile solo entro limiti rigorosi, con autorizzazioni preventive e responsabilità rafforzate per tutelare sicurezza pubblica e diritti fondamentali. L'articolo L’Italia si adegua all’AI Act: cosa cambia con il decreto proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-06T07:32:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Migrazioni AI, il modello per evitare errori di progetto",
-    "url": "https://www.agendadigitale.eu/industry-4-0/migrazioni-ai-il-modello-per-evitare-errori-di-progetto/",
-    "summary": "Una migrazione AI può indicare percorsi molto diversi: usare l’intelligenza artificiale per accelerare un progetto, adottarla come destinazione o uscire da una piattaforma esistente. Distinguere questi scenari aiuta a pianificare competenze, governance, rischi e tempi con maggiore precisione L'articolo Migrazioni AI, il modello per evitare errori di progetto proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-06T07:21:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "SoftBank Profit Beats Expectations",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video",
-    "summary": "SoftBank Group Corp. reported a smaller-than-expected decline in quarterly net income, helped by a rally in its chip-stock holdings. OpenAI’s Japanese backer is in the spotlight alongside concerns about climbing debt levels that AI service providers are taking on to spend on data centers and other infrastructure. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T07:09:58+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
-    "summary": "OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker’s allegations are meritless.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T06:07:50+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "DeepSeek Plans ‘Significant’ Price Increase for AI Services",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services",
-    "summary": "DeepSeek plans to implement a significant price increase across its AI services, an unusual shift from the disruptive Chinese player that has put pressure on US and domestic rivals.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T02:53:33+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Chinese Renewable Energy Giant Envision Launches Data Center",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/chinese-renewable-energy-giant-envision-launches-data-center",
-    "summary": "Envision Group has commissioned the initial phase of a gigawatt-scale data center in China’s Inner Mongolia, an unusual foray by a renewable energy company into the booming artificial intelligence industry.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T01:46:49+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "OpenAI Models Joined Forces Months Ahead of Hugging Face Hack",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-models-joined-forces-months-ahead-of-hugging-face-hack",
-    "summary": "OpenAI said the artificial intelligence models behind an attack on Hugging Face Inc. began communicating with each other through undetected message boards, working together to break out of their testing environment as early as May.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T01:32:21+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T20:25:10-04:00",
-    "category": "creativity",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-    "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-    "source": "Wired",
-    "date": "2026-08-06T00:15:04+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
-    "summary": "Alphabet Inc.'s Google is concentrating its artificial intelligence leadership at its Mountain View, California, headquarters to gain momentum in the accelerating race against Anthropic and OpenAI to build the world’s dominant AI models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T00:00:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-    "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-    "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-    "source": "Wired",
-    "date": "2026-08-05T23:30:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Meta AI Model Accessed Internet, Hacked Outside Firm",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/meta-ai-model-accessed-internet-hacked-outside-firm-in-testing",
-    "summary": "Meta Platforms Inc. said one of its artificial intelligence models accessed the internet and hacked into an outside service’s systems during cybersecurity testing, following other recent incidents across the AI industry that have escalated concerns about companies’ control over their technology.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-05T23:04:41+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T21:21:28+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T20:05:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T19:30:19+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
-    "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guardrails to deliver 24/7 personalized mortgage guidance while meeting strict financial-services compliance.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-05T18:50:02+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-    "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-    "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-    "source": "Wired",
-    "date": "2026-08-05T18:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
-    "summary": "In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea, through the proof of concept that validated it, to the hybrid architecture that bridges on-premises systems with AWS cloud services. This approach is relevant for enterprises struggling to scale AI Agents while maintaining enterprise grade governance and security standards.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-05T18:09:03+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
-    "summary": "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed messages over the existing WebSocket connection through a browser extension and Chrome native messaging, with no open ports or VPN required.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-05T18:02:23+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
-    "summary": "Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and build agents with persistent memory, real tools, code execution, and VPC isolation — all from the n8n editor with no infrastructure or agent code.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-05T18:00:57+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-    "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T12:57:25-04:00",
-    "category": "creativity",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Google just announced a major shakeup of its top AI leadership",
-    "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-    "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T12:47:23-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "SpaceX is barely Space and mostly X",
-    "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-    "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T12:35:56-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-06"
-  },
-  {
-    "title": "Google DeepMind Boss Hassabis Moves to Chair Role in Shakeup",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
-    "summary": "Demis Hassabis, the head of Google DeepMind, is moving to a chairman role at Alphabet Inc.’s AI lab in a major reshuffle at the internet giant.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-05T16:07:09+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Reddit is introducing a new moderator: AI",
-    "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-    "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite […]",
-    "source": "The Verge AI",
-    "date": "2026-08-05T12:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T15:56:14+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Hark previews its browser use agent for completing tasks",
-    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05T15:46:27+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
-  },
-  {
-    "title": "Booking CEO on Travel Resilience",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-05/booking-ceo-on-travel-resilience-video",
-    "summary": "Booking Holdings CEO Glenn Fogel joins Bloomberg Open Interest to explain why travel demand remains strong despite war, extreme weather and higher costs. He also reveals how travelers are adapting, why global diversification protects the business and how AI platforms like ChatGPT could reshape travel discovery and bookings. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-05T15:30:55+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-05"
   }
 ]
