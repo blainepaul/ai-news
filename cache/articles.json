@@ -1,5 +1,135 @@
 [
   {
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to […]",
+    "source": "The Verge AI",
+    "date": "2026-08-13T11:30:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T15:08:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+    "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T14:34:43+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Does Google even want to win at AI?",
+    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is […]",
+    "source": "The Verge AI",
+    "date": "2026-08-13T10:10:31-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+    "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+    "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single […]",
+    "source": "The Verge AI",
+    "date": "2026-08-13T09:30:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "DeepSeek Jacks Up Price for Flagship AI Models Ahead of IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/deepseek-increases-prices-for-ai-services-by-multiple-times",
+    "summary": "DeepSeek is steeply raising the prices for its flagship V4 models ahead of a potential initial public offering, even as the low-cost provider’s rates remain well below those of its major artificial intelligence rivals.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-13T12:52:56+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Private Credit Markets Face AI Debt Exposure Challenge",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-13/private-credit-markets-face-ai-debt-exposure-challenge-video",
+    "summary": "The growth of AI and hyperscalers poses opportunities but also risks, accounting for as much as 30% of net new issuance this year in some indexes if you include Nvidia Corp. which this week attempted to calm credit markets by offering its computing power as a form of securitization. Neil Callanan of Bloomberg News warns that while systemic risk is not imminent, it could materialize if banks become overly exposed to the impact of residual value guarantees or if insurance products linked to them c",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-13T11:09:13+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Okta targets AI agent token costs with MCP scoping",
+    "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+    "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including […] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-13T09:22:06+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "How kids feel about AI, in their own words",
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-13T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+    "source": "Wired",
+    "date": "2026-08-13T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Come l’intelligenza artificiale cambierà il sistema energetico",
+    "url": "https://www.agendadigitale.eu/smart-city/come-lintelligenza-artificiale-cambiera-il-sistema-energetico/",
+    "summary": "L’intelligenza artificiale promette i benefici maggiori nelle reti, nel dispacciamento, negli accumuli e nella gestione flessibile dei consumi. Produzione rinnovabile, imprese, abitazioni e veicoli elettrici potranno guadagnare efficienza, mentre data center e infrastrutture digitali aumenteranno domanda elettrica e investimenti lungo la filiera L'articolo Come l’intelligenza artificiale cambierà il sistema energetico proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-13T08:55:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "L’AI in sanità serve anche alle organizzazioni, non solo ai medici",
+    "url": "https://www.agendadigitale.eu/sanita/lai-in-sanita-serve-anche-alle-organizzazioni-non-solo-ai-medici/",
+    "summary": "L'intelligenza artificiale in sanità supera il perimetro della ricerca scientifica ed entra nei percorsi di cura. Il cambiamento reale riguarda l'intera organizzazione ospedaliera: gestione dei posti letto, flussi dei pazienti, processi amministrativi, non solo il supporto diagnostico raccontato finora L'articolo L’AI in sanità serve anche alle organizzazioni, non solo ai medici proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-13T08:35:36+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
+    "title": "Perché la traduzione universale degli LLM rende il linguaggio invisibile",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/perche-la-traduzione-universale-degli-llm-rende-il-linguaggio-invisibile/",
+    "summary": "Gli LLM trasformano lingue, stili e codici passando attraverso una forma logica comune. La traduzione universale rende così trasparente il canale, riduce il valore delle mediazioni linguistiche e concentra ciò che conta agli estremi del processo: il punto di partenza e quello di arrivo L'articolo Perché la traduzione universale degli LLM rende il linguaggio invisibile proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-13T07:29:49+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-13"
+  },
+  {
     "title": "ASUS Lifts AI Server Growth Target",
     "url": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y",
     "summary": "ASUS Co-CEO, S.Y. Hsu, says AI server demand remains strong, prompting the company to raise its 2026 growth outlook. He discusses AI infrastructure spending, memory shortages, supply chain challenges, and the outlook for AI servers and PCs. He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
@@ -2456,156 +2586,6 @@
     "source": "TechCrunch AI",
     "date": "2026-08-06T15:53:03+00:00",
     "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T15:10:32+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-    "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-    "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (D-MA), Sen. Richard Blumenthal (D-CT), and Rep. Melanie […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T10:30:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "The left and right agree on one thing: no data centers",
-    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-    "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.  Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T10:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Amid legal battles, Suno says it will start watermarking songs",
-    "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T13:31:57+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "The messy politics behind Google’s big AI shakeup",
-    "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-    "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T09:26:42-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T13:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "AI bots started a religion — humans immediately followed",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-    "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T09:00:00-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-    "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-    "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-06T13:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T12:30:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Two Fossil Fuel Companies Are Betting Big on Data Centers",
-    "url": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
-    "summary": "Chevron and Williams are big winners in the race to power artificial intelligence as they build out gas-fired power plants and pipelines.",
-    "source": "Wired",
-    "date": "2026-08-06T10:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Perché le aziende non ottengono ritorni dall’AI generativa",
-    "url": "https://www.agendadigitale.eu/industry-4-0/perche-le-aziende-non-ottengono-ritorni-dallai-generativa/",
-    "summary": "Il costo dell’inferenza è crollato, ma molte aziende continuano a valutare l’AI con business case superati. Il nodo non è più il prezzo dei token, bensì la capacità di ridisegnare processi, governance e organizzazione attorno ai sistemi agentici L'articolo Perché le aziende non ottengono ritorni dall’AI generativa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-06T10:26:10+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-06T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T05:33:11-04:00",
-    "category": "policy_regulation",
     "_slot": "morning",
     "_slot_date": "2026-08-07"
   }
