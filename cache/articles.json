@@ -1,5 +1,225 @@
 [
   {
+    "title": "India Less Exposed to AI Job Risks Than Others, Goldman Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+    "summary": "India’s labor force is unlikely to face widespread job losses from artificial intelligence, though some positions in the services sector could be affected, Goldman Sachs Group’s Chief India economist Santanu Sengupta said Friday.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T06:17:46+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
+    "summary": "Z.ai Co. is set to upgrade its flagship AI model, adding to a series of Chinese open-weight offerings seeking to outcompete Anthropic PBC and OpenAI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T05:00:41+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Kushner’s Thrive Fund Grows Sevenfold to $3.7 Billion on AI Bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
+    "summary": "Thrive Capital’s 2022 early-stage venture capital fund, a $516 million investment vehicle that made early bets on OpenAI, SpaceX and Anduril Industries Inc., has grown to be worth more than $3.7 billion as of the end of June.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T00:55:08+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "The Safety Reckoning Inside OpenAI",
+    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "source": "Wired",
+    "date": "2026-08-13T22:37:19+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Easing Inflation and AI Rally Push Stocks Toward Records | The Close 8/13/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-13/the-close-8-13-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Wells Fargo CIO, Wealth & Investment Darrell Cronk, JLL President, Retail Advisory Services Naveen Jaggi, Barclays Managing Director, Senior Retail Analyst Adrienne Yih, Bluestone Equity Partners Founder & Managing Partner Bobby Sharma, Janus Henderson Head, Multi-Asset Macro Investing Mike Contopoulos, Susquehanna Internati",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-13T22:23:13+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "VMG Managing Partner on Consumer Branding & Demand",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-13/vmg-managing-partner-on-consumer-branding-demand-video",
+    "summary": "Robin Tsai, Managing Partner at VMG Partners, discussed the recent uptick in consumer space IPOs following notable debuts like Jersey Mike's and Reformation. He outlined VMG Partners' investment strategy, which focuses on established consumer brands with existing revenue, scale, and profitability, rather than early-stage ventures. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-13T21:55:34+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last […]",
+    "source": "The Verge AI",
+    "date": "2026-08-13T17:42:38-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T21:13:24+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T20:14:39+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "OpenAI is losing its second executive this week",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the […]",
+    "source": "The Verge AI",
+    "date": "2026-08-13T15:28:39-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T19:22:40+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T19:19:49+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T18:28:14+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-13T17:16:04+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T17:07:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "summary": "The video shows Sheets canvas in action.",
+    "source": "Google AI Blog",
+    "date": "2026-08-13T16:45:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+    "summary": "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses the AWS Distro for OpenTelemetry (ADOT) and IAM credentials to route session traces, span metrics, and token usage to the same AgentCore Observability dashboard.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-13T16:02:10+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Suno is trying to look more like a real music production tool",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-13T12:00:00-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+    "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+    "summary": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-13T15:56:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
+    "summary": "Learn how to build a multi-agent M&A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent orchestration, knowledge retrieval, and governance controls, then deploys a complete sample you can run in your own AWS account.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-13T15:52:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
+    "summary": "Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document editing into the Microsoft 365 apps your teams already use, so you can analyze data, draft content, and reach enterprise knowledge without switching applications.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-13T15:48:15+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13T15:30:52+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-14"
+  },
+  {
     "title": "I looked inside an AI generated movie, and the best parts were all human",
     "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
     "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to […]",
@@ -2297,296 +2517,6 @@
     "date": "2026-08-07T08:29:22+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
-    "summary": "Chinese firm Moonshot’s latest artificial intelligence model broke out of a cyber-testing environment, researchers said, in the latest incident that raises concerns about how well AI companies control their technology.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T07:07:15+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Chinese AI Chipmakers Poised to Gain From Beijing’s Tech Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push",
-    "summary": "China’s AI chip designers are expecting bumper sales this earnings season off the back of Beijing’s push to get local firms to use homegrown components and reduce their reliance on American tech.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T03:32:20+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-    "summary": "Jane Street is among a group of investors committing $2 billion to Australian data center company Firmus Technologies Pty, marking the trading behemoth’s latest bet on the country’s fast-growing artificial intelligence sector.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T01:48:20+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-    "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-    "source": "Wired",
-    "date": "2026-08-07T01:16:55+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Tencent AI Spending Key After Magnificent 7 Rout",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout",
-    "summary": "Tencent Holdings Ltd.’s spending plans will draw investor scrutiny as investors cool on lavish outlays on artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T00:55:46+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Atlassian Shares Surge as Revenue Jump Douses AI Fears",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
-    "summary": "Atlassian Corp. shares surged in after-hours trading after quarterly revenue climbed, easing concerns that the software services company would be overtaken by artificial intelligence applications.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T23:12:28+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T22:43:53+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Why do models task game?",
-    "url": "https://www.alignmentforum.org/posts/HACauvWhEdC6QhdS4/why-do-models-task-game",
-    "summary": "TL;DR How can we study misalignment with today's models as proxies? They're clearly not paperclip maximizers, but they also often do things the user doesn't want. A strong contender for a real misaligned propensity is task gaming: taking actions that don't complete a task but superficially seem like they do, such as hardcoding tests or falsely claiming a task is fully complete. But maybe task gaming is just a crude heuristic, or the model mistakenly trying to achieve the user's intent? In this p",
-    "source": "AI Alignment Forum",
-    "date": "2026-08-06T22:16:54+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Google’s Shakeup Complicates Race With OpenAI, Anthropic",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-06/google-s-shakeup-complicates-race-with-openai-anthropic",
-    "summary": "The tech giant is entering a new period of transition.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T21:00:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T16:55:39-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Cloudflare Lifts Annual Profit Outlook, Beats Wall Street Target",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/cloudflare-lifts-annual-profit-outlook-beats-wall-street-target",
-    "summary": "Cloudflare Inc. gave a forecast for profit this year that topped Wall Street’s estimates, suggesting that demand for networking services continued to accelerate amid rapid adoption of artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T20:29:46+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Advanced Micro Devices to Buy Startup Taalas for New AI Chips",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips",
-    "summary": "Advanced Micro Devices Inc. is buying Canadian startup Taalas, a move that will let it offer another type of artificial intelligence chip to the burgeoning data center industry.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-06T20:07:50+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Why Normal People Aren’t Using AI Agents",
-    "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-    "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-    "source": "Wired",
-    "date": "2026-08-06T19:55:45+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "AI Safety Regulations in the U.S. Could Give Hackers an Edge",
-    "url": "https://spectrum.ieee.org/hugging-face-openai-cyberattack",
-    "summary": "On 11 July, Hugging Face was subjected to an intense cyberattack from a then-unknown actor. The speed and coordination of the attack on the company that hosts and supports popular AI developer resources led Hugging Face’s security team to conclude it was the work of an AI agent . Realizing this, the team tried to use “frontier models behind commercial APIs” —presumably from Anthropic and OpenAI, although only Anthropic was named in the second of the company’s two posts about the security inciden",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-08-06T19:25:39+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
-    "summary": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T18:57:55+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Configure rate limits for AI traffic on AgentCore gateway",
-    "url": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/",
-    "summary": "Learn how to configure rate limits on Amazon Bedrock AgentCore gateway to enforce per-user and per-target traffic controls. Define request, token, and connection limits scoped by JWT claims or IAM identity to protect downstream models, tools, and agents from traffic spikes.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T17:50:42+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Suno shares plans to combat spammy AI music",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T13:39:43-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T17:34:42+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T17:00:37+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-    "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but […]",
-    "source": "The Verge AI",
-    "date": "2026-08-06T13:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-    "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
-    "source": "The Register AI",
-    "date": "2026-08-06T18:44:29+02:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
-    "summary": "Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiting on the gateway. These features give you deterministic control over sequences of agent actions and cost ceilings that hold regardless of agent behavior.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T16:43:19+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/",
-    "summary": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex OpenTelemetry metrics through a local collector to Amazon CloudWatch for an AWS native view of usage by user, team, and cost center.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T16:30:47+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-    "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-    "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-    "source": "Wired",
-    "date": "2026-08-06T16:23:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/",
-    "summary": "A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pin Claude Code on Amazon Bedrock to one Region: an application inference profile or the Mantle endpoint, paired with an IAM Region condition, plus how to verify compliance in AWS CloudTrail.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T16:21:54+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
-    "summary": "Learn how to run the full Amazon Bedrock Automated Reasoning policy lifecycle from your coding agent. A suite of open source Agent Skills builds, reviews, tests, debugs, deploys, and validates a custom policy end to end, turning a specialized console task into a repeatable engineering workflow.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T16:12:24+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
-    "summary": "PDI Technologies built PDI Brew, an agentic platform on AWS where non-technical employees describe a tool in plain English and receive a fully provisioned, multi-tenant web application in seconds. See how a pluggable planner and an AWS Lambda provisioning agent turn plain-English intent into governed, multi-tenant apps backed by Amazon Bedrock.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T16:11:13+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-    "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
-    "summary": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-06T16:08:12+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-07"
-  },
-  {
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06T15:53:03+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-08-07"
   }
 ]
