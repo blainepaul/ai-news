@@ -1,5 +1,35 @@
 [
   {
+    "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+    "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+    "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
+    "source": "Wired",
+    "date": "2026-08-15T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+    "summary": "Alibaba Group Holding’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world’s No. 1 artificial-intelligence model.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-15T09:16:06+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+    "source": "Wired",
+    "date": "2026-08-15T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-15"
+  },
+  {
     "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
     "url": "https://arxiv.org/abs/2608.09888",
     "summary": "",
@@ -2408,35 +2438,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-08-09"
-  },
-  {
-    "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
-    "summary": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for workers who are worried about their livelihoods, Prime Minister Lawrence Wong said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-08T11:13:30+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-    "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-    "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-08T10:24:54+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "How to Disable Gemini in Gmail and Google Docs",
-    "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-    "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-    "source": "Wired",
-    "date": "2026-08-08T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-08"
   }
 ]
