@@ -1,5 +1,175 @@
 [
   {
+    "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+    "url": "https://arxiv.org/abs/2608.09888",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-15T06:18:15+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+    "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "summary": "Hint: It’s really not a distillation story.",
+    "source": "Interconnects",
+    "date": "2026-08-14T21:23:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Nvidia Has $21 Billion SpaceX Stake, $30 Billion in Intel Shares",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares",
+    "summary": "Nvidia Corp. on Friday disclosed a nearly $21 billion stake in Elon Musk’s SpaceX and a $30 billion one in Intel Corp.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T21:17:14+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+    "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T21:08:57+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Gas Pipeline for Proposed Oracle Data Center Delayed to 2027",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/new-mexico-gas-pipeline-for-oracle-data-center-delayed-to-2027",
+    "summary": "A key New Mexico natural gas pipeline project that would supply fuel to power a planned Oracle Corp. artificial intelligence data center has been delayed by nearly six months.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T18:13:54+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Signs of a Slowing US Consumer | Open Interest 8/14/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/open-interest-8-14-2026-video",
+    "summary": "Get a jump start on the US trading day with Dave Gura on \"Bloomberg Open Interest.\" Signs the consumer is finally slowing sown. Today, retail sales post their biggest drop in more than a year as confidence slides. Oil rises as Washington threatens more economic pressure on Iran. Plus, OpenAI’s revenue surge ahead of a highly anticipated IPO. And we’ll hear from Flock Safety CEO Garrett Langley and LOVB Pro Commissioner Sandra Idehen on the $20 million boom in women’s volleyball. (Source: Bloombe",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T18:04:09+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "OpenAI’s Explosive Growth Continues | Bloomberg Tech 8/14/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video",
+    "summary": "Bloomberg’s Tim Stenovec takes a look at OpenAI, which is on track to generate annualized revenue of more than $40 billion, roughly doubling its run rate from the end of 2025. Plus, how a New York City bill backed by Mayor Zohran Mamdani could force Amazon to directly employ its delivery workers, and Meta's former chief AI scientist joins a new venture firm to invest in early AI startups. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T17:55:40+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Beyond Chatbots: The Next Wave of AI",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
+    "summary": "224 Ventures is a new AI-native venture firm launched by former AIX Ventures co-founder Shaun Johnson, ex-Google DeepMind researcher Oriol Vinyals, and AI pioneer Yann LeCun. The trio plans to make seed-stage bets and launches with more than $100 million in assets under management. 224 Ventures General Partner Shaun Johnson discusses why the most compelling opportunities may be “nonconsensus” bets, with white space emerging in the future of work, robotics and infrastructure. He joins Tim Stenove",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T17:52:39+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "OpenAI on Track to Double Revenue Ahead of IPO",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video",
+    "summary": "OpenAI is on track to generate more than $40 billion in annualized revenue, roughly double its run rate at the end of 2025, according to sources. Bloomberg’s Rachel Metz explains how growth in paying ChatGPT users, enterprise adoption and coding assistant Codex are driving the surge, and why the enormous cost of computing power remains a key challenge for the AI company. She joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T17:48:35+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+    "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-14T17:13:05+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Mark Zuckerberg has an Instagzam",
+    "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of […]",
+    "source": "The Verge AI",
+    "date": "2026-08-14T12:54:16-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of […]",
+    "source": "The Verge AI",
+    "date": "2026-08-14T12:39:32-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14T16:13:40+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+    "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+    "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code safely inside it, and instrument each component to catch the pitfalls that quietly collapse a reward.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-14T16:02:10+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+    "summary": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each specialized agent uses the model best suited to its job. This post also shows how to get token-level observability from SageMaker endpoints that Strands Agents does not instrument by default.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-14T15:58:44+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14T15:43:28+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
+    "title": "AI Companies Work for Better Data, Not Better Models",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
+    "summary": "Rudina Seseri, founder and managing partner of Glasswing Ventures, joins Businessweek to discuss latest AI-related headlines including reports that Anthropic is in talks to buy startup 'Decart' for $6 Billion. She argues that with many of the major AI companies operating today like OpenAI and Anthropic \"their success is also their limitation, which is they're not efficient.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-14T15:16:15+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
+  },
+  {
     "title": "Kog is going deeper to squeeze more inference out of GPUs",
     "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
@@ -38,6 +208,16 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-08-14"
+  },
+  {
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14T14:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-15"
   },
   {
     "title": "Reddit Climbs, Applied Materials, Gemini Fall | Stock Movers",
@@ -2257,176 +2437,6 @@
     "date": "2026-08-08T10:00:00+00:00",
     "category": "models_research",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07T22:48:24+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07T21:30:11+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Data Center Firm Switch to File Confidentially for IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo",
-    "summary": "Switch Inc. filed confidentially for a US IPO, according to people familiar with the matter, joining its data center peers in tapping demand for exposure to the artificial intelligence theme.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T21:23:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Gen CEO on Earnings, New Cybersecurity Attack Tracker",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-07/gen-ceo-on-earnings-new-cybersecurity-attack-tracker-video",
-    "summary": "Gen Digital's shares are reaching their highest levels in nearly a year following an upward revision of its earnings forecast. Vincent Pilette, President and CEO of Gen Digital, expressed strong confidence in sustaining double-digit growth over the coming quarters, driven by increased demand for cybersecurity solutions amid growing concerns related to AI and agentic technologies. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T20:17:50+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it […]",
-    "source": "The Verge AI",
-    "date": "2026-08-07T16:01:51-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-    "summary": "JPMorgan Chase & Co. sees bond sales from technology-related firms exceeding half a trillion dollars this year, as hyperscalers’ appetite to deploy capital for the artificial intelligence buildout shows no sign of abating despite growing investor fatigue.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T19:03:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. […]",
-    "source": "The Verge AI",
-    "date": "2026-08-07T14:59:46-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
-    "source": "The Verge AI",
-    "date": "2026-08-07T14:40:34-04:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "url": "https://huggingface.co/blog/allenai/tutormoments",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-07T17:53:32+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
-    "summary": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T17:15:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Jobs, AI, and Tech Earnings | Bloomberg Tech 8/07/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-tech-8-07-2026-video",
-    "summary": "Bloomberg’s Ed Ludlow breaks down the latest jobs data, as US employers unexpectedly cut jobs in July and questions grow over AI’s role in the labor market. Plus, the CEOs of Twilio, Lyft, and DraftKings join to discuss their latest earnings. And, OpenAI’s first consumer device is taking shape, an AI smart speaker designed to look like a doughnut. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T17:05:02+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Why Twilio Sees More AI Upside Ahead",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-07/why-twilio-sees-more-ai-upside-ahead-video",
-    "summary": "Twilio shares surged after the cloud communications company beat expectations and delivered record profitability and free cash flow. CEO Khozema Shipchandler joins Bloomberg to explain why AI is still only a modest contributor to revenue today, how Twilio’s global communications infrastructure creates a competitive moat, and why he sees agentic AI as a long-term tailwind for the business. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-07T17:04:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "What&#8217;s behind the Google AI shake-up",
-    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in […]",
-    "source": "The Verge AI",
-    "date": "2026-08-07T12:45:14-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
-    "summary": "In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, unified tool access through AgentCore Gateway, AgentCore Memory, and the Agent Skills open standard to rapidly scale policy digitization capabilities, while preserving transparency, version control, and human oversight.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-07T16:26:58+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-    "summary": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing root-cause analysis from 15 to 30 minutes of manual work to under 60 seconds.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-07T16:22:50+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
-    "url": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-    "summary": "The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The approach was validated against four full NHL seasons of officially published results.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-07T16:21:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-08"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07T16:16:09+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
     "_slot_date": "2026-08-08"
   }
 ]
