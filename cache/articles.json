@@ -1,5 +1,55 @@
 [
   {
+    "title": "Does DiffusionGemma do latent reasoning?",
+    "url": "https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning",
+    "summary": "TL;DR Google DeepMind's recent model DiffusionGemma (DG) generates text via diffusion, meaning many diffusion steps happen before generating the final output. In particular, these diffusion steps carry vectors in addition to tokens. If we cannot interpret these tokens and vectors, the model has significant opaque serial depth , potentially harming monitorability. Recently, Engels et al. found that DG nevertheless maintains high monitorability, for instance by showing that projecting the distribu",
+    "source": "AI Alignment Forum",
+    "date": "2026-08-16T04:22:18+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-16"
+  },
+  {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15T21:29:19+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-16"
+  },
+  {
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as […]",
+    "source": "The Verge AI",
+    "date": "2026-08-15T16:45:00-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-16"
+  },
+  {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15T18:58:39+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-16"
+  },
+  {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15T16:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-16"
+  },
+  {
     "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
     "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
     "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
@@ -2407,36 +2457,6 @@
     "date": "2026-08-09T07:11:17+00:00",
     "category": "models_research",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-09"
-  },
-  {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-08T21:24:02+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-09"
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-08T19:41:13+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-09"
-  },
-  {
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-08T13:53:34-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-08-09"
   }
 ]
