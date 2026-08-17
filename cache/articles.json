@@ -1,5 +1,95 @@
 [
   {
+    "title": "AI Era Demands More Agile Leaders, Harvard’s Linda Hill Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/ai-era-demands-more-agile-leaders-harvard-s-linda-hill-says",
+    "summary": "The next generation of chief executives will need to spend more time building flexible organizations as the deployment of artificial intelligence rapidly reshapes how companies do business, according to Harvard Business School Professor Linda Hill.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T05:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
+    "url": "https://arxiv.org/abs/2407.04149",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-17T00:46:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Input 4-5x Reduction with sentence and keyword based trie on chat. [P]",
+    "url": "https://github.com/oteomamo/SALT",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-08-16T21:43:06+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility […]",
+    "source": "The Verge AI",
+    "date": "2026-08-16T17:32:56-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-16T20:57:04+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-16T20:32:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "summary": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-16T19:32:41+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-16T16:53:51+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
+    "source": "The Verge AI",
+    "date": "2026-08-16T10:56:40-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-17"
+  },
+  {
     "title": "Rogue AI aren’t science fiction anymore",
     "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents […]",
@@ -2318,105 +2408,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "AI Safety Fears Grow After Multiple Breaches",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
-    "summary": "The infiltration of Hugging Face by OpenAI's agents has put AI-enabled cyber attacks into the spotlight. The incident and similar breaches reported by Anthropic PBC and Meta Platforms Inc. have fueled calls in Washington and Silicon Valley for more thorough safety reviews of artificial intelligence models. Bloomberg's Jordan Robertson reports. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T06:17:28+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters",
-    "summary": "Taiwan Semiconductor Manufacturing Co. reported a 45% rise in its monthly sales, a sign of sustained demand for AI hardware in the face of market volatility.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T05:34:21+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "NEC tests parking tech that only starts charging once you exit your car",
-    "url": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
-    "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
-    "source": "The Register AI",
-    "date": "2026-08-10T03:32:04+02:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "summary": "The AI-focused hedge fund is still making some big bets.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09T20:35:17+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "summary": "Programming with Claude Code will soon require even less human oversight.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09T19:20:32+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
-    "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-09T17:36:22+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "I never understood positional encoding until I read this article. [D]",
-    "url": "https://defenceagainstdarkai.substack.com/p/who-bit-whom",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-09T16:22:07+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Non-Physical Intelligence Has A Ceiling [D]",
-    "url": "https://chaotropy.substack.com/p/non-physical-intelligence-has-a-ceiling",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-09T15:50:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09T15:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-09"
-  },
-  {
-    "title": "Lessons from the hacks",
-    "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-    "summary": "Musings on model alignment, what determines safety, and where we go from here.",
-    "source": "Interconnects",
-    "date": "2026-08-09T14:57:11+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-09"
   }
 ]
