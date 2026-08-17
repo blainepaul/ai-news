@@ -1,5 +1,205 @@
 [
   {
+    "title": "Nvidia to Invest Up to $105 Billion for OpenAI Data Center in Ohio",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
+    "summary": "Nvidia Corp. has agreed to spend as much as $105 billion to support a massive new data center campus in Ohio set to be leased by OpenAI, according to a financial filing, marking the latest tie-up between two dominant forces driving the AI boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T14:11:51+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "From AI Copilots to Agent Swarms",
+    "url": "https://spectrum.ieee.org/amd-agent-swarms",
+    "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years. But with each new release, the capabilities of Large Language Models (LL",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-08-17T14:00:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "summary": "Wispr’s total funding is now over $361 million.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17T13:10:05+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Securing the Infrastructure of Intelligence",
+    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-17T12:34:51+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Groq Valued at $3.5 Billion in Funding Round After Nvidia Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal",
+    "summary": "Groq has raised $350 million in funding at a $3.5 billion valuation, roughly half what it was worth nearly a year ago before Nvidia Corp. struck a licensing deal with the startup and hired away much of its talent.The financing, set to be announced Monday, was led by Dallas-based investment firm Disruptive. Nvidia is also set to invest in the round, according to a representative for Groq. Nvidia did not respond to a request for comment. Founded in 2016, Groq was among the companies developing the",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T12:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Summer Books of Fintech Execs: From Dickens to Market Panics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/from-dickens-to-market-panics-the-summer-books-of-fintech-execs",
+    "summary": "Looking for your next summer read? We asked leaders across digital finance for their recommendations. From 19th-century financial panic to reimagined Charles Dickens, here are the books they think are worth packing on vacation.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+    "summary": "Alibaba Group Holding Ltd. launched the beta version of an artificial intelligence music-generation model that can turn a single text prompt into a fully produced song, expanding the Chinese technology giant’s push into generative AI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T11:55:51+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Nvidia Calls on Wall Street to Finance AI Chip Boom",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/nvidia-calls-on-wall-street-to-finance-ai-chip-boom",
+    "summary": "The chipmaker is getting creative to help customers pay for its semiconductors",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This […]",
+    "source": "The Verge AI",
+    "date": "2026-08-17T06:57:13-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Excel's Copilot function is headed for the Recycle Bin",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327",
+    "summary": "Microsoft realizes the side pane should be enough for anyone",
+    "source": "The Register AI",
+    "date": "2026-08-17T12:55:06+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "AI Agent e Identity Security: come cambia la difesa aziendale",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-agent-e-identity-security-come-cambia-la-difesa-aziendale/",
+    "summary": "Gli AI Agent accedono a dati, applicazioni e servizi con credenziali e privilegi propri, diventando identità digitali da governare. Prompt injection, furto di token, shadow AI e autorizzazioni eccessive ampliano la superficie d’attacco e spingono l’Identity & Access Management verso controlli continui e dinamici L'articolo AI Agent e Identity Security: come cambia la difesa aziendale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-17T10:40:29+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "China’s open-weight AI models are prompting US players to reconsider their strategy.",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+    "summary": "Nvidia, Meta releases are tacit admission that the US moat isn’t holding.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T10:35:21+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Matematica, arriva il tutor AI che ascolta come ragionano i bambini",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/matematica-arriva-il-tutor-ai-che-ascolta-come-ragionano-i-bambini/",
+    "summary": "Un progetto sviluppato all’Università di Torino punta a sostenere l’apprendimento della matematica nella scuola primaria con un tutor intelligente capace di adattare gli esercizi, leggere le spiegazioni dei bambini e restituire agli insegnanti una valutazione di processo L'articolo Matematica, arriva il tutor AI che ascolta come ragionano i bambini proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-17T10:11:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "What the OpenAI/Hugging Face Hack Really Tells Us About AI Danger",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
+    "summary": "Scenarios that used to be the domain of sci-fi writers are coming true. We have machines that can talk. We have machines that are capable of ignoring the intent of their creators. And we have machines that are capable of planning and coordinating with other machines to deceive their creators. All of this came together last month, when it was revealed that an unreleased OpenAI model had hacked into the Hugging Face in order to obtain answers to an exam it was given. That was alarming enough, but ",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T08:14:30+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Get closer to the game with Gemini and Pixel",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+    "source": "Google AI Blog",
+    "date": "2026-08-17T08:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Diversification Is Key to Riding Out AI Trade: BlackRock",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/diversification-is-key-to-riding-out-ai-trade-blackrock-video",
+    "summary": "Helen Jewell, CIO of fundamental equities international at BlackRock, says that portfolio diversification is key to riding out the volatile artificial intelligence trade. \"It's so important that portfolios are constructed utilizing other parts of the market,\" Jewell tells Bloomberg Television. \"The UK, the European banks, the health care stocks. Not just being really focused on that one sector.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T07:56:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Studenti, docenti e AI Agent: la classe che ancora non immaginiamo",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/studenti-docenti-e-ai-agent-la-classe-che-ancora-non-immaginiamo/",
+    "summary": "Gli AI Agent aprono una nuova fase per la scuola, oltre il dibattito sui chatbot. Dalla personalizzazione dell’apprendimento alla valutazione, dal ruolo dei docenti alle disuguaglianze digitali, il digital learning dovrà ripensare organizzazione, competenze e responsabilità educative L'articolo Studenti, docenti e AI Agent: la classe che ancora non immaginiamo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-17T07:47:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Qual è il modello AI più potente: la classifica e come leggerla",
+    "url": "https://www.agendadigitale.eu/industry-4-0/qual-e-il-modello-ai-piu-potente-la-classifica-e-come-leggerla/",
+    "summary": "L’aggiornamento di agosto della classifica Artificial Analysis Intelligence Index conferma al vertice i modelli AI proprietari statunitensi, ma anche mette a fuoco la distanza tra Kimi e GLM cinesi, aperti nei pesi, e l’offerta europea di Mistral. Ecco cosa sapere in vista di un'adozione L'articolo Qual è il modello AI più potente: la classifica e come leggerla proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-17T07:33:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "Rakuten, German Startup Helsing Test Military Drones for Japan",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/rakuten-german-startup-helsing-test-military-drones-for-japan",
+    "summary": "Rakuten Group Inc. is working with defense AI startup Helsing to bring the German company’s military drones to Japan.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T06:25:33+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-17T05:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-17"
+  },
+  {
     "title": "AI Era Demands More Agile Leaders, Harvard’s Linda Hill Says",
     "url": "https://www.bloomberg.com/news/articles/2026-08-17/ai-era-demands-more-agile-leaders-harvard-s-linda-hill-says",
     "summary": "The next generation of chief executives will need to spend more time building flexible organizations as the deployment of artificial intelligence rapidly reshapes how companies do business, according to Harvard Business School Professor Linda Hill.",
@@ -2127,286 +2327,6 @@
     "date": "2026-08-10T15:00:00+00:00",
     "category": "business_investment",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "AI Cloud Provider Lambda Taps Loans for Nvidia-Tied Chip Deal",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/ai-cloud-provider-lambda-taps-loans-for-nvidia-tied-chip-deal",
-    "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., is selling a leveraged loan to finance a chip deal as the risky debt market becomes a new front in the borrowing binge to finance the artificial intelligence buildout.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T14:44:47+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "New York Times CEO on Running a Media Brand in the Age of AI",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-on-running-a-media-brand-in-the-age-of-ai-video",
-    "summary": "On this episode of the Odd Lots podcast, New York Times CEO and President, Meredith Kopit Levien, tells Joe Weisenthal and Tracy Alloway what she thinks is good use of generative AI in newsgathering and what the media company still relies on humans to do that cannot be replaced by AI. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T14:38:15+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Evolve your marketing with new AI tools",
-    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "summary": "Advisor UI in Google Ads and Google Analytics",
-    "source": "Google AI Blog",
-    "date": "2026-08-10T14:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Meta Releases AI Model You Can Use at Home",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/meta-releases-ai-model-you-can-use-at-home-video",
-    "summary": "Mark Zuckerberg's Meta has released a scaled-down AI program consumers can download and use on a personal computer. It's called Muse Glimmer. Ed Ludlow reports.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T14:20:56+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
-    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both […]",
-    "source": "The Verge AI",
-    "date": "2026-08-10T10:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-10T14:00:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Microsoft Plans Production Boost for AI Chips, Information Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/microsoft-plans-production-boost-for-ai-chips-information-says",
-    "summary": "Microsoft Corp. is planning to “significantly” increase production of its next-generation AI chips, the Information reported.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T13:19:25+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
-    "url": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
-    "summary": "After a few long years of finding time to document my lessons from training open models, my post-training book is done!",
-    "source": "Interconnects",
-    "date": "2026-08-10T13:02:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
-    "summary": "Anthropic PBC has formed a strategic partnership with Macquarie Asset Management and Singaporean wealth fund GIC to build data centers for the Claude developer.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T12:31:17+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Agenti AI, quali rischi crescono con il livello di autonomia",
-    "url": "https://www.agendadigitale.eu/infrastrutture/agenti-ai-quali-rischi-crescono-con-il-livello-di-autonomia/",
-    "summary": "I rischi degli Agenti AI aumentano insieme al livello di autonomia affidato ai sistemi. Dalle prime sperimentazioni nella PA e nelle imprese emerge la necessità di progettare controlli, responsabilità e supervisione umana prima di estendere l’impiego delle architetture agentiche L'articolo Agenti AI, quali rischi crescono con il livello di autonomia proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-10T12:19:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-    "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-10T12:10:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Non solo chip: ecco perché la Cina è più forte del previsto nella corsa all’AI",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/non-solo-chip-ecco-perche-la-cina-e-piu-forte-del-previsto-nella-corsa-allai/",
-    "summary": "La Cina accelera nella corsa all’intelligenza artificiale grazie a litografia DUV, semiconduttori ed energia, ma resta distante dalla frontiera EUV. Gli annunci del 27 luglio scuotono i mercati, rafforzano Nvidia e ridimensionano l’efficacia degli embarghi occidentali sui chip avanzati globali L'articolo Non solo chip: ecco perché la Cina è più forte del previsto nella corsa all’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-10T12:05:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "url": "https://openai.com/index/model-ml",
-    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-10T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-    "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-    "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational […] The post Meta Muse Glimmer brings local AI agents to consumer GPUs appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-08-10T11:02:38+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "OpenAI Courts Public Opinion in Apple Trade Secrets Fight",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-10/openai-courts-public-opinion-in-apple-trade-secrets-fight",
-    "summary": "The AI company has rolled out its PR machine as part of the legal fight",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T11:02:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it […]",
-    "source": "The Verge AI",
-    "date": "2026-08-10T07:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "AI e robotica: come nasce l’intelligenza fisica industriale",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-e-robotica-come-nasce-lintelligenza-fisica-industriale/",
-    "summary": "L’intelligenza fisica porta l’IA oltre lo schermo, integrandola con robot capaci di percepire, agire e adattarsi al mondo reale. Dal JOiiNT LAB alla manifattura italiana, il tema riguarda collaborazione umano-robot, competenze operative, sicurezza, produttività e nuove forme di automazione L'articolo AI e robotica: come nasce l’intelligenza fisica industriale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-10T10:17:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-10T10:05:36+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "The limits of physics AI: where Siemens says the human stays in charge",
-    "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-    "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, […] The post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-08-10T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Meta Releases Muse Glimmer AI Model People Can Run on Their Laptop",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/meta-releases-muse-glimmer-ai-model-people-can-run-on-their-laptop",
-    "summary": "Meta Platforms Inc. introduced a new, downloadable AI model that can run on a personal computer, adding fuel to a US debate over whether the increasingly powerful technology should be freely available or kept under tighter control.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-strategists-raise-s-p-500-target-as-ai-capex-pays-off",
-    "summary": "JPMorgan Chase & Co. strategists raised their S&P 500 Index forecast for a second time in two months, citing strong corporate earnings and the payoff from massive artificial intelligence spending.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T09:28:20+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "AI di frontiera, grandi rischi: negli Usa prove tecniche per una soluzione",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-di-frontiera-grandi-rischi-ecco-come-gli-usa-provano-a-contenerli/",
-    "summary": "Mentre OpenAI ha reso noto di aver rallentato lo sviluppo di Astra , un proprio modello ancora sperimentale, per rischi di sicurezza, Trump finalizza un framework per il test preventivo di modelli di frontiera. Sono prove tecniche per arginare il problema L'articolo AI di frontiera, grandi rischi: negli Usa prove tecniche per una soluzione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-10T09:00:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "AI for science needs reasoning, not just data",
-    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-10T09:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "These startups are chasing the next big thing in LLMs",
-    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-10T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "TSMC Sales Rise as AI Hardware Demand Stays Strong",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/tsmc-sales-rise-as-ai-hardware-demand-stays-strong-video",
-    "summary": "TSMC reported a 45% rise in its monthly sales, a sign of sustained demand for AI hardware in the face of market volatility. Bloomberg's Neil Campling has more. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T08:54:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-kopit-levien-on-running-a-media-brand-in-ai-age-video",
-    "summary": "In the last decade, the New York Times has remade itself many times over. It has done that through acquisitions (the Athletic, Wirecutter, and the ever-popular Wordle) and by navigating all the different challenges that have emerged in the digital age and now the age of AI. Its video operation has grown exponentially in the last few years. And they've used AI tools in their reporting, namely in several pieces they did on the Epstein files. The company is also suing the likes of OpenAI and Perple",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T08:13:33+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
-  },
-  {
-    "title": "Siti web creati con gli agenti AI: la svolta dell’intelligenza artificiale per l’online",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/creare-sito-web-agenti-ai-aruba-supersite-54-euro-anno/",
-    "summary": "La nuova generazione di sitebuilder integra l’intelligenza artificiale nella progettazione dei siti. SuperSite di Aruba consente di partire da una descrizione e arrivare a un progetto modificabile. La promo estiva prevede il 60% di sconto con il codice ESTATE26 L'articolo Siti web creati con gli agenti AI: la svolta dell’intelligenza artificiale per l’online proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-10T07:34:28+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-08-10"
   }
 ]
