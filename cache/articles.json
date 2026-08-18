@@ -1,5 +1,195 @@
 [
   {
+    "title": "Contenuti sintetici e AI Act: quando scatta l’obbligo di dichiararli",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/contenuti-sintetici-e-ai-act-quando-scatta-lobbligo-di-dichiararli/",
+    "summary": "Dal 2 agosto 2026 l’articolo 50 dell’AI Act impone nuovi obblighi di trasparenza per chatbot, deepfake e contenuti sintetici. Ecco come cambiano responsabilità, marcatura e informazione per fornitori, imprese, pubbliche amministrazioni ed editori L'articolo Contenuti sintetici e AI Act: quando scatta l’obbligo di dichiararli proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T06:26:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Why China's DeepSeek, Qwen and Moonshot Are a Worry for US AI Rivals",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
+    "summary": "Chinese AI models are cheaper and more adaptable than the preeminent US platforms, and studies suggest they’re now almost as proficient. How did that happen?",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T04:01:04+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "summary": "The model maker added $18 billion in annualized revenue in two months.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17T23:56:26+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17T21:27:05+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-17T19:46:21+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+    "summary": "Anthropic PBC is on track to generate annualized revenue of more than $65 billion based on its current performance, according to people familiar with the matter, up more than sevenfold from its pace at the end of last year.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T19:37:45+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Bedrock Brings Autonomous Driving to Construction",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video",
+    "summary": "Bedrock Robotics is bringing autonomous driving technology to construction sites, retrofitting excavators and other heavy machinery with cameras, LiDAR, Nvidia-powered compute and its own software. CEO Boris Sofman joins Bloomberg to discuss the company’s first paid commercial deployments, how autonomous equipment could address a growing shortage of skilled operators, and why demand for data centers and other infrastructure is creating an opportunity to use AI to help America build faster. He jo",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T18:34:30+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Stripe to Buy AI Firm OpenRouter in $7 Billion Deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video",
+    "summary": "Stripe is making one of its biggest AI bets yet, agreeing to buy OpenRouter for more than $7 billion, according to sources. Bloomberg’s Natasha Mascarenhas explains how OpenRouter helps developers access and optimize hundreds of AI models, why that capability has become increasingly valuable as companies focus on lowering AI costs, and what the deal signals about Stripe’s ambitions in AI. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T18:30:31+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Anthropic's Revenue Jump, Wealthy Bet on SpaceX | Bloomberg Tech 8/17/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-tech-8-17-2026-video",
+    "summary": "Bloomberg’s Ed Ludlow breaks down Anthropic's second-quarter revenue jump to more than $11.5 Billion, 14 times more compared to the same period a year ago. Plus, some family offices from around the world have built up billions of dollars of exposure to SpaceX and Bedrock Robotics launched the first fully autonomous excavator in the US. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T18:30:29+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video",
+    "summary": "The AI boom is colliding with the limits of the physical world, creating opportunities well beyond chips and data centers, according to Parnassus Investments CIO Todd Ahlsten. He joins Bloomberg to discuss why the historic surge in AI infrastructure spending is entering a riskier phase, where he sees longer-term opportunities, and why traditional software companies including Salesforce, Workday and ServiceNow could face pressure as AI changes the economics of seat-based software. He joins Ed Lud",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T18:26:40+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Anthropic’s Revenue Surges as IPO Speculation Builds",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video",
+    "summary": "Anthropic is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News. This comes as speculation builds around a potential IPO. Bloomberg’s Rachel Metz breaks down the latest financial figures and how they compare with OpenAI’s growth. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-17T18:24:14+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+    "summary": "NVIDIA Nemotron 3.5 Lightning, an open model built for high-volume agentic workloads, is now available in Amazon SageMaker JumpStart. This post shows how to deploy the 30B Mixture-of-Experts model (3B active), which delivers up to 4x higher throughput and up to 30% faster task completion for always-on agents.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-17T18:06:33+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17T16:38:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
+    "summary": "Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 protocol, using the aws-agents-pay plugin to make bounded, human-approved testnet payments.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-17T16:19:56+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17T16:15:12+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Mozilla adds ad blocking to Firefox for iOS",
+    "url": "https://www.theregister.com/software/2026/08/17/mozilla-adds-ad-blocking-to-firefox-for-ios/5288585",
+    "summary": "Experimental feature to block some, but not all, ads",
+    "source": "The Register AI",
+    "date": "2026-08-17T17:50:56+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17T15:16:24+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Teaching Everyone to Fish for Tokens",
+    "url": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "summary": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI.",
+    "source": "Interconnects",
+    "date": "2026-08-17T15:07:49+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+    "source": "Ars Technica",
+    "date": "2026-08-17T14:22:54+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-18"
+  },
+  {
     "title": "Nvidia to Invest Up to $105 Billion for OpenAI Data Center in Ohio",
     "url": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
     "summary": "Nvidia Corp. has agreed to spend as much as $105 billion to support a massive new data center campus in Ohio set to be leased by OpenAI, according to a financial filing, marking the latest tie-up between two dominant forces driving the AI boom.",
@@ -2088,245 +2278,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Uniper Targets Data Center Sales in UK, Germany on AI Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand",
-    "summary": "Uniper SE has identified about 10 sites across Europe that could be sold or leased for data-center development, as the German utility looks to capitalize on surging demand for AI infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T06:34:19+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
-    "summary": "Indian lenders need to accelerate adoption of artificial intelligence by investing in technology and infrastructure besides training workers to upskill, central bank Governor Sanjay Malhotra said Tuesday.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T06:03:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Making Sense of the Multibillion-Dollar Numbers of Nvidia Deal, Intel Share Sale",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-11/breaking-down-the-billions-in-nvidia-deal-intel-sale-video",
-    "summary": "Nvidia is becoming the \"banker of choice to the AI ecosystem\" as it seals $500 billion commitments from Wall Street giants. Meanwhile, Intel is looking at its first share sale since the 1970s. Bloomberg's reporters and market watchers make sense of the multibillion-dollar figures, with one noting the capital raise could be a \"double-edged\" sword for Nvidia. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T05:22:17+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "La caccia al prezzo fisso di luce e gas accelera prima dei rincari stagionali",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/bollette-luce-gas-prezzo-fisso-convenienza-risparmio/",
-    "summary": "L’offerta Energia PuntoFisso 12 Mesi di Engie consente di bloccare per un anno il prezzo della componente energia per luce e gas. La promozione scade il 19 agosto 2026 e prevede formule monorarie e a fasce L'articolo La caccia al prezzo fisso di luce e gas accelera prima dei rincari stagionali proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T04:41:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "summary": "San Francisco's housing market is in trouble again.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11T00:03:18+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot",
-    "summary": "Anthropic PBC has struck a $9.1 billion deal with Riot Platforms Inc., a Bitcoin mining company that recently began selling AI data center capacity, people familiar with the matter said, underscoring the Claude maker’s efforts to secure enough computing power to meet its customers’ demand.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T00:00:59+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "AI Boom Set to Drive Singapore Growth as High as 5.5% This Year",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/ai-boom-set-to-drive-singapore-growth-as-high-as-5-5-this-year",
-    "summary": "Singapore upgraded its 2026 economic growth forecast anew as the artificial intelligence boom lifts trade and manufacturing, offsetting the drag from continued fighting in the Middle East.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T00:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10T23:56:15+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Nvidia Taps Wall Street for $500 Billion Funding",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/nvidia-taps-wall-street-for-500-billion-funding-video",
-    "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to invest $500 billion in artificial intelligence infrastructure. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T23:55:14+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Asian Bank Stocks Rally as Investors Seek Safety From Volatile AI Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/bank-stock-bull-run-may-have-legs-in-asia-as-ai-trade-wobbles",
-    "summary": "Asian banks are staging one of their strongest stock rallies in decades, a trend that may continue as investors look for a safer bet in the face of the volatile AI trade.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T23:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Google’s AI Team Tells Job Seekers Its HR Filters Are Unreliable",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-    "summary": "Alphabet Inc.’s Google pitches its artificial intelligence tools to corporate clients as a way to more quickly sift through a mountain of job applications to find the most promising candidates. Some of its own AI researchers don’t want to rely on these tools when recruiting.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T22:29:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Mark Zuckerberg doesn’t understand how to live",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-    "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What […]",
-    "source": "The Verge AI",
-    "date": "2026-08-10T18:00:00-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Hey, big spender – OpenAI has a new SKU just for you",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-    "summary": "$125 a month? So, how good are those open-weight models getting, again?",
-    "source": "The Register AI",
-    "date": "2026-08-10T23:25:39+02:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10T20:53:02+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10T20:04:24+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "What building an AI-native finance function taught me",
-    "url": "https://openai.com/index/building-an-ai-native-finance-function",
-    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-10T17:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
-    "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to source $500 billion in financing for artificial intelligence infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T16:56:57+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
-    "summary": "The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates. This post shows how to install and configure the add-on, connect from the browser and from VS Code over SSH-over-SSM, and move your team to OpenID Connect sign-in with Amazon Cognito.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-10T16:34:37+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
-    "summary": "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time-to-production by 75% (from 10-12 months to 4 months), improved response quality, and reduced operational overhead while keeping analytics governed through Databricks Lakehouse Metric Views.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-10T16:30:46+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-10T16:25:36+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10T16:20:13+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Four LLM loss functions → four flavors of LLM misalignment",
-    "url": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment",
-    "summary": "It seems to me that, for every loss function that we use to train LLMs, we get a very distinct flavor of LLM misalignment. Here’s the summary table, and then we’ll go through the rows separately. Training stage Loss function Flavor of misalignment [1] Famous examples Pretraining & SFT Imitative learning (next-token prediction) “Seven deadly sins” misalignment Bing-Sydney , “Emergent misalignment” RLHF & DPO Human approval “Glazing” misalignment GPT-4o RLVR Automatic verifier “Literal genie” misa",
-    "source": "AI Alignment Forum",
-    "date": "2026-08-10T16:16:16+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the […]",
-    "source": "The Verge AI",
-    "date": "2026-08-10T11:19:05-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "JPMorgan Leads $441 Million Debt Deal for AI Infrastructure Firm",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-leads-441-million-debt-deal-for-ai-infrastructure-firm",
-    "summary": "Global AI, a two-year-old tech firm, has raised $441 million in debt financing led by JPMorgan Chase & Co. to meet growing demand for artificial intelligence data centers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-10T15:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-10"
   }
 ]
