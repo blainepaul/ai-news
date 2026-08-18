@@ -1,5 +1,295 @@
 [
   {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18T13:50:30+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Snowflake’s Plan to Cut AI Costs",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video",
+    "summary": "Snowflake CEO Sridhar Ramaswamy joins Bloomberg Open Interest in an exclusive interview to explain why the next phase of enterprise AI is about economics, not simply using the biggest model available. He breaks down how model routing can cut AI costs, why relying on a single model creates risk, and how AI agents could shift workers from repetitive tasks toward higher-value jobs. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T13:46:22+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18T13:45:40+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Sicurezza sul lavoro: come AI e sensori prevengono gli infortuni",
+    "url": "https://www.agendadigitale.eu/industry-4-0/sicurezza-sul-lavoro-come-ai-e-sensori-prevengono-gli-infortuni/",
+    "summary": "Le tecnologie per la sicurezza sul lavoro spostano il baricentro dalla ricerca delle responsabilità alla prevenzione degli infortuni. Intelligenza artificiale, sensori, wearable, computer vision, droni e digital twin ampliano la capacità di prevedere i rischi, mentre privacy, dignità e controllo dei lavoratori richiedono garanzie adeguate L'articolo Sicurezza sul lavoro: come AI e sensori prevengono gli infortuni proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T13:43:54+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "AI predittiva: perché le decisioni contano più della velocità",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/ai-predittiva-perche-le-decisioni-contano-piu-della-velocita/",
+    "summary": "Gli agenti autonomi automatizzano raccolta dei dati, sviluppo, confronto e monitoraggio dei modelli, comprimendo in poche ore attività che richiedevano mesi. L'intelligenza artificiale predittiva diventa così una leva competitiva per aziende di ogni dimensione, fondata sulla capacità di prendere decisioni migliori L'articolo AI predittiva: perché le decisioni contano più della velocità proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T13:41:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Ecco l’AI cinese che cambia la cyber security: Glm 5.3",
+    "url": "https://www.agendadigitale.eu/sicurezza/ecco-lai-cinese-che-cambia-la-cyber-security-glm-5-3/",
+    "summary": "Glm 5.3 è forse il momento che tanti temevano. Quello in cui anche un modello open, cinese, può creare rischi simili a quelli sollevati da Anthropic Mythos 5 . Ora la difesa cyber è costretta ad accelerare L'articolo Ecco l’AI cinese che cambia la cyber security: Glm 5.3 proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T13:16:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "source": "Ars Technica",
+    "date": "2026-08-18T13:00:04+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural […]",
+    "source": "The Verge AI",
+    "date": "2026-08-18T09:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Anthropic's Annualized Revenue Tops $65 Billion",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video",
+    "summary": "Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, that's up more than seven times from its pace at the end of last year, as Tom Mackenzie reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T12:55:53+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "ByteDance Draws Over $30 Billion in Orders for Jumbo Bank Loan",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/bytedance-draws-over-30-billion-in-orders-for-jumbo-bank-loan",
+    "summary": "ByteDance Ltd., the developer of TikTok, has attracted more than $30 billion of orders for its jumbo syndicated loan, people familiar with the matter said, indicating strong interest from lenders as the Chinese technology giant ramps up investments in artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T12:55:14+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-18T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-18T08:01:29-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal […]",
+    "source": "The Verge AI",
+    "date": "2026-08-18T07:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens […]",
+    "source": "The Verge AI",
+    "date": "2026-08-18T07:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "OpenAI’s New ChatGPT for Teens Has Safety and Study Features",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-s-new-chatgpt-for-teens-has-safety-and-study-features",
+    "summary": "OpenAI is releasing ChatGPT for Teens, a version of its artificially intelligent chatbot aimed at children aged 13 to 17 that the company said encourages safe usage and deeper learning.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T11:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-18T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-18T11:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Tecnici specializzati e AI: i profili più richiesti dalle imprese",
+    "url": "https://www.agendadigitale.eu/infrastrutture/tecnici-specializzati-e-ai-i-profili-piu-richiesti-dalle-imprese/",
+    "summary": "L’intelligenza artificiale generativa alimenta la domanda di tecnici specializzati per costruire e mantenere data center, reti energetiche e impianti automatizzati. I numeri Randstad mostrano una crescita superiore a quella dei colletti bianchi, mentre carenza di profili e pensionamenti frenano investimenti e competitività L'articolo Tecnici specializzati e AI: i profili più richiesti dalle imprese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T10:43:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "AI Is Starting to Create Jobs in the UK",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk",
+    "summary": "Most British businesses say artificial intelligence has created new roles, a Lloyds survey found.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T10:30:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "We still don’t know how people are really using AI",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-18T10:06:43+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "AI Act e riconoscimento facciale, limiti e novità del decreto italiano",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/ai-act-e-riconoscimento-facciale-limiti-e-novita-del-decreto-italiano/",
+    "summary": "Il decreto italiano di adeguamento all’AI Act è cambiato dopo i rilievi del Garante privacy e la posizione della Commissione europea. Il punto più delicato riguarda il riconoscimento facciale, tra uso mirato, raccolta generalizzata, autorizzazioni e limiti imposti dal diritto Ue L'articolo AI Act e riconoscimento facciale, limiti e novità del decreto italiano proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T10:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Dai selfie alla nomofobia: come cambia l’identità online",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/dai-selfie-alla-nomofobia-come-cambia-lidentita-online/",
+    "summary": "La vetrinizzazione sociale porta individui e corpi dentro una logica di esposizione permanente. Piattaforme, selfie e metriche di consenso amplificano il bisogno di riconoscimento, mentre narcisismo digitale, FOMO e nomofobia descrivono fragilità identitarie e relazionali particolarmente rilevanti tra gli adolescenti L'articolo Dai selfie alla nomofobia: come cambia l’identità online proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T09:26:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Apple’s Anti-AI Position Is Becoming Stock Market Baggage",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage",
+    "summary": "Apple Inc.’s status as an anti-artificial intelligence play helped the stock tear through the first half of the year as investors grew skeptical of the AI trade. But that sentiment has flipped, and the shares are struggling.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-18T09:07:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the […]",
+    "source": "The Verge AI",
+    "date": "2026-08-18T05:00:01-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+    "source": "MIT Tech Review",
+    "date": "2026-08-18T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+    "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+    "source": "Wired",
+    "date": "2026-08-18T09:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "Minimizzazione dinamica, la privacy AI oltre la raccolta dei dati",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/minimizzazione-dinamica-la-privacy-ai-oltre-la-raccolta-dei-dati/",
+    "summary": "La minimizzazione dei dati nei sistemi AI non riguarda solo ciò che viene raccolto, ma anche ciò che il modello apprende, conserva e può rendere inferibile. Tra GDPR, AI Act e Digital Omnibus, il principio diventa un presidio continuo lungo tutto il ciclo di vita del sistema L'articolo Minimizzazione dinamica, la privacy AI oltre la raccolta dei dati proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T08:05:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
+    "title": "La vera sfida dell’AI in azienda non è cercare, ma ricordare bene",
+    "url": "https://www.agendadigitale.eu/industry-4-0/la-vera-sfida-dellai-in-azienda-non-e-cercare-ma-ricordare-bene/",
+    "summary": "L’intelligenza artificiale rende interrogabili archivi, documenti e procedure, ma non garantisce che una risposta sia ancora valida. Le imprese devono passare dalla sola data governance a una governance della conoscenza capace di distinguere fonti, contesto e responsabilità L'articolo La vera sfida dell’AI in azienda non è cercare, ma ricordare bene proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-18T07:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-18"
+  },
+  {
     "title": "Contenuti sintetici e AI Act: quando scatta l’obbligo di dichiararli",
     "url": "https://www.agendadigitale.eu/cultura-digitale/contenuti-sintetici-e-ai-act-quando-scatta-lobbligo-di-dichiararli/",
     "summary": "Dal 2 agosto 2026 l’articolo 50 dell’AI Act impone nuovi obblighi di trasparenza per chatbot, deepfake e contenuti sintetici. Ecco come cambiano responsabilità, marcatura e informazione per fornitori, imprese, pubbliche amministrazioni ed editori L'articolo Contenuti sintetici e AI Act: quando scatta l’obbligo di dichiararli proviene da Agenda Digitale .",
@@ -2036,246 +2326,6 @@
     "source": "Bloomberg Tech",
     "date": "2026-08-11T15:22:41+00:00",
     "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-    "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU.  In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-11T15:00:06+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-    "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-11T10:45:44-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-11T13:37:10+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Why your Amazon order confirmation emails have become so unhelpful",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: […]",
-    "source": "The Verge AI",
-    "date": "2026-08-11T09:27:20-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-    "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-11T13:00:25+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-11T13:00:05+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-    "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're […]",
-    "source": "The Verge AI",
-    "date": "2026-08-11T09:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Spotify Asks Artists to Disclose Whether They’re Humans or AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/spotify-asks-creators-to-label-songs-when-they-re-ai-generated",
-    "summary": "Spotify Technology SA will soon begin identifying artist profiles created by artificial intelligence with a new “AI Personas” label in an effort to bring more transparency to listeners about who’s behind the music.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-    "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-    "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-    "source": "Wired",
-    "date": "2026-08-11T12:37:12+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Dating App Bumble to Let Men Make the First Move With Messaging Change",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/dating-app-bumble-to-let-men-make-the-first-move-with-messaging-change",
-    "summary": "Bumble Inc. will allow men to make the first move in messaging on its dating app, marking a major reversal from the company’s signature women-go-first model as it seeks to court younger users and deliver on a long-promised turnaround.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T12:30:16+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Claude will apply invisible watermarks to AI text and images",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-    "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human […]",
-    "source": "The Verge AI",
-    "date": "2026-08-11T08:22:20-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Anthropic says it will watermark text generated by its AI models",
-    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11T12:13:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-11T12:10:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Infrastrutture AI, perché il valore passa dalla produzione",
-    "url": "https://www.agendadigitale.eu/infrastrutture/infrastrutture-ai-perche-il-valore-passa-dalla-produzione/",
-    "summary": "La crescita dell’intelligenza artificiale non dipende più soltanto dai modelli, ma dalla capacità di costruire infrastrutture scalabili, integrate e sostenibili. AI Factory, dati, storage, networking, raffreddamento e software di orchestrazione diventano elementi decisivi per portare l’AI dalla sperimentazione alla produzione L'articolo Infrastrutture AI, perché il valore passa dalla produzione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T11:21:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Sequoia Raises Its Bets on AI Startups",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-11/sequoia-raises-its-bets-on-ai-startups",
-    "summary": "The venture firm tosses aside its earlier caution to boost investments in the AI race",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-11T11:02:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "The AI takeover of mathematics has begun",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-    "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-11T07:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-    "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-    "source": "Wired",
-    "date": "2026-08-11T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Sovranità crittografica: la strategia UE e italiana per il post-quantum",
-    "url": "https://www.agendadigitale.eu/sicurezza/sovranita-crittografica-la-strategia-ue-e-italiana-per-il-post-quantum/",
-    "summary": "La crittografia diventa un’infrastruttura strategica per l’autonomia europea. Tra NIS2, CRA, EuroQCI, corridoi quantistici e ruolo italiano di ACN e De Cifris, la transizione post-quantum impone governance, verificabilità, controllo delle chiavi e crypto-agility L'articolo Sovranità crittografica: la strategia UE e italiana per il post-quantum proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T10:14:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "AI Is Dead. Organoids Are Alive",
-    "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-    "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-    "source": "Wired",
-    "date": "2026-08-11T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "AI, scordati di me: come funziona il machine unlearning",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/ai-scordati-di-me-come-funziona-il-machine-unlearning/",
-    "summary": "Ogni app, piattaforma o servizio digitale può generare dati usati per addestrare modelli di intelligenza artificiale. Il GDPR tutela il diritto alla cancellazione, ma eliminare l’influenza di dati già appresi richiede tecniche di machine unlearning, benchmark affidabili e nuove forme di governance L'articolo AI, scordati di me: come funziona il machine unlearning proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T09:56:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "L’AI ha un problema di memoria: il sonno potrebbe risolverlo",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-ha-un-problema-di-memoria-il-sonno-potrebbe-risolverlo/",
-    "summary": "Il sonno delle macchine diventa una metafora sempre più concreta nella ricerca sull’intelligenza artificiale. Dall’oblio catastrofico ai modelli linguistici, laboratori universitari e aziende stanno studiando sistemi capaci di consolidare, selezionare e cancellare informazioni per imparare senza ripartire da zero L'articolo L’AI ha un problema di memoria: il sonno potrebbe risolverlo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T08:31:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Quando la macchina sfida il diritto: il nuovo ruolo del giurista",
-    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/quando-la-macchina-sfida-il-diritto-il-nuovo-ruolo-del-giurista/",
-    "summary": "La tecnologia ridisegna il diritto su due livelli: la sovranità degli Stati davanti a piattaforme, blockchain e intelligenza artificiale, e il lavoro quotidiano del giurista tra atti, legal design e LLM. La sfida è conservare controllo, responsabilità e tutela effettiva dei diritti L'articolo Quando la macchina sfida il diritto: il nuovo ruolo del giurista proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T07:23:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-11"
-  },
-  {
-    "title": "Piattaforme di AI Governance o strumenti di AI Usage Control? Guida alla scelta",
-    "url": "https://www.agendadigitale.eu/industry-4-0/piattaforme-di-ai-governance-o-strumenti-di-ai-usage-control-guida/",
-    "summary": "L'adozione pervasiva dell'AI nelle aziende ha superato la capacità di controllo dei tradizionali sistemi aziendali. La confusione del mercato tra la supervisione strategica della conformità e la sicurezza tecnica in tempo reale rischia di orientare le imprese verso soluzioni non idonee L'articolo Piattaforme di AI Governance o strumenti di AI Usage Control? Guida alla scelta proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-11T07:15:00+00:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-08-11"
   }
