@@ -1,5 +1,275 @@
 [
   {
+    "title": "L’AI restituisce tempo alla PA: agli algoritmi le carte, all’uomo le scelte",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/lai-restituisce-tempo-alla-pa-agli-algoritmi-le-carte-alluomo-le-scelte/",
+    "summary": "La Pubblica Amministrazione italiana affronta carenze di organico, scadenze del PNRR e burocrazia difensiva. L’Intelligenza Artificiale, se governata dall’uomo e inserita in architetture sicure, può diventare uno strumento operativo per accelerare istruttorie, ridurre rischi e valorizzare le competenze dei funzionari L'articolo L’AI restituisce tempo alla PA: agli algoritmi le carte, all’uomo le scelte proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-20T06:48:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "AI Startup Callosum Raises $100 Million to Make AI Tasks Cheaper",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
+    "summary": "Callosum, a startup that makes software to match specific artificial intelligence tasks with different models and chips, has raised $100 million in early financing from backers including the UK’s public AI fund.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T06:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Evolution Mining CEO on Earnings, Deals outlook",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-20/evolution-mining-ceo-on-fy-results-video",
+    "summary": "Lawrie Conway, Managing Director and CEO of Evolution Mining, discusses the miner's full-year profit that saw a 59% growth year on year.\nHe also discusses the company's dividend payout plans and potential acquisitions. \nHe speaks with Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T02:28:44+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T23:32:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Domain and publish date filters for Web Search on AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+    "summary": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those sources must be, all enforced server-side. This release also expands Web Search to the Europe (Ireland) and Asia Pacific (Tokyo) Regions.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-19T22:13:20+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Markets Rebound as Treasury Moves to Rein In Yields | The Close 8/19/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-19/the-close-8-19-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are JPMorgan Private Bank Head of Alternative Investment Strategy Sitara Sundar, Ramp Co-Founder & Co-CEO Eric Glyman, D.A. Davidson Managing Director Senior Research Analyst Michael Baker, The Estée Lauder Companies President & CEO Stéphane de La Faverie, Neuberger Senior Portfolio Manager Eli Salzmann, PGIM Public & Private Fi",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-19T22:11:27+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T22:10:46+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
+    "url": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+    "summary": "Classifying, extracting, and validating high volumes of documents is a challenge across banking, insurance, healthcare, and the public sector. See how a mid-size mortgage lender automates its entire document intake pipeline, from email to validated data, using the AWS GAIIC IDP Accelerator and Amazon Quick Automate.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-19T22:09:56+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+    "url": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+    "summary": "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-19T22:06:09+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T21:51:23+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "US vs China AI Race: How ChatGPT, Gemini, Deepseek, Kimi Agents Compare",
+    "url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+    "summary": "A spate of new releases show Chinese competitors are closing the gap on Silicon Valley, and winning market share with lower prices.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-19T21:00:01+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+    "summary": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting events. This post walks through the architecture, the AWS services involved, and the patterns for your own multi-agent support solution.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-19T20:40:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
+    "url": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
+    "summary": "KnowledgeForge mines resolved ITSM incident tickets into new knowledge base articles and automatically curates the existing library by deduplicating, quality-scoring, and improving content, using Amazon Bedrock, Amazon S3 Vectors, and AWS Step Functions in a multi-tenant, closed-loop pipeline.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-19T20:36:50+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T19:11:40+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T19:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Google Gemini is getting a dedicated student hub",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]",
+    "source": "The Verge AI",
+    "date": "2026-08-19T15:00:00-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-19T19:00:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "5 new ways to level up your learning with Search",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+    "source": "Google AI Blog",
+    "date": "2026-08-19T19:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T18:46:14+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "AI Chip Startup Fractile in Talks for $6.5 Billion Value After Anthropic Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal",
+    "summary": "Fractile, a startup developing chips tailored for artificial intelligence use that has a deal to supply Anthropic PBC, is in advanced talks to notch a valuation more than six times higher than the price it landed in May.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-19T18:31:58+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes.  Silicon Data […]",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T17:26:48+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "OpenAI hit the brakes. Now what?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause […]",
+    "source": "The Verge AI",
+    "date": "2026-08-19T13:10:09-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Meta AI is getting a Mac app",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The […]",
+    "source": "The Verge AI",
+    "date": "2026-08-19T13:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+    "source": "Wired",
+    "date": "2026-08-19T16:44:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Google Pixel Watch 5 Review: More Health, More AI",
+    "url": "https://www.wired.com/review/google-pixel-watch-5/",
+    "summary": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
+    "source": "Wired",
+    "date": "2026-08-19T16:34:24+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
+    "url": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
+    "summary": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
+    "source": "Wired",
+    "date": "2026-08-19T16:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19T15:44:53+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-20"
+  },
+  {
     "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
     "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
     "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
@@ -1947,226 +2217,6 @@
     "date": "2026-08-13T07:29:49+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "ASUS Lifts AI Server Growth Target",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y",
-    "summary": "ASUS Co-CEO, S.Y. Hsu, says AI server demand remains strong, prompting the company to raise its 2026 growth outlook. He discusses AI infrastructure spending, memory shortages, supply chain challenges, and the outlook for AI servers and PCs. He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-13T05:20:04+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-    "summary": "Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-13T01:25:06+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T22:26:37+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "CPI Relief & AI Earnings Push Stocks Toward Records | The Close 8/12/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-12/the-close-8-12-2026-video",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are DoubleLine Portfolio Manager Bill Campbell, CME Group Managing Director & Global Head of Metals Jin Hennig, Cava Co-Founder CEO Brett Schulman, Sweetgreen Co-Founder & CEO Jonathan Neman, Bank of America Global Head of Infrastructure & Sustainable Finance Karen Fang, Pivotal Advisors CEO & CIO Tiffany McGhee, The Bahnsen Gro",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-12T22:05:09+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips",
-    "summary": "CoreWeave Inc. is warning investors of the time and money it may take to shift from its exclusive use of Nvidia Corp. artificial intelligence chips.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-12T20:35:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Cisco’s AI Outlook Disappoints Investors Seeking Bigger Payoff",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/cisco-beats-on-sales-outlook-citing-broad-based-record-demand",
-    "summary": "Cisco Systems Inc. projected $7.5 billion in sales tied to the AI data center boom this fiscal year, disappointing investors who’ve seen the world’s largest networking gear supplier amass $9.3 billion in artificial intelligence-related orders over the past year.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-12T20:14:52+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T20:10:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
-    "url": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
-    "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
-    "source": "Wired",
-    "date": "2026-08-12T19:05:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-    "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-    "source": "Wired",
-    "date": "2026-08-12T18:45:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T18:19:12+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T17:51:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
-    "summary": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM principal data, query Bedrock spend by principal, project, and team, and build dashboards to track AI costs across your organization.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-12T17:45:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T17:41:29+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Twitch streamers can now opt out from training Amazon’s AI",
-    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-12T13:29:10-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T16:57:58+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
-    "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
-    "source": "The Register AI",
-    "date": "2026-08-12T18:57:33+02:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Scaling AI agents with trustworthy data",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-12T16:51:57+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T16:46:02+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-12T16:14:36+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T16:04:27+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-    "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing […]",
-    "source": "The Verge AI",
-    "date": "2026-08-12T11:52:07-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12T15:44:56+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
     "_slot_date": "2026-08-13"
   }
 ]
