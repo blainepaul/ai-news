@@ -1,5 +1,245 @@
 [
   {
+    "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+    "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Amazon. Reaching that many […] The post Amazon’s Prime Air autonomous drones to reach 500 US cities appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-20T14:05:18+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Welcome to the AI crisis in math",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. […]",
+    "source": "The Verge AI",
+    "date": "2026-08-20T10:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/google-s-waymo-has-built-a-custom-chip-for-its-robotaxis",
+    "summary": "Alphabet Inc.’s Waymo has built a custom chip that the company said will improve the performance of its robotaxis, while also diversifying its chip supply beyond third-party companies such as Nvidia Corp.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Super Micro Says Current Leaders Weren’t Aware of Smuggling Plot",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/super-micro-says-top-management-didn-t-know-of-diversion-scheme",
+    "summary": "Super Micro Computer Inc. completed an independent probe into the alleged smuggling of Nvidia Corp. chips into China, with the investigation team concluding the company’s current senior management had no knowledge of the purported scheme.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T13:35:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "source": "Ars Technica",
+    "date": "2026-08-20T13:00:35+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20T12:11:57+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "url": "https://mistral.ai/news/agentic-search/",
+    "summary": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
+    "source": "Mistral AI Blog",
+    "date": "2026-08-20T12:00:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Slack is launching collaborative vibe-coding channels",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have […]",
+    "source": "The Verge AI",
+    "date": "2026-08-20T08:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Hudson River Signs Multibillion-Dollar CoreWeave (CRWV) Deal for AI Cloud",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/hudson-river-signs-multibillion-dollar-coreweave-crwv-deal-for-ai-cloud",
+    "summary": "Hudson River Trading signed a multiyear deal with CoreWeave Inc. to power its new trading research and models using the tech company’s artificial intelligence computing services.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T11:50:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "La corsa per un’AI sicura coinvolge big tech e Governi: le ultime mosse",
+    "url": "https://www.agendadigitale.eu/sicurezza/sicurezza-ai-perche-modelli-e-agenti-sono-una-questione-geopolitica/",
+    "summary": "Openai ha rallentato lo sviluppo dell'AI di frontiera, per motivi di sicurezza, e rafforza i controlli. La sicurezza dei modelli di frontiera incide ormai su innovazione, infrastrutture, regole e rapporti di forza tra Stati Uniti e Unione europea L'articolo La corsa per un’AI sicura coinvolge big tech e Governi: le ultime mosse proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-20T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Decreto Fer X per le rinnovabili, come scegliere con l’AI i progetti su cui investire",
+    "url": "https://www.agendadigitale.eu/smart-city/decreto-fer-x-per-le-rinnovabili-come-scegliere-con-lai-i-progetti-su-cui-investire/",
+    "summary": "Il FER X mette in campo oltre 37 GW di capacità incentivabile e spinge gli operatori a distinguere i progetti rinnovabili su cui investire. Dati strutturati e intelligenza artificiale possono accelerare due diligence, confronto delle pipeline e monitoraggio dei rischi, lasciando la decisione finale alle competenze specialistiche L'articolo Decreto Fer X per le rinnovabili, come scegliere con l’AI i progetti su cui investire proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-20T10:44:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+    "summary": "Chinese AI models can build passable websites at a 75% discount to Claude",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T10:30:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Jack Ma-Backed Ant’s Profit Flattened After AI, Expansion Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/jack-ma-backed-ant-s-profit-flattened-after-ai-expansion-costs",
+    "summary": "Ant Group Co. barely grew quarterly profit after the company increased investment in artificial intelligence technology for its healthcare, large language model and payment services.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T10:11:33+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+    "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+    "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 models from over 80 providers, according to Stripe. Rather than requiring […] The post Stripe agrees to buy OpenRouter as AI model routing expands appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-20T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "ChatGPT for teens, perché stabilire l’età apre un problema privacy",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/chatgpt-for-teens-perche-stabilire-leta-apre-un-problema-privacy/",
+    "summary": "OpenAI introduce ChatGPT for Teens con protezioni rafforzate per gli utenti tra 13 e 17 anni. Il punto più delicato riguarda però l’age prediction: il sistema può stimare l’età attraverso segnali comportamentali, aprendo questioni su inferenze, minimizzazione dei dati, errori e tutela della privacy L'articolo ChatGPT for teens, perché stabilire l’età apre un problema privacy proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-20T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20T09:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+    "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world’s first minister of state for artificial intelligence at 27. In the years since, it […] The post Agentic AI in government just hit the hard part: deciding what a machine may decide appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-20T09:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Quale futuro per le lingue nell’era dell’intelligenza artificiale",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/quale-futuro-per-le-lingue-nellera-dellintelligenza-artificiale/",
+    "summary": "L’intelligenza artificiale traduce testi e produce contenuti multilingue in pochi secondi, ma non possiede esperienza culturale né consapevolezza sociale. Nel lavoro globale, la conoscenza delle lingue conserva valore quando si integra con capacità interpretative, pensiero critico e sensibilità interculturale nelle organizzazioni L'articolo Quale futuro per le lingue nell’era dell’intelligenza artificiale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-20T08:56:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Nick Bostrom on What Happens If AI Solves All Problems",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-problems-video",
+    "summary": "The philosopher Nick Bostrom was one of the first thinkers who mapped out the existential risk of AI. In his 2014 book, Superintelligence: Paths, Dangers, Strategies he delved into scenarios — like the “paperclip maximizer” for instance — that showed the dangers that unfettered and highly intelligent AI posed to humans. A decade later, in Deep Utopia: Life and Meaning in a Solved World, he looked at the other side of the AI coin, and theorizes what human experience might look like if AI is capab",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T08:14:52+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "A third of ChatGPT ads appear in irrelevant conversations",
+    "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+    "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pairing every ad with the conversation it appeared in, […] The post A third of ChatGPT ads appear in irrelevant conversations appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-20T08:07:40+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Samsung, SK Hynix Prepare Record Shareholder Returns",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-20/samsung-sk-hynix-prepare-record-shareholder-returns-video",
+    "summary": "Samsung and SK Hynix are preparing record shareholder returns after investors sent their stocks tumbling over concerns around the sustainability of AI hardware spending. Bloomberg's Neil Campling has the details. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T08:04:12+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "AI data centre regulation just got a template that needs no new law",
+    "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+    "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them, and persuade the town that has to live with the building to say […] The post AI data centre regulation just got a template that needs no new law appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-20T08:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+    "summary": "Hays Plc will focus on hiring for roles that are harder to replace with artificial intelligence, as recruitment companies globally seek to mitigate the AI threat to the jobs market.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-20T07:47:05+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
+    "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+    "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+    "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic’s AI assistant Claude. The move addresses a real gap. McKinsey’s recent State of AI survey found that […] The post HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector appeared first o",
+    "source": "AI News (AIN)",
+    "date": "2026-08-20T07:35:07+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-20"
+  },
+  {
     "title": "L’AI restituisce tempo alla PA: agli algoritmi le carte, all’uomo le scelte",
     "url": "https://www.agendadigitale.eu/cittadinanza-digitale/lai-restituisce-tempo-alla-pa-agli-algoritmi-le-carte-alluomo-le-scelte/",
     "summary": "La Pubblica Amministrazione italiana affronta carenze di organico, scadenze del PNRR e burocrazia difensiva. L’Intelligenza Artificiale, se governata dall’uomo e inserita in architetture sicure, può diventare uno strumento operativo per accelerare istruttorie, ridurre rischi e valorizzare le competenze dei funzionari L'articolo L’AI restituisce tempo alla PA: agli algoritmi le carte, all’uomo le scelte proviene da Agenda Digitale .",
@@ -2105,116 +2345,6 @@
     "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
     "source": "TechCrunch AI",
     "date": "2026-08-13T15:08:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-    "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-    "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-13T14:34:43+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Does Google even want to win at AI?",
-    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-    "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is […]",
-    "source": "The Verge AI",
-    "date": "2026-08-13T10:10:31-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-    "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-    "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single […]",
-    "source": "The Verge AI",
-    "date": "2026-08-13T09:30:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "DeepSeek Jacks Up Price for Flagship AI Models Ahead of IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/deepseek-increases-prices-for-ai-services-by-multiple-times",
-    "summary": "DeepSeek is steeply raising the prices for its flagship V4 models ahead of a potential initial public offering, even as the low-cost provider’s rates remain well below those of its major artificial intelligence rivals.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-13T12:52:56+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Private Credit Markets Face AI Debt Exposure Challenge",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-13/private-credit-markets-face-ai-debt-exposure-challenge-video",
-    "summary": "The growth of AI and hyperscalers poses opportunities but also risks, accounting for as much as 30% of net new issuance this year in some indexes if you include Nvidia Corp. which this week attempted to calm credit markets by offering its computing power as a form of securitization. Neil Callanan of Bloomberg News warns that while systemic risk is not imminent, it could materialize if banks become overly exposed to the impact of residual value guarantees or if insurance products linked to them c",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-13T11:09:13+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Okta targets AI agent token costs with MCP scoping",
-    "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-    "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including […] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-08-13T09:22:06+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "How kids feel about AI, in their own words",
-    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-13T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-    "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-    "source": "Wired",
-    "date": "2026-08-13T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Come l’intelligenza artificiale cambierà il sistema energetico",
-    "url": "https://www.agendadigitale.eu/smart-city/come-lintelligenza-artificiale-cambiera-il-sistema-energetico/",
-    "summary": "L’intelligenza artificiale promette i benefici maggiori nelle reti, nel dispacciamento, negli accumuli e nella gestione flessibile dei consumi. Produzione rinnovabile, imprese, abitazioni e veicoli elettrici potranno guadagnare efficienza, mentre data center e infrastrutture digitali aumenteranno domanda elettrica e investimenti lungo la filiera L'articolo Come l’intelligenza artificiale cambierà il sistema energetico proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-13T08:55:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "L’AI in sanità serve anche alle organizzazioni, non solo ai medici",
-    "url": "https://www.agendadigitale.eu/sanita/lai-in-sanita-serve-anche-alle-organizzazioni-non-solo-ai-medici/",
-    "summary": "L'intelligenza artificiale in sanità supera il perimetro della ricerca scientifica ed entra nei percorsi di cura. Il cambiamento reale riguarda l'intera organizzazione ospedaliera: gestione dei posti letto, flussi dei pazienti, processi amministrativi, non solo il supporto diagnostico raccontato finora L'articolo L’AI in sanità serve anche alle organizzazioni, non solo ai medici proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-13T08:35:36+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-13"
-  },
-  {
-    "title": "Perché la traduzione universale degli LLM rende il linguaggio invisibile",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/perche-la-traduzione-universale-degli-llm-rende-il-linguaggio-invisibile/",
-    "summary": "Gli LLM trasformano lingue, stili e codici passando attraverso una forma logica comune. La traduzione universale rende così trasparente il canale, riduce il valore delle mediazioni linguistiche e concentra ciò che conta agli estremi del processo: il punto di partenza e quello di arrivo L'articolo Perché la traduzione universale degli LLM rende il linguaggio invisibile proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-13T07:29:49+00:00",
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-08-13"
