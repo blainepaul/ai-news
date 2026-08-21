@@ -1,5 +1,145 @@
 [
   {
+    "title": "Broadcom Seeking More Than $60 Billion in Latest AI Debt Deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/broadcom-seeking-more-than-60b-in-latest-ai-debt-deal-video",
+    "summary": "Broadcom is in talks to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies. Ed Ludlow reports on Bloomberg Television. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T14:35:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+    "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+    "summary": "About this Webinar Turn Yield Excursions into Faster, More Confident Root Cause Analysis When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make traditional dashboards slow, fragmented, and difficult to act on. What You’ll Learn: Discover how a purpose-built semiconductor analytics platform can help engineers connect insights across domains with",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-08-21T14:32:37+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Major YouTube creators are facing backlash for accepting AI money",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-21T09:37:52-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "DeepSeek Unveils Test Model to Rival Anthropic’s Opus 4.8",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/deepseek-unveils-test-model-to-rival-anthropic-s-opus-4-8",
+    "summary": "DeepSeek unveiled an experimental AI model that can understand visual prompts, saying the tool nears the performance of an advanced model by US rival Anthropic PBC.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T11:04:33+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "UK Bets on a Boom in AI Chip Newcomers",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/uk-bets-on-a-boom-in-ai-chip-newcomers",
+    "summary": "The government is helping fund some promising startups to gain a domestic foothold in the industry",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T11:02:01+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Prompt injection nei documenti legali: il caso Galileu",
+    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/prompt-injection-nei-documenti-legali-il-caso-galileu/",
+    "summary": "Nel processo brasiliano legato al caso Galileu, istruzioni nascoste in un atto hanno acceso l’allarme sul prompt injection: documenti pensati per i giudici possono diventare input capaci di condizionare sistemi di intelligenza artificiale impiegati da tribunali, avvocati e consulenti nelle attività quotidiane L'articolo Prompt injection nei documenti legali: il caso Galileu proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-21T10:41:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "AI e umani, prove di convivenza: i modelli a confronto",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-e-umani-prove-di-convivenza-i-modelli-a-confronto/",
+    "summary": "La competizione nell'intelligenza artificiale non riguarda soltanto prestazioni e mercato: Anthropic concentra il potere cognitivo, Palantir quello informativo, mentre i modelli cinesi legano l'allineamento alle priorità dello Stato. L'Europa cerca una terza via fondata su diritti, pluralismo e responsabilità pubblica L'articolo AI e umani, prove di convivenza: i modelli a confronto proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-21T09:32:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "200 mila licenziati “per colpa dell’AI”: che c’è dietro i nuovi dati",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/ai-e-licenziamenti-cosa-ce-davvero-dietro-ai-tagli-del-personale/",
+    "summary": "Un nuovo studio ha dati allarmanti, su licenziamenti che le aziende riconducono all'uso dell'intelligenza artificiale. Ma dietro i numeri c'è altro. Una dinamica più complessa tra investimenti, bilanci e automazione reale L'articolo 200 mila licenziati “per colpa dell’AI”: che c’è dietro i nuovi dati proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-21T09:20:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Japan Earmarks Another $944 Million for Rapidus in AI Chip Race",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/japan-earmarks-another-944-million-for-rapidus-in-ai-chip-race",
+    "summary": "Japan’s government is allocating an additional ¥150 billion ($944 million) for chip startup Rapidus Corp., ramping up spending in a long-shot bid to compete against the likes of Taiwan Semiconductor Manufacturing Co.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T09:01:30+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "When AI designs a drug, who gets the credit?",
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-21T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "How AI coding tools are contributing to the popularity of JavaScript",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+    "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was […] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-08-21T08:41:29+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Agentic AI nel marketing: come cambiano metriche, strumenti e controllo",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/agentic-ai-nel-marketing-come-cambiano-metriche-strumenti-e-controllo/",
+    "summary": "L’Agentic AI porta il marketing digitale verso sistemi capaci di pianificare, eseguire e ottimizzare attività in modo autonomo. Cambiano metriche, strumenti e modelli operativi, mentre resta centrale la supervisione umana per garantire controllo strategico, trasparenza e responsabilità L'articolo Agentic AI nel marketing: come cambiano metriche, strumenti e controllo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-21T08:19:36+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
+    "summary": "Nvidia Corp. is in early discussions with the Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment or perhaps even an acquisition, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T07:45:43+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-21"
+  },
+  {
     "title": "Can Anthropic Beat SpaceX’s Record IPO Size?",
     "url": "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video",
     "summary": "Anthropic expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom. Anthony Stephens has the latest. (Source: Bloomberg)",
@@ -2318,135 +2458,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14T14:50:11+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-    "source": "Ars Technica",
-    "date": "2026-08-14T14:27:14+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Picky Investors Push Back on High-Grade Prices After Debt Deluge",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/picky-investors-push-back-on-high-grade-prices-after-debt-deluge",
-    "summary": "Blue-chip firms are swarming the US debt market to finance everything from acquisitions to the artificial intelligence buildout. But investors are getting pickier about what they’ll buy, and at what price, as the borrowing frenzy takes its toll.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T14:09:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14T14:05:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14T14:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Reddit Climbs, Applied Materials, Gemini Fall | Stock Movers",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/reddit-up-applied-materials-gemini-fall-stock-movers-video",
-    "summary": "On this episode of Stock Movers:\n\nDrone companies including AeroVironment Inc. (AVAV), Aevex Corp. (AVEX), and Unusual Machines Inc. (UMAC) rose on news that the Trump administration plans to apply a 100% tariff on imports of unmanned aircraft systems and their components.\n\nApplied Matierals (AMAT) fell despite an earnings forecast that topped estimates. Investors had a muted reaction to earnings even though the stock has more than doubled this year. \n\nGemini Space Station (GEMI) fell as the cry",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T13:46:34+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
-    "summary": "SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor, a key part of Elon Musk’s bid to gain ground on rivals Anthropic PBC and OpenAI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T12:55:33+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "AI is Driving Wider Growth, Says Deutsche Bank Analyst",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/ai-is-driving-wider-growth-says-deutsche-bank-analyst-video",
-    "summary": "With the stock market at a record high, Binky Chadha of Deutsche Bank says that broader demand for artificial intelligence is contributing to the sustained positive performance across the market and not just among AI players. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T12:24:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Le aziende Usa possono attaccare i cyber criminali: il senso di una svolta",
-    "url": "https://www.agendadigitale.eu/sicurezza/usa-aziende-contro-il-cybercrime-cosa-cambia-con-lhack-back-di-stato/",
-    "summary": "Il memorandum di Donald Trump apre alle aziende private statunitensi di agire nelle operazioni cyber contro il crimine transnazionale, ma impone autorizzazioni e vincoli rigorosi. In Europa e in Italia l’hack back resta fuori dalla sfera privata: prevalgono difesa, resilienza e responsabilità pubblica L'articolo Le aziende Usa possono attaccare i cyber criminali: il senso di una svolta proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-14T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Chatbot companion, il business che sfrutta la solitudine: quali tutele?",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/chatbot-companion-il-business-che-sfrutta-la-solitudine-quali-tutele/",
-    "summary": "Avanza il mercato dei chatbot con intelligenza artificiale che simulano amicizia o amore, tanto che alcuni Governi sono preoccupati. La Cina dal 15 luglio ha norme stringenti. In Europa le tutele sono più incerte, al netto dei (deboli) interventi del Garante privacy italiano L'articolo Chatbot companion, il business che sfrutta la solitudine: quali tutele? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-14T10:22:26+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with […]",
-    "source": "The Verge AI",
-    "date": "2026-08-14T05:21:17-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "L’AI promette un web per tutti, ma da sola non basta",
-    "url": "https://www.agendadigitale.eu/smart-city/lai-promette-un-web-per-tutti-ma-da-sola-non-basta/",
-    "summary": "L’intelligenza artificiale entra nei processi di accessibilità web per automatizzare auditing e correzioni, sostenere la conformità all’European Accessibility Act e integrare l’inclusione nel ciclo di sviluppo. Restano centrali la validazione umana, la governance dei modelli e il controllo dei rischi tecnici ed etici L'articolo L’AI promette un web per tutti, ma da sola non basta proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-14T08:41:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
-  },
-  {
-    "title": "Hong Kong Raises Growth Outlook as Global AI Demand Boosts Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/hong-kong-lifts-economic-forecast-as-ai-boom-turbocharges-growth",
-    "summary": "Hong Kong raised its full-year growth forecast after a global investment boom in artificial intelligence supercharged exports and helped deliver the economy’s strongest first-half performance in almost five years.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T08:38:28+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-14"
   }
 ]
