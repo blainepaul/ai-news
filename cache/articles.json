@@ -1,5 +1,185 @@
 [
   {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21T23:07:25+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21T22:37:38+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Liquid Death CEO on Viral AI Data Center Ad, IPO Odds",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/liquid-death-ceo-on-viral-ai-data-center-ad-ipo-odds-video",
+    "summary": "Mike Cessario, Founder and CEO of Liquid Death, joined the program to discuss the growing public sentiment against the rapid expansion of data centers. Despite widespread interest in AI investments, the mood around data center growth has been notably negative. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T21:36:26+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a […]",
+    "source": "The Verge AI",
+    "date": "2026-08-21T17:25:50-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Chip Engineer Tsu-Jae King Liu on Nvidia, AI Energy Need",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/chip-engineer-tsu-jae-king-liu-on-nvidia-ai-energy-need-video",
+    "summary": "Doctor Tsu-Jae King Liu, President of the National Academy of Engineering and Former Dean of UC Berkeley's College of Engineering, joined the program to discuss her influential role in the semiconductor industry. Having served on the board of Intel and contributed to the design of chips found in mobile phones, she shared insights into the technological advancements and impact of semiconductors in everyday devices. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T21:21:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+    "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T19:59:55+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21T19:43:39+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Khosla Ventures Bets on AI’s Next Frontier: Science",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video",
+    "summary": "Khosla Ventures is backing Discovery Loop, a new AI startup founded by former Google leaders including Jeff Dean that aims to dramatically accelerate scientific experimentation. Khosla Ventures Managing Director Samir Kaul explains why the firm quickly decided to invest, and why he believes the opportunity could be as profound as frontier AI models. He also discusses why soaring technology valuations are forcing venture investors to rethink what “seed stage” even means. He joins Ed Ludlow on \"Bl",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T19:22:51+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Wall Street Struggles to Absorb AI’s Debt Boom",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video",
+    "summary": "Broadcom is lining up another massive bet on AI. Bloomberg has learned the chipmaker is in talks to raise more than $60 billion in debt to help Anthropic and others secure chips and computing power. The deal highlights a bigger concern hanging over the AI trade: the cost of funding it all. Erica Klauer, Science and Technology Partners founder and CIO, discusses concerns around circular financing and why the AI buildout is so challenging. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomber",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T19:14:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video",
+    "summary": "Bloomberg’s Ed Ludlow takes a look at Anthropic as the AI company expects to match or top the size of SpaceX's record-setting IPO. Plus, sources say Broadcom is in talks to raise more than $60 billion in debt to help Anthropic and others secure chips and computing power, and all eyes are on Nvidia as the chipmaker reports earnings next week. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T19:12:51+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Anthropic Aims to Match or Top SpaceX IPO",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/anthropic-aims-to-match-or-top-spacex-ipo-video",
+    "summary": "Anthropic is aiming for an IPO that could make history, expecting to match or even top SpaceX's record-setting debut, according to sources. The maker of Claude could file publicly by the end of this month. The company raised $65 billion in May at a $965 billion valuation. Bloomberg's Shirin Ghaffary, who leads coverage of Anthropic, and Bloomberg's Liana Baker, who leads the deals team, join Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T19:12:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+    "summary": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-21T18:45:32+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+    "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+    "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for h",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-08-21T18:00:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+    "summary": "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance controls inline.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-21T17:06:17+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+    "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+    "summary": "Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a governed tool gateway with Amazon Bedrock AgentCore, advancing only when real governance pain demands it.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-21T17:02:35+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression",
+    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
+    "summary": "Input tokens are often a meaningful part of the cost of running Retrieval Augmented Generation (RAG) at scale. This post describes a query-aware context compression pattern on Amazon Bedrock: after retrieval, a smaller model filters retrieved chunks against the query before the primary model answers, reducing input tokens and cost while preserving answer quality.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-21T16:59:15+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
+    "summary": "Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity (IFEC) issues across a global fleet, reducing diagnosis time from hours to minutes while maintaining accuracy.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-21T16:57:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "Agenti AI e sicurezza, così gli Usa si difendono dagli attacchi automatizzati",
+    "url": "https://www.agendadigitale.eu/sicurezza/agenti-ai-e-sicurezza-cosi-gli-usa-si-difendono-dagli-attacchi-automatizzati/",
+    "summary": "L’evoluzione dei modelli agentici e open-weight cambia il quadro della sicurezza informatica. Dai casi GLM-5.3 e Kimi K3 alla strategia NSSTS della Casa Bianca, emergono nuove priorità per difesa cyber, infrastrutture critiche, sistemi OT/ICS e operazioni dei SOC L'articolo Agenti AI e sicurezza, così gli Usa si difendono dagli attacchi automatizzati proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-21T15:05:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
+  },
+  {
     "title": "Broadcom Seeking More Than $60 Billion in Latest AI Debt Deal",
     "url": "https://www.bloomberg.com/news/videos/2026-08-21/broadcom-seeking-more-than-60b-in-latest-ai-debt-deal-video",
     "summary": "Broadcom is in talks to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies. Ed Ludlow reports on Bloomberg Television. (Source: Bloomberg)",
@@ -28,6 +208,16 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-08-21"
+  },
+  {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested [",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21T14:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-08-22"
   },
   {
     "title": "Major YouTube creators are facing backlash for accepting AI money",
@@ -2287,176 +2477,6 @@
     "date": "2026-08-15T09:00:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-    "url": "https://arxiv.org/abs/2608.09888",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-15T06:18:15+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
-    "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-    "summary": "Hint: It’s really not a distillation story.",
-    "source": "Interconnects",
-    "date": "2026-08-14T21:23:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Nvidia Has $21 Billion SpaceX Stake, $30 Billion in Intel Shares",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares",
-    "summary": "Nvidia Corp. on Friday disclosed a nearly $21 billion stake in Elon Musk’s SpaceX and a $30 billion one in Intel Corp.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T21:17:14+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
-    "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T21:08:57+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Gas Pipeline for Proposed Oracle Data Center Delayed to 2027",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/new-mexico-gas-pipeline-for-oracle-data-center-delayed-to-2027",
-    "summary": "A key New Mexico natural gas pipeline project that would supply fuel to power a planned Oracle Corp. artificial intelligence data center has been delayed by nearly six months.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T18:13:54+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Signs of a Slowing US Consumer | Open Interest 8/14/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/open-interest-8-14-2026-video",
-    "summary": "Get a jump start on the US trading day with Dave Gura on \"Bloomberg Open Interest.\" Signs the consumer is finally slowing sown. Today, retail sales post their biggest drop in more than a year as confidence slides. Oil rises as Washington threatens more economic pressure on Iran. Plus, OpenAI’s revenue surge ahead of a highly anticipated IPO. And we’ll hear from Flock Safety CEO Garrett Langley and LOVB Pro Commissioner Sandra Idehen on the $20 million boom in women’s volleyball. (Source: Bloombe",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T18:04:09+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "OpenAI’s Explosive Growth Continues | Bloomberg Tech 8/14/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video",
-    "summary": "Bloomberg’s Tim Stenovec takes a look at OpenAI, which is on track to generate annualized revenue of more than $40 billion, roughly doubling its run rate from the end of 2025. Plus, how a New York City bill backed by Mayor Zohran Mamdani could force Amazon to directly employ its delivery workers, and Meta's former chief AI scientist joins a new venture firm to invest in early AI startups. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T17:55:40+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Beyond Chatbots: The Next Wave of AI",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
-    "summary": "224 Ventures is a new AI-native venture firm launched by former AIX Ventures co-founder Shaun Johnson, ex-Google DeepMind researcher Oriol Vinyals, and AI pioneer Yann LeCun. The trio plans to make seed-stage bets and launches with more than $100 million in assets under management. 224 Ventures General Partner Shaun Johnson discusses why the most compelling opportunities may be “nonconsensus” bets, with white space emerging in the future of work, robotics and infrastructure. He joins Tim Stenove",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T17:52:39+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "OpenAI on Track to Double Revenue Ahead of IPO",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video",
-    "summary": "OpenAI is on track to generate more than $40 billion in annualized revenue, roughly double its run rate at the end of 2025, according to sources. Bloomberg’s Rachel Metz explains how growth in paying ChatGPT users, enterprise adoption and coding assistant Codex are driving the surge, and why the enormous cost of computing power remains a key challenge for the AI company. She joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T17:48:35+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-    "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-14T17:13:05+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Mark Zuckerberg has an Instagzam",
-    "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-    "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of […]",
-    "source": "The Verge AI",
-    "date": "2026-08-14T12:54:16-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of […]",
-    "source": "The Verge AI",
-    "date": "2026-08-14T12:39:32-04:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14T16:13:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
-    "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
-    "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code safely inside it, and instrument each component to catch the pitfalls that quietly collapse a reward.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-14T16:02:10+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
-    "summary": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each specialized agent uses the model best suited to its job. This post also shows how to get token-level observability from SageMaker endpoints that Strands Agents does not instrument by default.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-14T15:58:44+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14T15:43:28+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "AI Companies Work for Better Data, Not Better Models",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
-    "summary": "Rudina Seseri, founder and managing partner of Glasswing Ventures, joins Businessweek to discuss latest AI-related headlines including reports that Anthropic is in talks to buy startup 'Decart' for $6 Billion. She argues that with many of the major AI companies operating today like OpenAI and Anthropic \"their success is also their limitation, which is they're not efficient.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-14T15:16:15+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-08-15"
   }
 ]
