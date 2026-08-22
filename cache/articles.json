@@ -1,5 +1,25 @@
 [
   {
+    "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+    "summary": "Torsten Slok found something surprising when Apollo Global Management Inc. looked at how the adoption of artificial intelligence was playing out in the labor market.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-22T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-22"
+  },
+  {
+    "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+    "url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
+    "summary": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
+    "source": "Wired",
+    "date": "2026-08-22T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-22"
+  },
+  {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -2448,35 +2468,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-08-16"
-  },
-  {
-    "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-    "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
-    "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
-    "source": "Wired",
-    "date": "2026-08-15T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-    "summary": "Alibaba Group Holding’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world’s No. 1 artificial-intelligence model.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-15T09:16:06+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-15"
-  },
-  {
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-    "source": "Wired",
-    "date": "2026-08-15T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-15"
   }
 ]
