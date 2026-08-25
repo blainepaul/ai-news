@@ -1,5 +1,245 @@
 [
   {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-25T15:14:14+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "summary": "Lica co-founders are going to work on Gamma's new research team.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25T15:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25T14:22:04+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests",
+    "summary": "Jalapeno chip will let OpenAI customers choose models that offer lower cost or faster answers",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T14:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems […]",
+    "source": "The Verge AI",
+    "date": "2026-08-25T10:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "AI nella cyberdefense, perché la fiducia passa dalla verifica",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-nella-cyberdefense-perche-la-fiducia-passa-dalla-verifica/",
+    "summary": "Dalla demo al deployment, l’AI nella cybersecurity incontra dati incompleti, asset non censiti e processi lenti. NIS2, DORA, AI Act e Cyber Resilience Act chiedono prove, controlli e una governance capace di fermare decisioni ad alto impatto nelle infrastrutture più esposte L'articolo AI nella cyberdefense, perché la fiducia passa dalla verifica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-25T13:49:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million",
+    "summary": "An Israeli startup that works to protect artificial intelligence models from misuse and rogue behavior has raised $140 million after a spate of high-profile hacks from AI systems.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T13:00:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+    "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-25T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Deutsche Bank Accelerates AI Adoption With New Google Service",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/deutsche-bank-accelerates-ai-adoption-with-new-google-service",
+    "summary": "Deutsche Bank AG is stepping up its use of artificial intelligence with the adoption of a new Google Cloud service as it seeks to generate more revenue and keep a lid on costs.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "US Stocks Rally as AI-Linked Names Bounce Before Nvidia Earnings",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/tech-rally-helps-lift-us-futures-ahead-of-nvidia-earnings",
+    "summary": "US stocks advanced on Tuesday as technology names rallied and investors continued to prepare for Nvidia Corp. earnings and the Jackson Hole Symposium.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T11:58:45+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Fitbit Founders Launch Screen-Free Health Tracker for Seniors",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors",
+    "summary": "The co-founders of Fitbit, nearly six years after agreeing to sell their company to Alphabet Inc.’s Google, are launching a new type of wearable tracker: a screen-free device to be worn on the wrist, aimed at continuously monitoring family members, including aging parents.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T11:55:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "L’autonomia dell’AI non deve diventare zona franca giuridica",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lautonomia-dellai-non-deve-diventare-una-zona-franca-giuridica/",
+    "summary": "La regolazione dell’intelligenza artificiale mette al centro responsabilità, controllo umano e ruolo delle istituzioni. Dall’AI Act alla ritirata della AI Liability Directive, emerge il rischio di scaricare sugli agenti artificiali decisioni che restano riconducibili a persone, imprese e autorità pubbliche L'articolo L’autonomia dell’AI non deve diventare zona franca giuridica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-25T11:54:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-08-25T11:39:24+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Humanoid Robot Industry Awaiting ChatGPT Moment",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/humanoid-robot-industry-awaiting-chatgpt-moment",
+    "summary": "Two events in China showed progress, but robotics industry still has far to go",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T11:02:01+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Assunzioni con AI: meno bias umani o discriminazioni automatizzate?",
+    "url": "https://www.agendadigitale.eu/people-and-change/assunzioni-con-ai-meno-bias-umani-o-discriminazioni-automatizzate/",
+    "summary": "L’Intelligenza Artificiale entra nei processi delle Risorse Umane per ridurre i bias, valorizzare le competenze e rendere più trasparente il recruiting. Ma dati storici distorti, accessibilità insufficiente e opacità dei modelli impongono governance, supervisione umana e conformità alle regole dell’AI Act L'articolo Assunzioni con AI: meno bias umani o discriminazioni automatizzate? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-25T10:17:57+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/india-ai-data-center-firm-orders-9-000-nvidia-vera-rubin-systems",
+    "summary": "AM Intelligence, an Indian AI infrastructure company, has ordered 9,000 Nvidia Corp. Vera Rubin systems, seeking to become one of the first adopters of the advanced computing platform in Asia.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-25T09:42:22+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
+    "source": "Wired",
+    "date": "2026-08-25T09:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama […]",
+    "source": "The Verge AI",
+    "date": "2026-08-25T05:15:03-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-25T09:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Data Governance e ecosistemi AR: oltre il GDPR in fabbrica",
+    "url": "https://www.agendadigitale.eu/industry-4-0/data-governance-e-ecosistemi-ar-oltre-il-gdpr-in-fabbrica/",
+    "summary": "Dati macchina, immagini, modelli 3D e informazioni sugli addetti trasformano la realtà aumentata in un ecosistema da governare. GDPR, Data Act, Data Governance Act e AI Act impongono controlli distinti su accessi, riuso, segreti industriali e responsabilità lungo la filiera L'articolo Data Governance e ecosistemi AR: oltre il GDPR in fabbrica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-25T08:14:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Bitcoin, segnali di stabilizzazione in un mercato ancora fragile",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/bitcoin-segnali-di-stabilizzazione-in-un-mercato-ancora-fragile/",
+    "summary": "Bitcoin ha testato l’area sotto i 60.000 dollari tra deflussi dagli ETF spot, pressioni macroeconomiche e capitolazione dei long-term holder. I segnali on-chain indicano però un accumulo crescente, mentre MiCAR apre una nuova fase regolamentare per il mercato europeo delle cripto-attività L'articolo Bitcoin, segnali di stabilizzazione in un mercato ancora fragile proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-25T07:16:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "source": "OpenAI Blog",
+    "date": "2026-08-25T07:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-25"
+  },
+  {
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
@@ -2238,295 +2478,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-08-19"
-  },
-  {
-    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18T13:50:30+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Snowflake’s Plan to Cut AI Costs",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video",
-    "summary": "Snowflake CEO Sridhar Ramaswamy joins Bloomberg Open Interest in an exclusive interview to explain why the next phase of enterprise AI is about economics, not simply using the biggest model available. He breaks down how model routing can cut AI costs, why relying on a single model creates risk, and how AI agents could shift workers from repetitive tasks toward higher-value jobs. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-18T13:46:22+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Perplexity’s free AI offer left it with millions more users in India",
-    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18T13:45:40+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Sicurezza sul lavoro: come AI e sensori prevengono gli infortuni",
-    "url": "https://www.agendadigitale.eu/industry-4-0/sicurezza-sul-lavoro-come-ai-e-sensori-prevengono-gli-infortuni/",
-    "summary": "Le tecnologie per la sicurezza sul lavoro spostano il baricentro dalla ricerca delle responsabilità alla prevenzione degli infortuni. Intelligenza artificiale, sensori, wearable, computer vision, droni e digital twin ampliano la capacità di prevedere i rischi, mentre privacy, dignità e controllo dei lavoratori richiedono garanzie adeguate L'articolo Sicurezza sul lavoro: come AI e sensori prevengono gli infortuni proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T13:43:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "AI predittiva: perché le decisioni contano più della velocità",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/ai-predittiva-perche-le-decisioni-contano-piu-della-velocita/",
-    "summary": "Gli agenti autonomi automatizzano raccolta dei dati, sviluppo, confronto e monitoraggio dei modelli, comprimendo in poche ore attività che richiedevano mesi. L'intelligenza artificiale predittiva diventa così una leva competitiva per aziende di ogni dimensione, fondata sulla capacità di prendere decisioni migliori L'articolo AI predittiva: perché le decisioni contano più della velocità proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T13:41:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Ecco l’AI cinese che cambia la cyber security: Glm 5.3",
-    "url": "https://www.agendadigitale.eu/sicurezza/ecco-lai-cinese-che-cambia-la-cyber-security-glm-5-3/",
-    "summary": "Glm 5.3 è forse il momento che tanti temevano. Quello in cui anche un modello open, cinese, può creare rischi simili a quelli sollevati da Anthropic Mythos 5 . Ora la difesa cyber è costretta ad accelerare L'articolo Ecco l’AI cinese che cambia la cyber security: Glm 5.3 proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T13:16:16+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-    "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-    "source": "Ars Technica",
-    "date": "2026-08-18T13:00:04+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-    "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural […]",
-    "source": "The Verge AI",
-    "date": "2026-08-18T09:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Anthropic's Annualized Revenue Tops $65 Billion",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video",
-    "summary": "Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, that's up more than seven times from its pace at the end of last year, as Tom Mackenzie reports. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-18T12:55:53+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "ByteDance Draws Over $30 Billion in Orders for Jumbo Bank Loan",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/bytedance-draws-over-30-billion-in-orders-for-jumbo-bank-loan",
-    "summary": "ByteDance Ltd., the developer of TikTok, has attracted more than $30 billion of orders for its jumbo syndicated loan, people familiar with the matter said, indicating strong interest from lenders as the Chinese technology giant ramps up investments in artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-18T12:55:14+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "The Download: how people really use AI, and Flock’s design choices",
-    "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-18T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Google&#8217;s Pet Memory forgot who my cats are",
-    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-18T08:01:29-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Elon Musk made flying even worse so Palantir could profit",
-    "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal […]",
-    "source": "The Verge AI",
-    "date": "2026-08-18T07:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "ChatGPT is getting a dedicated mode for teens",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-    "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens […]",
-    "source": "The Verge AI",
-    "date": "2026-08-18T07:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "OpenAI’s New ChatGPT for Teens Has Safety and Study Features",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-s-new-chatgpt-for-teens-has-safety-and-study-features",
-    "summary": "OpenAI is releasing ChatGPT for Teens, a version of its artificially intelligent chatbot aimed at children aged 13 to 17 that the company said encourages safe usage and deeper learning.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-18T11:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-18T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-18T11:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Tecnici specializzati e AI: i profili più richiesti dalle imprese",
-    "url": "https://www.agendadigitale.eu/infrastrutture/tecnici-specializzati-e-ai-i-profili-piu-richiesti-dalle-imprese/",
-    "summary": "L’intelligenza artificiale generativa alimenta la domanda di tecnici specializzati per costruire e mantenere data center, reti energetiche e impianti automatizzati. I numeri Randstad mostrano una crescita superiore a quella dei colletti bianchi, mentre carenza di profili e pensionamenti frenano investimenti e competitività L'articolo Tecnici specializzati e AI: i profili più richiesti dalle imprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T10:43:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "AI Is Starting to Create Jobs in the UK",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk",
-    "summary": "Most British businesses say artificial intelligence has created new roles, a Lloyds survey found.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-18T10:30:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "We still don’t know how people are really using AI",
-    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-18T10:06:43+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "AI Act e riconoscimento facciale, limiti e novità del decreto italiano",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/ai-act-e-riconoscimento-facciale-limiti-e-novita-del-decreto-italiano/",
-    "summary": "Il decreto italiano di adeguamento all’AI Act è cambiato dopo i rilievi del Garante privacy e la posizione della Commissione europea. Il punto più delicato riguarda il riconoscimento facciale, tra uso mirato, raccolta generalizzata, autorizzazioni e limiti imposti dal diritto Ue L'articolo AI Act e riconoscimento facciale, limiti e novità del decreto italiano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T10:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Dai selfie alla nomofobia: come cambia l’identità online",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/dai-selfie-alla-nomofobia-come-cambia-lidentita-online/",
-    "summary": "La vetrinizzazione sociale porta individui e corpi dentro una logica di esposizione permanente. Piattaforme, selfie e metriche di consenso amplificano il bisogno di riconoscimento, mentre narcisismo digitale, FOMO e nomofobia descrivono fragilità identitarie e relazionali particolarmente rilevanti tra gli adolescenti L'articolo Dai selfie alla nomofobia: come cambia l’identità online proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T09:26:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Apple’s Anti-AI Position Is Becoming Stock Market Baggage",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage",
-    "summary": "Apple Inc.’s status as an anti-artificial intelligence play helped the stock tear through the first half of the year as investors grew skeptical of the AI trade. But that sentiment has flipped, and the shares are struggling.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-18T09:07:51+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-    "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the […]",
-    "source": "The Verge AI",
-    "date": "2026-08-18T05:00:01-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
-    "source": "MIT Tech Review",
-    "date": "2026-08-18T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-    "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-    "source": "Wired",
-    "date": "2026-08-18T09:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "Minimizzazione dinamica, la privacy AI oltre la raccolta dei dati",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/minimizzazione-dinamica-la-privacy-ai-oltre-la-raccolta-dei-dati/",
-    "summary": "La minimizzazione dei dati nei sistemi AI non riguarda solo ciò che viene raccolto, ma anche ciò che il modello apprende, conserva e può rendere inferibile. Tra GDPR, AI Act e Digital Omnibus, il principio diventa un presidio continuo lungo tutto il ciclo di vita del sistema L'articolo Minimizzazione dinamica, la privacy AI oltre la raccolta dei dati proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T08:05:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
-  },
-  {
-    "title": "La vera sfida dell’AI in azienda non è cercare, ma ricordare bene",
-    "url": "https://www.agendadigitale.eu/industry-4-0/la-vera-sfida-dellai-in-azienda-non-e-cercare-ma-ricordare-bene/",
-    "summary": "L’intelligenza artificiale rende interrogabili archivi, documenti e procedure, ma non garantisce che una risposta sia ancora valida. Le imprese devono passare dalla sola data governance a una governance della conoscenza capace di distinguere fonti, contesto e responsabilità L'articolo La vera sfida dell’AI in azienda non è cercare, ma ricordare bene proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-18T07:57:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-18"
   }
 ]
