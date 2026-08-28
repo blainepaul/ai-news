@@ -1,5 +1,135 @@
 [
   {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27T23:16:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Build agentic creative workflows with Amazon Quick and fal",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+    "summary": "Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-27T23:04:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Robinhood Markets CIO: Nvidia’s AI Boom Collides With Rising Rates and Macro Risks",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-27/robinhood-cio-ai-boom-collides-with-rising-rates-video",
+    "summary": "Robinhood Markets CIO Stephanie Guild says Nvidia’s results reinforce the AI investment theme, but warns that heavy corporate borrowing, persistent inflation and elevated interest rates could increasingly shape market returns. She favors gold, commodities and select healthcare exposure as diversification, while remaining cautious on long-duration assets and questioning whether Bitcoin is ready to serve as a reliable store of value. She speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" ",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-27T22:09:25+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Agilent CEO on 3Q Earnings, Life Sciences Outlook",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-27/agilent-ceo-on-3q-earnings-life-sciences-outlook-video",
+    "summary": "Padraig McDonnell, CEO of Agilent Technologies, discussed the company's recent financial performance following a quarter that saw approximately 7% organic revenue growth and an adjusted earnings per share (EPS) of $1.62. The conversation focused on the key drivers behind this growth and the factors contributing to the strong EPS figure. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-27T21:42:33+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+    "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+    "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+    "source": "Wired",
+    "date": "2026-08-27T21:08:34+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27T19:52:52+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-27T19:48:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
+    "summary": "Anthropic PBC announced a new software standard that will allow artificial intelligence assistants like Claude to work better with robots and science and manufacturing hardware.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-27T19:31:02+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their […]",
+    "source": "The Verge AI",
+    "date": "2026-08-27T15:30:00-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Hugging Face Co-Founder on Open-Source Robot, Reports of Nvidia Deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-27/hugging-face-pushes-deeper-into-robotics-with-microduck-video",
+    "summary": "Hugging Face unveiled MicroDuck, the company’s new open-source robot that can walk, talk, and roller-skate. Hugging Face co-founder and Chief Science Officer Thomas Wolf discusses surging demand for robotics and open-source AI, and says the company is currently selling roughly one MicroDuck every four seconds. He also declined to comment on reports that Nvidia is nearing a roughly $13 billion deal to acquire the AI startup, while saying Hugging Face regularly receives acquisition and investment ",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-27T18:44:57+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/",
+    "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-27T18:36:08+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+    "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+    "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+    "source": "Wired",
+    "date": "2026-08-27T18:06:52+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27T17:43:24+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-28"
+  },
+  {
     "title": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve",
     "url": "https://www.bloomberg.com/news/articles/2026-08-27/openai-anthropic-urge-cyber-defense-action-as-ai-models-improve",
     "summary": "Artificial intelligence companies OpenAI and Anthropic PBC, along with more than 100 other tech and financial services organizations, warned that businesses and governments must do more to prepare for and defend against AI-enabled hacks.",
@@ -2246,196 +2376,6 @@
     "source": "Bloomberg Tech",
     "date": "2026-08-21T01:49:56+00:00",
     "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21T00:13:44+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T22:36:37+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Stocks Fall as Bond Yields Rise | The Close 8/20/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-20/the-close-8-20-2026-video",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Rockefeller Global Family Office CIO Jimmy Chang, Agility Robotics CEO Peggy Johnson, UBS Equity Research Analyst Michael Lasser, LVMH North America Former Chairman Pauline Brown, Laffer Tengler Investments CEO & CIO Nancy Tengler, Telsey Advisory Group CEO & Chief Research Officer Dana Telsey, J&J Snack Foods CEO Dan Fachne",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-20T22:11:30+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T22:09:51+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Google Discover is getting an AI chatbot-tuned feed",
-    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your […]",
-    "source": "The Verge AI",
-    "date": "2026-08-20T17:50:22-04:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Open Machine CEO on Anthropic, OpenAI IPO Potential",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-20/open-machine-ceo-on-anthropic-openai-ipo-potential-video",
-    "summary": "Allie Miller, CEO of Open Machine, shared insights on how top technology companies are managing their AI investments to balance cost and return. She explained that frontier companies typically divide their AI efforts into two groups: one focused on raising the baseline capabilities across departments like finance, legal, marketing, and sales with modest subscription-level spending, and a second, smaller 'frontier' team that operates with significantly higher budgets and greater experimentation f",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-20T21:49:52+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-    "summary": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput, how to call the models with the OpenAI and Converse APIs, and how to configure IAM, quotas, and monitoring.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-20T21:46:03+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
-    "summary": "Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard. In Part 1 of this series, you set up your AWS account and Snowflake environment for a no-code ML workflow with Amazon SageMaker Canvas, laying the foundation for building a fraud detection model without writing code.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-20T21:23:38+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
-    "summary": "In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual transformations, and train an XGBoost fraud detection model. All without writing machine learning code, laying the groundwork for interactive dashboards in Part 3.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-20T21:23:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/",
-    "summary": "In Part 3 of this no-code ML series, you bring fraud detection predictions to life. Import your Amazon SageMaker Canvas predictions into Amazon Quick Sight, build interactive dashboards, use generative BI to answer questions in natural language, and publish AI-generated executive summaries for stakeholders.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-20T21:23:23+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
-    "url": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
-    "summary": "S301 passes close to Sagittarius A*—so close that its orbit could reveal how the black hole’s rotation warps the spacetime around it.",
-    "source": "Wired",
-    "date": "2026-08-20T20:58:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Agility Robotics CEO on Plans To Go Public, China Rivals",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-20/agility-robotics-ceo-on-plans-to-go-public-china-rivals-video",
-    "summary": "Peggy Johnson, CEO of Agility Robotics, discussed the company's upcoming public debut, positioning it as the only pure-play US public company focused on humanoid robots with proven commercial applications. Agility Robotics is valued at a $2.5 billion pre-money valuation and expects to go public in the fall. She speaks with Romaine Bostick & Sally Bakewell on \"The Close.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-20T20:56:42+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/chatgpt-can-now-control-imessage-potentially-raising-apple-privacy-concerns",
-    "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-20T20:56:33+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "OK, can we actually cool data centers with our pee?",
-    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T20:53:13+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem",
-    "summary": "Tech firms are trying to quell growing opposition to their AI plans",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-20T20:00:01+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T19:18:21+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T19:15:05+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T18:20:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-21"
-  },
-  {
-    "title": "Grok keeps sending gibberish responses to users",
-    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20T17:32:16+00:00",
-    "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-08-21"
   }
