@@ -1,5 +1,55 @@
 [
   {
+    "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+    "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
+    "source": "Wired",
+    "date": "2026-08-28T22:29:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "Cisco President Patel Makes the Case for AI in the Classroom",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
+    "summary": "Cisco President and Chief Product Officer Jeetu Patel explains how artificial intelligence will benefit the education system on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-28T21:05:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28T20:24:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+    "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+    "summary": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-28T19:31:05+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28T19:30:38+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-08-29"
+  },
+  {
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "summary": "There's a lot of capital pouring into the business of giving models away.",
@@ -2247,126 +2297,6 @@
     "date": "2026-08-22T09:00:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21T23:07:25+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21T22:37:38+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Liquid Death CEO on Viral AI Data Center Ad, IPO Odds",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/liquid-death-ceo-on-viral-ai-data-center-ad-ipo-odds-video",
-    "summary": "Mike Cessario, Founder and CEO of Liquid Death, joined the program to discuss the growing public sentiment against the rapid expansion of data centers. Despite widespread interest in AI investments, the mood around data center growth has been notably negative. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T21:36:26+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a […]",
-    "source": "The Verge AI",
-    "date": "2026-08-21T17:25:50-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Chip Engineer Tsu-Jae King Liu on Nvidia, AI Energy Need",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/chip-engineer-tsu-jae-king-liu-on-nvidia-ai-energy-need-video",
-    "summary": "Doctor Tsu-Jae King Liu, President of the National Academy of Engineering and Former Dean of UC Berkeley's College of Engineering, joined the program to discuss her influential role in the semiconductor industry. Having served on the board of Intel and contributed to the design of chips found in mobile phones, she shared insights into the technological advancements and impact of semiconductors in everyday devices. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T21:21:44+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
-    "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T19:59:55+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21T19:43:39+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Khosla Ventures Bets on AI’s Next Frontier: Science",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video",
-    "summary": "Khosla Ventures is backing Discovery Loop, a new AI startup founded by former Google leaders including Jeff Dean that aims to dramatically accelerate scientific experimentation. Khosla Ventures Managing Director Samir Kaul explains why the firm quickly decided to invest, and why he believes the opportunity could be as profound as frontier AI models. He also discusses why soaring technology valuations are forcing venture investors to rethink what “seed stage” even means. He joins Ed Ludlow on \"Bl",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T19:22:51+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Wall Street Struggles to Absorb AI’s Debt Boom",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video",
-    "summary": "Broadcom is lining up another massive bet on AI. Bloomberg has learned the chipmaker is in talks to raise more than $60 billion in debt to help Anthropic and others secure chips and computing power. The deal highlights a bigger concern hanging over the AI trade: the cost of funding it all. Erica Klauer, Science and Technology Partners founder and CIO, discusses concerns around circular financing and why the AI buildout is so challenging. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomber",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T19:14:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video",
-    "summary": "Bloomberg’s Ed Ludlow takes a look at Anthropic as the AI company expects to match or top the size of SpaceX's record-setting IPO. Plus, sources say Broadcom is in talks to raise more than $60 billion in debt to help Anthropic and others secure chips and computing power, and all eyes are on Nvidia as the chipmaker reports earnings next week. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T19:12:51+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Anthropic Aims to Match or Top SpaceX IPO",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/anthropic-aims-to-match-or-top-spacex-ipo-video",
-    "summary": "Anthropic is aiming for an IPO that could make history, expecting to match or even top SpaceX's record-setting debut, according to sources. The maker of Claude could file publicly by the end of this month. The company raised $65 billion in May at a $965 billion valuation. Bloomberg's Shirin Ghaffary, who leads coverage of Anthropic, and Bloomberg's Liana Baker, who leads the deals team, join Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T19:12:11+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
-    "summary": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-21T18:45:32+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-08-22"
   }
 ]
