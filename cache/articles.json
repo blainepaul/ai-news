@@ -1,5 +1,45 @@
 [
   {
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology […]",
+    "source": "The Verge AI",
+    "date": "2026-08-29T08:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "source": "Wired",
+    "date": "2026-08-29T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "Psilocybin Might Make Your Brain Live in the Moment",
+    "url": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
+    "summary": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
+    "source": "Wired",
+    "date": "2026-08-29T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-29"
+  },
+  {
+    "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+    "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent’s acquisition by SpaceX, according to a post on X.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-29T02:16:53+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-29"
+  },
+  {
     "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
     "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
     "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
@@ -2278,25 +2318,5 @@
     "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-08-23"
-  },
-  {
-    "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
-    "summary": "Torsten Slok found something surprising when Apollo Global Management Inc. looked at how the adoption of artificial intelligence was playing out in the labor market.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-22T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-22"
-  },
-  {
-    "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
-    "url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
-    "summary": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
-    "source": "Wired",
-    "date": "2026-08-22T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-22"
   }
 ]
