@@ -1,5 +1,155 @@
 [
   {
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T12:56:46+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-investing-3-5-billion-in-chipmaker-mediatek-video",
+    "summary": "Nvidia says it's investing $3.5 billion in Taiwanese chipmaker MediaTek. Nvidia will buy bonds that convert into MediaTek shares. Bloomberg's Ed Ludlow reports.  (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T12:51:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Nvidia to Invest $3.5 Billion in Chipmaker MediaTek",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek",
+    "summary": "Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it’s working to persuade more companies to build chips that plug into its dominant data center ecosystem.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T12:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Saudi AI Firm Humain, Applied Intuition Partner on Self-Driving Trucks",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/saudi-ai-firm-humain-applied-intuition-partner-on-self-driving-trucks",
+    "summary": "Saudi Arabia’s Humain is partnering with Applied Intuition Inc. to deploy self-driving trucks by 2030, as the kingdom’s leading artificial intelligence firm looks to find practical uses for the technology that align with national priorities.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T11:45:11+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Z.AI Misses Lofty Sales Estimates As China AI Brawl Worsens",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-price-war-weighs",
+    "summary": "Z.AI Co. grew revenue far less than anticipated while its losses persisted, highlighting the mounting cost of fighting the likes of Moonshot and Alibaba Group Holding Ltd. to stay on the frontlines of Chinese artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T11:04:14+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai",
+    "summary": "Judge says Pentagon move was made in retaliation for company’s views",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T11:02:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Value generalisation Theory of Change: putting it into practice",
+    "url": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into",
+    "summary": "In the previous post , I presented my theory of change for why value generalisation is vital for AI alignment. Here I'll add the practical part of the argument: given those facts, why explicitly try to do value generalisation, what are the dangers of the approach, how should it be done, and how do we mitigate the risks? The formal theory of change is down below, but I'll put a collapsible version here, to make references easier: Theory of Change Inputs / activities : investment/grants, a small r",
+    "source": "AI Alignment Forum",
+    "date": "2026-08-31T10:51:46+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "ChatGPT, Reddit (RDDT), Roblox (RBLX) Face EU Digital Services Act Rules",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules",
+    "summary": "ChatGPT, Reddit Inc. and video game company Roblox Corp. will face stricter European Union scrutiny after surpassing a threshold of 45 million monthly users in the bloc.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Scuola e AI, perché il digital divide diventa una questione cognitiva",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/scuola-e-ai-perche-il-digital-divide-diventa-una-questione-cognitiva/",
+    "summary": "Il digital divide non riguarda più soltanto accesso alla rete, dispositivi e infrastrutture. Con la diffusione dell’intelligenza artificiale, il nuovo divario si sposta sulle competenze cognitive, sulla capacità di interrogare gli algoritmi, valutare le risposte e usare l’AI senza dipenderne L'articolo Scuola e AI, perché il digital divide diventa una questione cognitiva proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-08-31T09:52:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
+    "summary": "China laid out conditions for artificial intelligence talks with the US, striking a strident tone ahead of a much-anticipated meeting while accusing American AI company Anthropic PBC of bad behavior.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T09:33:46+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T02:34:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Agency and Agents",
+    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+    "summary": "From the Hugging Face Incident to Twilight Factories",
+    "source": "One Useful Thing",
+    "date": "2026-08-31T00:24:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-30T16:54:25+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, […]",
+    "source": "The Verge AI",
+    "date": "2026-08-30T11:35:10-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-30T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-08-31"
+  },
+  {
     "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "url": "https://arxiv.org/abs/2608.23691",
     "summary": "",
@@ -2087,206 +2237,6 @@
     "date": "2026-08-24T13:31:40+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "The Download: kids outlearning AI, and space travel agents",
-    "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-24T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Nvidia’s Trillion-Dollar Chip Market Has Friends and Foes Closing In",
-    "url": "https://www.bloomberg.com/news/features/2026-08-24/nvidia-s-trillion-dollar-chip-market-has-friends-and-foes-closing-in",
-    "summary": "The chipmaker remains dominant for now, but an onslaught of companies is encroaching on its territory.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T12:00:03+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Dan Ives Sees Nvidia Price Hike as Bullish Overall for Tech",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-price-hike-bullish-overall-for-tech-dan-ives-video",
-    "summary": "Dan Ives, partner and senior managing director at Yorkville Ives & Co., previews quarterly earnings from Nvidia as the company tells customers that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T11:19:39+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Microsoft AI Business is Concentrated With OpenAI, TikTok, Meta",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta",
-    "summary": "A small group dominates the company’s cloud customer list",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T11:02:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Creator Economy, nell’era dell’IA la fiducia vale più dei follower",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/creator-economy-nellera-dellia-la-fiducia-vale-piu-dei-follower/",
-    "summary": "La Creator Economy supera i 250 miliardi di dollari e si prepara a raddoppiare, mentre piattaforme, brand e creator scoprono che nell’era dell’intelligenza artificiale la risorsa più rara non è la visibilità: è la fiducia costruita con community, trasparenza e coerenza L'articolo Creator Economy, nell’era dell’IA la fiducia vale più dei follower proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-24T09:54:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
-    "url": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
-    "summary": "Bungs banknotes at Bristol boffins to find out if mature code survives the machine",
-    "source": "The Register AI",
-    "date": "2026-08-24T11:27:00+02:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-24T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Software should work, and talking about it needn't be boring",
-    "url": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
-    "summary": "Bingeing the boxed set of binary bafflement",
-    "source": "The Register AI",
-    "date": "2026-08-24T10:31:00+02:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Cyber risk e reputazione: perché la fiducia è un asset d’impresa",
-    "url": "https://www.agendadigitale.eu/sicurezza/cyber-risk-e-reputazione-perche-la-fiducia-e-un-asset-dimpresa/",
-    "summary": "Attacchi abilitati dall’intelligenza artificiale, minore conoscenza degli stakeholder e necessità di misurare le perdite spingono la cybersecurity al centro delle strategie di fiducia e resilienza: la reputazione pesa sui risultati economici e sulle priorità di rischio delle imprese L'articolo Cyber risk e reputazione: perché la fiducia è un asset d’impresa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-24T08:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "L’AI riduce le capacità cognitive umane? Cosa dicono gli studi",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/lai-riduce-le-capacita-cognitive-umane-cosa-dicono-gli-studi/",
-    "summary": "L’uso pervasivo dell’intelligenza artificiale può alleggerire il carico mentale, ma anche ridurre pensiero critico, memoria e capacità di giudizio. Studi su studenti, lavoratori, sviluppatori, medici e manager mostrano i rischi del cognitive offloading e indicano strategie per evitare un impoverimento diffuso L'articolo L’AI riduce le capacità cognitive umane? Cosa dicono gli studi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-24T07:43:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Ecosistemi educativi digitali, la scuola cambia forma e funzione",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/ecosistemi-educativi-digitali-la-scuola-cambia-forma-e-funzione/",
-    "summary": "La scuola non coincide più solo con l’aula. Piattaforme digitali, territori, intelligenza artificiale, musei, imprese e comunità online stanno trasformando l’apprendimento in un ecosistema distribuito, dove l’istituzione scolastica diventa nodo, guida e regia di esperienze formative diverse L'articolo Ecosistemi educativi digitali, la scuola cambia forma e funzione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-24T06:54:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "How the War in Ukraine Changed Modern Warfare",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/how-the-war-in-ukraine-changed-modern-warfare-video",
-    "summary": "Bloomberg Intelligence's Rod Turnbull discusses how Russia's invasion of Ukraine and the ongoing conflict has changed how countries conduct warfare. He talks about the impact of new technology, drones and artificial intelligence on the military. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T06:13:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
-    "summary": "Nvidia Corp.'s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory chip costs soaring. Bloomberg's Anthony Stephens breaks down what we know so far. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T00:28:26+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "SoftBank Plans $6.3 Billion Retail Bond Sale in Japan",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan",
-    "summary": "SoftBank Group Corp. plans a record ¥1 trillion ($6.3 billion) retail bond sale, the biggest by any issuer in Japan, as the conglomerate raises funds for its investment commitments to OpenAI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T00:16:25+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "UK Fintech Funding Drops to Lowest Level in At Least a Decade",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade",
-    "summary": "Investment in UK financial technology firms fell to the lowest level since at least 2016 in the first half of this year, as funders flock to companies tied to artificial intelligence and can show long-term growth.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-23T23:01:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Hugging Face Gauging Interest for Potential Sale, Business Insider Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says",
-    "summary": "Hugging Face Inc. is exploring a sale that may value the artificial intelligence platform at $13 billion or more, Business Insider reported, citing people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-23T20:12:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-23T20:01:36+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-23T19:14:08+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-23T15:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "source": "TechCrunch AI",
-    "date": "2026-08-23T15:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
     "_slot_date": "2026-08-24"
   }
 ]
