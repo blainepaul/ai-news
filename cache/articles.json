@@ -1,5 +1,285 @@
 [
   {
+    "title": "Nvidia’s MediaTek Investment Marks the Next AI Chipmaking Champion to Watch",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-01/nvidia-s-mediatek-investment-marks-the-next-ai-chipmaking-champion-to-watch",
+    "summary": "Nvidia and Google are investing in Taiwan’s unheralded chipmaker",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-01T11:02:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Dyson Announces $499 CameraJet Smart Toothbrush With AI, Built-In Camera",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera",
+    "summary": "Dyson Ltd. introduced a $499 toothbrush that uses artificial intelligence and a built-in camera to give real-time feedback, the latest in a growing subset of gadgets that put AI and video in sometimes unconventional places.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-01T09:30:03+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Privacy europea, gli “anticorpi” che hanno corretto il Digital Omnibus",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy-europea-gli-anticorpi-che-hanno-corretto-il-digital-omnibus/",
+    "summary": "Il Digital Omnibus apre un confronto decisivo sulla definizione di dato personale nel GDPR. La proposta europea, tra semplificazione normativa, intelligenza artificiale e dati pseudonimizzati, solleva questioni costituzionali sul perimetro della tutela prevista dalla Carta dei diritti fondamentali dell’Unione europea L'articolo Privacy europea, gli “anticorpi” che hanno corretto il Digital Omnibus proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-01T09:12:07+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Deere Launches AI Assistant Named JD to Guide Farmers’ Choices",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/deere-launches-ai-assistant-named-jd-to-guide-farmers-choices",
+    "summary": "Farmers are getting some help sorting through the reams of data collected by their high-tech tractors: An AI assistant named JD built into Deere & Co.’s Operations Center mobile application.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-01T09:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Cybercrime o attacco geopolitico? Perché riconoscere la minaccia è decisivo",
+    "url": "https://www.agendadigitale.eu/sicurezza/cybercrime-o-attacco-geopolitico-perche-riconoscere-la-minaccia-e-decisivo/",
+    "summary": "Cybercrime e geopolitica si intrecciano sempre più spesso negli attacchi informatici alle imprese. La qualificazione della minaccia, l’analisi forense e la notifica tempestiva agli enti competenti diventano strumenti centrali per reagire, contenere i rischi e proteggere autorità, aziende e persone coinvolte L'articolo Cybercrime o attacco geopolitico? Perché riconoscere la minaccia è decisivo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-01T08:52:33+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Le regole sull’IA proteggono i diritti. Ma chi protegge il pensiero critico?",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/le-regole-sullia-proteggono-i-diritti-ma-chi-protegge-il-pensiero-critico/",
+    "summary": "L’Intelligenza Artificiale non è solo una tecnologia da regolare, ma una nuova infrastruttura della conoscenza. Dalla governance cognitiva a quella sociale e istituzionale, il decreto legislativo sull’IA può diventare l’occasione per orientare innovazione, formazione, ricerca e politiche pubbliche L'articolo Le regole sull’IA proteggono i diritti. Ma chi protegge il pensiero critico? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-01T08:21:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "MiniMax Eyes AGI Milestone Tied to 1% of Global GDP Output",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/minimax-eyes-agi-milestone-tied-to-1-of-global-gdp-output",
+    "summary": "Chinese AI lab MiniMax Group Inc.’s Co-Founder Yeyi Yun said the milestone for artificial general intelligence will be set by its ability to generate 1% of the global economy.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-01T08:10:29+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
+    "summary": "Anthropic agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia, part of an effort to quickly expand its AI capacity, according to a person familiar with the matter. Bloomberg's Neil Campling has the details. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-01T05:44:15+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Training a Misaligned Reward Seeker",
+    "url": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker",
+    "summary": "Authors: Richard Qi, Benjamin Wright, Monte MacDiarmid, Evan Hubinger Abstract During reinforcement learning (RL), AI models complete tasks and are rewarded based on their results. They sometimes learn to “cheat” rather than completing these tasks as intended, a phenomenon known as reward hacking . Our industry lacks a general solution to this problem, and reward hacking remains challenging to fully mitigate. To better understand the impact of reward hacking on model behavior, we trained an Opus",
+    "source": "AI Alignment Forum",
+    "date": "2026-09-01T01:41:44+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
+    "summary": "Nvidia Corp.’s $3.5 billion outlay in MediaTek Inc., its largest direct investment outside the US, has thrust a little-known Taiwanese chip designer into the center of the global AI infrastructure boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-01T01:04:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-01T00:13:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
+    "summary": "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication of AI tools, so clients can reuse commonly used tools and agents exposed through an MCP server instead of authoring them from scratch again. Your customers get a way to use your product inside Amazon Quick (chat agents and workflows) without building custom connectors for every u",
+    "source": "AWS ML Blog",
+    "date": "2026-08-31T22:47:53+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Apple Accuses OpenAI of Destroying Evidence in Exchange of Barbs",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+    "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
+    "source": "Bloomberg Tech",
+    "date": "2026-08-31T21:03:52+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T20:13:45+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+    "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
+    "summary": "We're excited to share that AWS has been recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025. In this evaluation of 13 providers, AWS received the highest score in the Strategy category.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-31T19:50:12+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+    "summary": "AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through its publishing, curation, and discovery workflows, plus enterprise considerations and what's next.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-31T19:18:09+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T19:16:59+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "OpenClaw 2.0 pours glitter on slow-burning security dumpster fire",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
+    "summary": "Making installation easier and putting a new wrapper on the interface while leaving most of the security to users is a recipe for more trouble with the popular agent harness",
+    "source": "The Register AI",
+    "date": "2026-08-31T21:13:31+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+    "summary": "This post builds an enterprise agentic retrieval solution on the Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore. An agent reasons, routes across multiple knowledge bases, and returns cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed with a single AWS CloudFormation chain.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-31T19:08:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
+    "summary": "Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and retrieval flows, the asynchronous indexing lifecycle, per-user data isolation, and best practices for operating the solution at scale.",
+    "source": "AWS ML Blog",
+    "date": "2026-08-31T18:56:12+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T18:35:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
+    "source": "MIT Tech Review",
+    "date": "2026-08-31T18:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T16:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already […]",
+    "source": "The Verge AI",
+    "date": "2026-08-31T11:34:58-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31T15:15:25+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached […]",
+    "source": "The Verge AI",
+    "date": "2026-08-31T10:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and […]",
+    "source": "The Verge AI",
+    "date": "2026-08-31T09:27:36-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile […]",
+    "source": "The Verge AI",
+    "date": "2026-08-31T09:00:00-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-01"
+  },
+  {
     "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
     "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
     "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
@@ -1838,405 +2118,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Humanoid Robot Industry Awaiting ChatGPT Moment",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/humanoid-robot-industry-awaiting-chatgpt-moment",
-    "summary": "Two events in China showed progress, but robotics industry still has far to go",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-25T11:02:01+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Assunzioni con AI: meno bias umani o discriminazioni automatizzate?",
-    "url": "https://www.agendadigitale.eu/people-and-change/assunzioni-con-ai-meno-bias-umani-o-discriminazioni-automatizzate/",
-    "summary": "L’Intelligenza Artificiale entra nei processi delle Risorse Umane per ridurre i bias, valorizzare le competenze e rendere più trasparente il recruiting. Ma dati storici distorti, accessibilità insufficiente e opacità dei modelli impongono governance, supervisione umana e conformità alle regole dell’AI Act L'articolo Assunzioni con AI: meno bias umani o discriminazioni automatizzate? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-25T10:17:57+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/india-ai-data-center-firm-orders-9-000-nvidia-vera-rubin-systems",
-    "summary": "AM Intelligence, an Indian AI infrastructure company, has ordered 9,000 Nvidia Corp. Vera Rubin systems, seeking to become one of the first adopters of the advanced computing platform in Asia.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-25T09:42:22+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "It Should Be Harder to Apply for a Job. No, Really",
-    "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-    "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-    "source": "Wired",
-    "date": "2026-08-25T09:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama […]",
-    "source": "The Verge AI",
-    "date": "2026-08-25T05:15:03-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-25T09:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Data Governance e ecosistemi AR: oltre il GDPR in fabbrica",
-    "url": "https://www.agendadigitale.eu/industry-4-0/data-governance-e-ecosistemi-ar-oltre-il-gdpr-in-fabbrica/",
-    "summary": "Dati macchina, immagini, modelli 3D e informazioni sugli addetti trasformano la realtà aumentata in un ecosistema da governare. GDPR, Data Act, Data Governance Act e AI Act impongono controlli distinti su accessi, riuso, segreti industriali e responsabilità lungo la filiera L'articolo Data Governance e ecosistemi AR: oltre il GDPR in fabbrica proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-25T08:14:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Bitcoin, segnali di stabilizzazione in un mercato ancora fragile",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/bitcoin-segnali-di-stabilizzazione-in-un-mercato-ancora-fragile/",
-    "summary": "Bitcoin ha testato l’area sotto i 60.000 dollari tra deflussi dagli ETF spot, pressioni macroeconomiche e capitolazione dei long-term holder. I segnali on-chain indicano però un accumulo crescente, mentre MiCAR apre una nuova fase regolamentare per il mercato europeo delle cripto-attività L'articolo Bitcoin, segnali di stabilizzazione in un mercato ancora fragile proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-08-25T07:16:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "url": "https://openai.com/index/jalapeno-first-results",
-    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-    "source": "OpenAI Blog",
-    "date": "2026-08-25T07:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-08-25T00:23:12+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-08-25T00:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
-    "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., is in talks to raise as much as $3 billion in a round that could tee it up to go public next year, according to people familiar with the efforts.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T23:36:55+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Markets Slip as Nvidia, Yields & the Debasement Trade Loom | The Close 8/24/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/the-close-8-24-2026-video",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Principal Asset Management CEO & President Kamal Bhatia, Tether Co-Founder Bill Quigley, Goldman Sachs Research US Software Equity Research Analyst Gabriela Borges, Bilt CEO Ankur Jain & Equinox Group Executive Chairman Harvey Spevak,  GenTrust Head of NY Office, Senior Client Advisor Mimi Duff, Apollo Chief Economist Torste",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T22:00:28+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24T21:24:17+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24T19:54:19+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Introducing new Ray capabilities on SageMaker HyperPod",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
-    "summary": "Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient distributed training and accelerated inference from SageMaker Studio, all with open-source KubeRay and standard Ray APIs.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-24T19:32:14+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
-    "url": "https://arxiv.org/abs/2607.22738",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-24T19:10:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
-    "summary": "Learn how to build a customizable, smart-caching knowledge management system on AWS that captures and delivers institutional (tribal) knowledge through a voice-first AI avatar. The accelerator uses Amazon Bedrock Knowledge Bases for retrieval-augmented generation and deploys in hours with AWS CloudFormation.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-24T18:59:15+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Apple Cuts Jobs as It Reprioritizes Around AI",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/apple-cuts-jobs-as-it-reprioritizes-around-ai-video",
-    "summary": "Apple is cutting jobs across its Vision Pro, Siri, and Intelligent Systems Experiences teams as it redirects resources toward new devices and artificial intelligence. Bloomberg’s Mark Gurman explains where the reductions are happening and how Apple is reshaping its Siri operation around new AI infrastructure. He also looks ahead to Apple’s foldable iPhone and why the device could prove particularly important in China. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T18:33:12+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Nvidia Customers Brace for Higher AI Costs",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-customers-brace-for-higher-ai-costs-video",
-    "summary": "Nvidia customers are being warned of potential price increases of around 15% for Blackwell and Rubin-based AI systems as soaring memory costs ripple through the infrastructure buildout. Raymond James Analyst and Managing Director Simon Leopold explains why the increases aren’t surprising and why older generations of GPUs can remain valuable even as newer chips enter production. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T18:30:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "The Rising Price of the AI Race | Bloomberg Tech 8/24/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/bloomberg-tech-8-24-2026-video",
-    "summary": "Bloomberg’s Ed Ludlow breaks down what to expect from Nvidia's earnings this week, this as Bloomberg reports Nvidia customers have been notified about price hikes. Plus, SoftBank plans a record $6.3 billion retail bond sale to raise funds for its investment commitments to OpenAI. And, Alibaba raises $10.2 billion to take the lead in the global AI race in what was Hong Kong's biggest follow-on offering. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T18:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24T18:03:55+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Markets Eye Bessent, Warsh, Nvidia | Open Interest 8/24/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/open-interest-8-24-2026-video",
-    "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Treasuries extend their rally as Wall Street games out Bessent's next move ahead of Jackson Hole. Nvidia takes the earnings spotlight as rising costs loom over those results later this week. Canada braces for a long US trade war, while Washington warns an \"economic D-Day\" is coming for Iran. Plus, Protolabs CEO Suresh Krishna on the manufacturing boom fueled by growing demand across defense, aerospace and data ",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T17:36:38+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "China’s Hackers Use DeepSeek for Attacks, Researchers Say",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
-    "summary": "Chinese hackers are ramping up attacks after integrating DeepSeek and other open-source artificial intelligence models into their operations, highlighting attackers’ ability to leverage basic AI tools to hit targets abroad.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T17:13:49+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
-    "summary": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and governance at scale.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-24T16:22:03+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Building a restaurant telephony AI host with Amazon Connect",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
-    "summary": "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazon Bedrock AgentCore Gateway to reach backend tools through MCP.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-24T16:13:09+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Mistral x HUMAIN",
-    "url": "https://mistral.ai/news/mistral-x-humain/",
-    "summary": "",
-    "source": "Mistral AI Blog",
-    "date": "2026-08-24T16:02:41+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-    "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round private capital raise […] The post XPENG IRON humanoid robot draws record physical AI funding appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-08-24T15:53:53+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "AI-powered metadata correction and harmonization",
-    "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
-    "summary": "Metadata harmonization (standardizing labels, identifiers, and formats so datasets can work together) is still largely manual. This post shows how AI-powered metadata correction works in practice, covering two approaches, human-in-the-loop validation and autonomous agent-driven workflows, plus governance considerations for production deployment.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-24T15:53:03+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24T15:24:18+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "How XPUs Meet a World-Class AI Factory",
-    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-    "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-24T15:00:54+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-    "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-24T15:00:41+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-    "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-24T15:00:19+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-08-25"
-  },
-  {
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24T15:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Ives: Nvidia Earnings Could Be the Next Big Catalyst for AI Stocks",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/ives-nvidia-earnings-could-be-the-next-big-ai-catalyst-video",
-    "summary": "Nvidia’s earnings report on Wednesday will likely serve as another reminder of the company’s commanding lead. Analysts estimate that revenue nearly doubled last quarter from a year earlier to $92 billion. That’s more money than any of its rivals get in a full year. But the flood of cash — with sky-high profit margins — only makes its turf more attractive. Meanwhile, some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T14:52:24+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "How to encourage smarter AI use in the classroom",
-    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-24T14:20:19+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
-    "summary": "Taiwanese prosecutors indicted a senior Nvidia Corp. manager as part of a group that allegedly smuggled advanced AI chips into China, according to people familiar with the matter, advancing the island democracy’s first known crackdown on the black-market trade of such accelerators.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T14:12:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Australia Data-Center Power Use Seen Jumping Sevenfold by 2036",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/australia-data-center-power-use-seen-jumping-sevenfold-by-2036",
-    "summary": "Australia sees data-center electricity use rising almost sevenfold over the next decade, highlighting the need for investment in generation and storage as the nation’s aging coal plants are retired.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T14:01:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24T13:47:26+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
-  },
-  {
-    "title": "Porsche Inks $1.5 Billion AI Deal With India’s Tata Consultancy",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
-    "summary": "Porsche AG partnered with Tata Consultancy Services Ltd. for deploying artificial intelligence in a 1.25 billion euros ($1.5 billion) deal, while agreeing to sell its consulting unit to the Indian software services company.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-24T13:31:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-24"
   }
 ]
