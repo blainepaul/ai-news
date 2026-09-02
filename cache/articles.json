@@ -1,5 +1,325 @@
 [
   {
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare […]",
+    "source": "The Verge AI",
+    "date": "2026-09-02T13:52:56-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Nvidia Nears $14 Billion Hugging Face Deal | Bloomberg Tech 09/02/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-02/bloomberg-tech-09-02-2026-video",
+    "summary": "Bloomberg’s Ed Ludlow breaks down Nvidia's advanced talks to acquire AI startup Hugging Face in a $14 billion deal. Plus, Dell shares jump after the company boosted its annual sales forecast by $25 billion due to surging demand for servers to run AI tasks. And, Uber cuts 10% of its staff globally to streamline its core engineering, science, and delivery groups. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T17:44:19+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Nvidia In Advanced Talks for Hugging Face",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-in-advanced-talks-for-hugging-face-video",
+    "summary": "Nvidia could be closing in on its biggest AI acquisition yet, according to sources. The chipmaker is in advanced talks to buy Hugging Face in a deal that could be worth about $14 billion. Bloomberg's Ian King and Rachel Metz join Ed Ludlow on \"Bloomberg Tech\" to discuss their reporting. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T17:39:04+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Dell Rises on Sales Outlook Boost",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-02/dell-rises-on-sales-outlook-boost-video",
+    "summary": "Dell raised its outlook for a fifth straight quarter as demand for AI and traditional servers continues to surge. Portia Capital Management President Michelle Connell explains why she sees more upside for Dell, where the next winners could emerge across the AI hardware stack, and how supply constraints are reshaping the semiconductor race. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T17:29:02+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Napster Shifts Course to Penny-a-Minute AI Agents Via Microsoft",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/napster-shifts-course-to-penny-a-minute-ai-agents-via-microsoft",
+    "summary": "Napster, the former music-streaming platform, is betting on low-cost AI agents as its path back to success.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T17:18:22+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T17:18:13+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T17:09:57+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T17:09:06+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after […]",
+    "source": "The Verge AI",
+    "date": "2026-09-02T12:40:50-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Dell Boosts Sales Outlook by $25 Billion",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-02/dell-boosts-sales-outlook-by-25-billion-video",
+    "summary": "Dell shares jumped after the company boosted its annual sales forecast by $25 billion in a further sign of surging demand for servers to run artificial intelligence tasks. \nRevenue in the fiscal year ending in January 2027 will be about $192 billion, including $74 billion from the sale of AI servers, the Texas-based company said Tuesday in a statement. That’s up from an outlook in May of about $167 billion and topped analysts’ average projection of $173.8 billion, according to data compiled by B",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T16:34:16+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "NYSE Used Anthropic’s Project Glasswing to Find Cyber Flaws",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/nyse-used-anthropic-s-project-glasswing-to-find-cyber-flaws",
+    "summary": "The New York Stock Exchange used Anthropic PBC’s Project Glasswing to find and fix vulnerabilities in its cyber security systems, its president, Lynn Martin, told Congress.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T16:34:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "How Microsoft Is Helping Napster Reinvent Itself",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-02/how-microsoft-is-helping-napster-reinvent-itself-video",
+    "summary": "John Acunto, Napster CEO, joins \"Bloomberg Tech\" to talk about how Microsoft is helping the company reinvent itself through the use of agentic AI. He says the company is going from streaming music to streaming intelligence.  (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T16:26:36+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from […]",
+    "source": "The Verge AI",
+    "date": "2026-09-02T12:12:25-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T16:04:10+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T16:01:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "source": "Wired",
+    "date": "2026-09-02T15:51:46+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Google is sending MrBeast into the wilderness, armed with AI",
+    "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+    "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew […]",
+    "source": "The Verge AI",
+    "date": "2026-09-02T11:47:03-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "summary": "Introducing Fairwind Program",
+    "source": "Google AI Blog",
+    "date": "2026-09-02T15:40:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Motional and MIT AI explains self-driving car decisions",
+    "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+    "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes CEO Laura Major, working alongside researchers from MIT’s Computer Science and Artificial Intelligence Laboratory. Their proposed method, […] The post Motional and MIT AI explains self-driving car decisions appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-09-02T15:25:12+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Astra mostra il lato pericoloso dell’AI: perché OpenAI limita il suo nuovo modello",
+    "url": "https://www.agendadigitale.eu/sicurezza/astra-mostra-il-lato-pericoloso-dellai-perche-openai-limita-il-suo-nuovo-modello/",
+    "summary": "Astra supera per la prima volta la soglia cyber più alta di OpenAI, ma i benchmark riflettono un accesso che i clienti non avranno; l'azienda rafforza le protezioni dopo l'incidente Hugging Face e impone nuovi limiti operativi L'articolo Astra mostra il lato pericoloso dell’AI: perché OpenAI limita il suo nuovo modello proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-02T15:20:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Rockefeller Capital's Fleming Sees AI Driving Economic Optimism",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-02/rockefeller-capital-s-fleming-sees-ai-driving-optimism-video",
+    "summary": "Rockefeller Capital Management President and CEO Greg Fleming says the broader economy has reasons for optimism, led by artificial intelligence. Speaking on \"Bloomberg Open Interest,\" Fleming also says he sees broad-based wealth creation in the US but expresses his concerns about the federal deficit. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T15:09:40+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T15:01:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T14:56:34+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal […]",
+    "source": "The Verge AI",
+    "date": "2026-09-02T10:35:03-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "NYC bans AI use for students until they reach high school",
+    "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a […]",
+    "source": "The Verge AI",
+    "date": "2026-09-02T10:30:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T14:03:57+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-09-02T13:49:14+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Nvidia’s Huang Urges G20 to Speed AI Adoption, Spur Growth",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-s-huang-urges-g20-to-speed-ai-adoption-as-key-to-growth",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang called on Group of 20 nations to accelerate their adoption of artificial intelligence as a way to enhance growth, urging the world’s largest economies to expand data centers and other infrastructure to support the emerging technology.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-02T13:04:26+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Chi costruisce la verità dei chatbot? Il problema delle fonti invisibili",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/chi-costruisce-la-verita-dei-chatbot-il-problema-delle-fonti-invisibili/",
+    "summary": "Un think tank collegato alla comunicazione del governo israeliano ha pubblicato contenuti pensati anche per essere intercettati dai sistemi AI. Il caso mostra come la battaglia per informare gli utenti si stia spostando dalle pagine web alle fonti usate dai chatbot per costruire le risposte L'articolo Chi costruisce la verità dei chatbot? Il problema delle fonti invisibili proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-02T12:36:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+    "source": "MIT Tech Review",
+    "date": "2026-09-02T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02T12:09:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
+    "title": "Chi possiede i dati governa l’AI: la battaglia tra Cina, Usa ed Europa",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/chi-possiede-i-dati-governa-lai-la-battaglia-tra-cina-usa-ed-europa/",
+    "summary": "La corsa all’intelligenza artificiale sposta il conflitto sui dati: Pechino costruisce un mercato nazionale, le piattaforme rafforzano il controllo delle informazioni e l’Europa cerca una risposta fondata su portabilità, intermediari e sussidiarietà digitale L'articolo Chi possiede i dati governa l’AI: la battaglia tra Cina, Usa ed Europa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-02T11:51:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-02"
+  },
+  {
     "title": "Governance dell’AI in azienda: come dimostrare che è tutto sotto controllo",
     "url": "https://www.agendadigitale.eu/industry-4-0/governance-dellai-in-azienda-come-dimostrare-che-e-tutto-sotto-controllo/",
     "summary": "L’adozione dell’intelligenza artificiale cresce più rapidamente della capacità delle organizzazioni di controllarla e dimostrarne la conformità. AI Act, audit trail, supervisione umana e matrici di controllo rendono centrale una governance continua, misurabile e verificabile dei sistemi AI L'articolo Governance dell’AI in azienda: come dimostrare che è tutto sotto controllo proviene da Agenda Digitale .",
@@ -1958,245 +2278,5 @@
     "category": "tools_products",
     "_slot": "afternoon",
     "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-    "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-    "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
-    "source": "Wired",
-    "date": "2026-08-26T17:13:37+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it […]",
-    "source": "The Verge AI",
-    "date": "2026-08-26T13:00:00-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "How GoDaddy transformed its analytics with Amazon Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
-    "summary": "In this post, you will learn how GoDaddy migrated from their legacy business intelligence (BI) tool to Amazon Quick. This was a two-year transformation that delivered results across every dimension of the business: 15,000 hours saved annually, 50% reduction in dashboard count, rendering times cut to under 5 seconds, and AI-powered self-service analytics now accessible to every employee.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-26T16:51:53+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
-    "summary": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven latency masking, and progressive-trust authentication behind 100% tool-calling accuracy and sub-7-second latency.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-26T16:36:35+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
-    "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
-    "summary": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5 LoRA fine-tune, showing how SourceCode syncs your local code into any container at runtime so you can iterate without rebuilding Docker images.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-26T16:31:32+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
-    "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
-    "summary": "The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting high-value data subsets, augmenting data with synthetic and distilled examples, and mixing data sources to prevent catastrophic forgetting.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-26T16:24:05+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
-    "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
-    "summary": "Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: quality checks, conversational (JSONL) formatting, reasoning and tool-calling schemas, and a representative train/evaluation split.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-26T16:24:02+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-27"
-  },
-  {
-    "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
-    "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
-    "summary": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers the architecture, security boundary, and two orchestration models: a code-based Strands agent and a declarative AgentCore harness.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-26T15:48:10+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T15:47:28+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T15:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T14:37:01+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As ",
-    "source": "VentureBeat AI",
-    "date": "2026-08-26T14:30:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T14:19:29+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Robot brain builders are pushing out of their GPT-2 era",
-    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "summary": "Robot bodies are waiting for their AI brains to catch up.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T13:30:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Getting Harder for Nvidia to Compete, Says Seaport’s Goldberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-26/getting-harder-for-nvidia-to-compete-seaport-s-goldberg-video",
-    "summary": "Jay Goldberg, senior analyst at Seaport, says, “there’s a lot more that can go wrong here than go right,” as he previews earnings from Nvidia. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-26T13:23:56+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "QueryStory wants you to believe what AI is telling you",
-    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Arga Labs is building a better way to train enterprise AI agents",
-    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T12:55:28+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model",
-    "summary": "Alibaba Group Holding Ltd. released the latest model under its popular Qwen series, a lower-priced platform aimed at driving adoption of its marquee AI offering globally.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-26T12:35:50+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Gates Criticizes Tech Companies for Downplaying AI’s Risks",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/bill-gates-criticizes-tech-companies-for-downplaying-ai-s-risks",
-    "summary": "Bill Gates says tech companies are minimizing the perils artificial intelligence poses to humanity.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-26T12:29:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
-    "source": "MIT Tech Review",
-    "date": "2026-08-26T12:10:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "New Platform Peers Inside AI’s Black Box",
-    "url": "https://spectrum.ieee.org/silico-ai-interpretability",
-    "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model (LLM) with a question like “What is the best film ever made?” and the response will vary, and you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer. This mysterious behavior can be useful in some situations. But—as a recent incident where OpenAI could not explain why its advanced pre-release model hacked AI company Hugging Face highlighted—it can have nega",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-08-26T12:00:01+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-    "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking […]",
-    "source": "The Verge AI",
-    "date": "2026-08-26T07:07:40-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
-  },
-  {
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26T11:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-26"
   }
 ]
