@@ -1,5 +1,185 @@
 [
   {
+    "title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+    "summary": "Hon Hai Precision Industry Co. reported a 52% rise in monthly sales, lifted by demand for servers in a global race to build data centers and AI computational capacity.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-05T07:45:26+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
+    "url": "https://www.youtube.com/watch?v=rxOUmSJTQBk&t=2978s",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-09-05T06:01:57+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04T23:36:14+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04T23:15:11+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "source": "Ars Technica",
+    "date": "2026-09-04T22:17:36+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+    "summary": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.",
+    "source": "AWS ML Blog",
+    "date": "2026-09-04T21:45:52+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Jay Chaudhry Says AI Is Driving More Demand for Cybersecurity at Zscaler",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-04/jay-chaudhry-says-ai-is-driving-demand-for-cybersecurity-video",
+    "summary": "Zscaler CEO Jay Chaudhry said AI is creating a major tailwind for the cybersecurity industry rather than reducing the need for software security. He argued that CEOs, CIOs, and boards want to use AI for productivity and cost savings, but are worried that new AI models could create vulnerabilities, lead to breaches, or cause applications to be hacked or hijacked. He speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T21:30:46+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04T21:12:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "GPT-6 Astra is Available on OpenRouter!",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-04T19:19:41+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Anthropic has formalised FLT!!",
+    "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-04T19:07:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "What Is AGI? OpenAI, Anthropic Race for Artificial General Intelligence",
+    "url": "https://www.bloomberg.com/news/features/2026-09-04/what-is-agi-openai-anthropic-race-for-artificial-general-intelligence",
+    "summary": "AI companies are in a race to create artificial general intelligence, seeing it as the catalyst for an “intelligence explosion” that reshapes the economy and society. If only they could agree on what AGI would actually look like, and how it might be achieved",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T18:55:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+    "source": "MIT Tech Review",
+    "date": "2026-09-04T18:39:19+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Anthropic Builds Its War Chest Ahead of IPO | Bloomberg Tech 9/04/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-04/bloomberg-tech-9-04-2026-video",
+    "summary": "Bloomberg’s Lisa Mateo takes a look at Anthropic as it finalizes an expansion of its revolving credit facility to $15 billion before its anticipated public filing. Plus, a look at the latest US jobs report showing the IT sector shed 23,000 jobs in August; and Apple is kicking off the John Ternus era with what could be the biggest run of new devices in its history. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T18:11:31+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI Rolls Out Its Most Advanced Model Yet",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-04/openai-rolls-out-its-most-advanced-model-yet-video",
+    "summary": "OpenAI is rolling out its most advanced model yet, with GPT-6 Astra being positioned as a major step toward AGI - but its powerful cybersecurity capabilities are also forcing OpenAI to put new guardrails in place. Bloomberg's Seth Fiegerman joins Bloomberg’s Lisa Mateo on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T18:08:47+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "How AI Is Eroding the First Rung of the Tech Job Ladder",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-04/how-ai-is-eroding-the-first-rung-of-the-tech-job-ladder-video",
+    "summary": "The US information sector shed roughly 23,000 jobs in August, offering another potential signal of how AI is reshaping the labor market. Northeastern University Professor Alicia Modestino discusses why tech may be the “canary in the coal mine,” with her research showing a decline in junior versus senior software developer vacancies since ChatGPT’s release. She also discusses why employers are demanding more experience, judgment and human-centric skills from entry-level workers. She joins Bloombe",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T18:07:36+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Anthropic’s $15 Billion Credit Line Sets Stage for IPO",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-04/anthropic-s-15-billion-credit-line-sets-stage-for-ipo-video",
+    "summary": "Anthropic’s anticipated IPO could kick off a busy fall for tech listings after SpaceX dominated the market this summer. Rainmaker Securities co-founder and Managing Director Greg Martin discusses why Anthropic’s planned $15 billion revolving credit facility strengthens its position ahead of a potential offering. He also shares how its rapid growth could support a valuation above SpaceX’s at IPO and why a successful debut could “open the floodgates” for companies including Oura, neoclouds and oth",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T18:05:38+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]",
+    "source": "The Verge AI",
+    "date": "2026-09-04T13:51:35-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
+    "title": "AI Cloud Firm Nscale Seeks $3.5 Billion in Pre-IPO Financing",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing",
+    "summary": "Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-04T17:41:48+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-05"
+  },
+  {
     "title": "Designing lifecycle policies for AgentCore memory",
     "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
     "summary": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK stack.",
@@ -2488,105 +2668,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "How to Run a Chatbot on Your Own Computer",
-    "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-    "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-    "source": "Wired",
-    "date": "2026-08-29T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "Psilocybin Might Make Your Brain Live in the Moment",
-    "url": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
-    "summary": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
-    "source": "Wired",
-    "date": "2026-08-29T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
-    "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent’s acquisition by SpaceX, according to a post on X.",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-29T02:16:53+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
-    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
-    "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
-    "source": "Wired",
-    "date": "2026-08-28T22:29:13+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "Cisco President Patel Makes the Case for AI in the Classroom",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
-    "summary": "Cisco President and Chief Product Officer Jeetu Patel explains how artificial intelligence will benefit the education system on \"Bloomberg The Close.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-28T21:05:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-28T20:24:11+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "Batch write and discover records in Amazon SageMaker Feature Store",
-    "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-    "summary": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started.",
-    "source": "AWS ML Blog",
-    "date": "2026-08-28T19:31:05+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-28T19:30:38+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-08-29"
-  },
-  {
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "summary": "There's a lot of capital pouring into the business of giving models away.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-28T18:19:40+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-28"
-  },
-  {
-    "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
-    "summary": "Bloomberg’s Tim Stenovec zeroes in on Jackson Hole after Federal Reserve Chairman Kevin Warsh delivered his first address at the Symposium. Plus, a US judge rules that the Trump administration must lift its ban on Anthropic's AI tech for federal agencies. And, a consortium of Advent and Stripe decided to abandon its pursuit of PayPal, a deal that would have ranked as one of the biggest-ever leveraged buyouts. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-08-28T17:52:43+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-28"
   }
 ]
