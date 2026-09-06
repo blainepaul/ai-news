@@ -1,5 +1,25 @@
 [
   {
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-09-06T16:45:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-06"
+  },
+  {
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "source": "OpenAI Blog",
+    "date": "2026-09-06T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-06"
+  },
+  {
     "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
     "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
     "summary": "",
@@ -2698,45 +2718,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-08-31"
-  },
-  {
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-30T16:54:25+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-31"
-  },
-  {
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, […]",
-    "source": "The Verge AI",
-    "date": "2026-08-30T11:35:10-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-31"
-  },
-  {
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-    "source": "TechCrunch AI",
-    "date": "2026-08-30T15:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-31"
-  },
-  {
-    "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "url": "https://arxiv.org/abs/2608.23691",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-08-30T11:55:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-08-30"
   }
 ]
